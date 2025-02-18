@@ -1,13 +1,29 @@
 import React from 'react';
 import DefaultAdmonitionTypes from '@theme-original/Admonition/Types';
 import Admonition from '@theme/Admonition';
-import Starfinder from '@site/static/img/Desna.svg';
-import Language from '@site/static/img/language.svg';
-import Progress from '@site/static/img/progress.svg';
+import { IoLanguageOutline } from "react-icons/io5";
+import { TbProgressCheck } from "react-icons/tb";
+import { PiButterflyBold } from "react-icons/pi";
+import { FaPencilAlt } from "react-icons/fa";
 
 function StarfinderAdomonition(props) {
 	return (
-		<Admonition icon={<Starfinder />} {...props} type="note" className="starfinder" />
+		<Admonition icon={<PiButterflyBold />} {...props} type="note" className="starfinder" title={props.title || null} />
+	);
+}
+function OriginAdmonition(props) {
+	return (
+		<Admonition icon={<IoLanguageOutline />} {...props} type="note" />
+	);
+}
+function VanillaAdomonition(props) {
+	return (
+		<Admonition icon={null} {...props} type="note" title={null} />
+	);
+}
+function PencilAdomonition(props) {
+	return (
+		<Admonition icon={<FaPencilAlt />} {...props} type="note" />
 	);
 }
 function TableAdmonition(props) {
@@ -15,21 +31,18 @@ function TableAdmonition(props) {
 		<Admonition icon="" {...props} type="note" />
 	);
 }
-function OriginAdmonition(props) {
-	return (
-		<Admonition icon={<Language />} {...props} type="note" />
-	);
-}
 function ProgressAdmonition(props) {
 	return (
-		<Admonition icon={<Progress />} {...props} type="warning" />
+		<Admonition icon={<TbProgressCheck />} {...props} type="warning" />
 	);
 }
 const AdmonitionTypes = {
 	...DefaultAdmonitionTypes,
 	'starfinder': StarfinderAdomonition,
-	'table': TableAdmonition,
 	'origin': OriginAdmonition,
+	'vanilla': VanillaAdomonition,
+	'pencil': PencilAdomonition,
+	'table': TableAdmonition,
 	'progress': ProgressAdmonition
 };
 
