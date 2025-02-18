@@ -95,7 +95,7 @@
 }
 
 .starfinder {
-	--ifm-alert-background-color: rgb(238, 221, 253);
+	--ifm-alert-background-color: rgb(245, 240, 255);
 	--ifm-alert-background-color-highlight: rgba(138, 92, 224, 0.15);
 	--ifm-alert-foreground-color: rgb(49, 22, 63);
 	--ifm-alert-border-color: rgb(128, 45, 162);
