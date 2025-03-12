@@ -66,7 +66,20 @@ const config = {
 				id: 'core_rulebook',
 				path: 'core_rulebook',
 				routeBasePath: 'core_rulebook',
-				sidebarPath: require.resolve('./sidebars/sidebar_core_rulebook.js'),
+				sidebarPath: require.resolve('./sidebars/sidebar_auto.js'),
+				admonitions: {
+					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'starfinder', 'origin', 'vanilla', 'pencil', 'table', 'progress'],
+					extendDefaults: true
+				}
+			}
+		],
+		[
+			'@docusaurus/plugin-content-docs',
+			{
+				id: 'themes',
+				path: 'themes',
+				routeBasePath: 'themes',
+				sidebarPath: require.resolve('./sidebars/sidebar_auto.js'),
 				admonitions: {
 					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'starfinder', 'origin', 'vanilla', 'pencil', 'table', 'progress'],
 					extendDefaults: true
@@ -93,6 +106,13 @@ const config = {
 						label: '核心规则',
 						position: 'left',
 						docsPluginId: 'core_rulebook'
+					},
+					{
+						type: 'docSidebar',
+						sidebarId: 'themes',
+						label: '主题',
+						position: 'left',
+						docsPluginId: 'themes'
 					}
 					// {
 					// 	label: '法术速查',

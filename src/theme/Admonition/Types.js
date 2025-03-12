@@ -18,7 +18,7 @@ function OriginAdmonition(props) {
 }
 function VanillaAdomonition(props) {
 	return (
-		<Admonition icon={null} {...props} type="note" title={null} />
+		<Admonition icon={null} {...props} type="note" title={props.title || null} />
 	);
 }
 function PencilAdomonition(props) {
