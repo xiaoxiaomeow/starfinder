@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpathfinder=self.webpackChunkpathfinder||[]).push([[630],{8151:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"core_rulebook"}')}}]);
