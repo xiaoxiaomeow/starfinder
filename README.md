@@ -28,6 +28,10 @@ npm install
 npm install jquery
 ```
 
+```
+npm install react-icons --save
+```
+
 ### Test
 
 ```
