@@ -98,6 +98,19 @@ const config = {
 					extendDefaults: true
 				}
 			}
+		],
+		[
+			'@docusaurus/plugin-content-docs',
+			{
+				id: 'classes',
+				path: 'classes',
+				routeBasePath: 'classes',
+				sidebarPath: require.resolve('./sidebars/sidebar_auto.js'),
+				admonitions: {
+					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'starfinder', 'origin', 'vanilla', 'pencil', 'table', 'progress'],
+					extendDefaults: true
+				}
+			}
 		]
 	],
 
@@ -133,17 +146,14 @@ const config = {
 						label: '种族',
 						position: 'left',
 						docsPluginId: 'races'
+					},
+					{
+						type: 'docSidebar',
+						sidebarId: 'classes',
+						label: '职业',
+						position: 'left',
+						docsPluginId: 'classes'
 					}
-					// {
-					// 	label: '法术速查',
-					// 	position: 'left',
-					// 	href: '/spells'
-					// },
-					// {
-					// 	label: '专长速查',
-					// 	position: 'left',
-					// 	href: '/feats'
-					// }
 				]
 			},
 			footer: {
