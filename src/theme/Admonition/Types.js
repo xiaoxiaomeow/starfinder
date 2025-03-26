@@ -28,7 +28,7 @@ function PencilAdomonition(props) {
 }
 function TableAdmonition(props) {
 	return (
-		<Admonition icon="" {...props} type="note" />
+		<Admonition icon="" {...props} type="note" title={props.title || null} />
 	);
 }
 function ProgressAdmonition(props) {
