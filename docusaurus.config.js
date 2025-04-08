@@ -111,6 +111,19 @@ const config = {
 					extendDefaults: true
 				}
 			}
+		],
+		[
+			'@docusaurus/plugin-content-docs',
+			{
+				id: 'skills',
+				path: 'skills',
+				routeBasePath: 'skills',
+				sidebarPath: require.resolve('./sidebars/sidebar_auto.js'),
+				admonitions: {
+					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'starfinder', 'origin', 'vanilla', 'pencil', 'table', 'progress'],
+					extendDefaults: true
+				}
+			}
 		]
 	],
 
@@ -153,6 +166,13 @@ const config = {
 						label: '职业',
 						position: 'left',
 						docsPluginId: 'classes'
+					},
+					{
+						type: 'docSidebar',
+						sidebarId: 'skills',
+						label: '技能',
+						position: 'left',
+						docsPluginId: 'skills'
 					}
 				]
 			},
