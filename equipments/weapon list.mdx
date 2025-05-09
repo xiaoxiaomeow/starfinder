@@ -1,0 +1,33 @@
+---
+sidebar_position: 1
+---
+
+# 武器
+
+import SearchTable from '@site/src/components/SearchTable.js';
+
+<SearchTable 
+	context = {require.context("../src/data/equipments/weapons", false, /\.json$/)} 
+	columns = {
+		[
+			{ key : "name_zh", name : "武器" },
+			{ key : "type", name : "类别", translator : {
+				"Basic Melee": "基础近战武器"
+			}},
+			{ key : "category", name : "范畴", translator : {
+			}},
+			{ key : "hand", name : "占用手", translator : {
+				"One-Handed": "单手武器",
+				"Two-Handed": "双手武器",
+			}},
+			{ key : "level", name : "等级" },
+			{ key : "price", name : "价格" },
+			{ key : "bulk", name : "负载" },
+			{ key : "damage", name : "伤害" },
+			{ key : "damageType", name : "伤害类型" },
+			{ key : "critical", name : "重击" },
+			{ key : "special", name : "特殊" , translator : {
+				"archaic" : "原始"
+			}}
+		]
+	}/>

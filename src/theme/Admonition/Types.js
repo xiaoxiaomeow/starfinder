@@ -6,7 +6,7 @@ import { TbProgressCheck } from "react-icons/tb";
 import { PiButterflyBold } from "react-icons/pi";
 import { FaPencilAlt } from "react-icons/fa";
 
-function StarfinderAdomonition(props) {
+function StarfinderAdmonition(props) {
 	return (
 		<Admonition icon={<PiButterflyBold />} {...props} type="note" className="starfinder" title={props.title || null} />
 	);
@@ -16,12 +16,12 @@ function OriginAdmonition(props) {
 		<Admonition icon={<IoLanguageOutline />} {...props} type="note" />
 	);
 }
-function VanillaAdomonition(props) {
+function VanillaAdmonition(props) {
 	return (
 		<Admonition icon={null} {...props} type="note" title={props.title || null} />
 	);
 }
-function PencilAdomonition(props) {
+function PencilAdmonition(props) {
 	return (
 		<Admonition icon={<FaPencilAlt />} {...props} type="note" />
 	);
@@ -38,10 +38,10 @@ function ProgressAdmonition(props) {
 }
 const AdmonitionTypes = {
 	...DefaultAdmonitionTypes,
-	'starfinder': StarfinderAdomonition,
+	'starfinder': StarfinderAdmonition,
 	'origin': OriginAdmonition,
-	'vanilla': VanillaAdomonition,
-	'pencil': PencilAdomonition,
+	'vanilla': VanillaAdmonition,
+	'pencil': PencilAdmonition,
 	'table': TableAdmonition,
 	'progress': ProgressAdmonition
 };

@@ -100,3 +100,7 @@
 	--ifm-alert-foreground-color: rgb(49, 22, 63);
 	--ifm-alert-border-color: rgb(128, 45, 162);
 }
+
+td {
+	text-align: center;
+}
