@@ -1,0 +1,23 @@
+{
+	"key": "Semi-Auto Pistol, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Semi-Auto Pistol",
+	"family": "Semi-Auto Pistol",
+	"name_en": "Semi-Auto Pistol, Elite",
+	"description_en": "The semiautomatic mechanism of this pistol discharges spent cartridges and reloads fresh ones in the barrel, provided a cartridge remains in the magazine.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "13",
+	"price": "45,200",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Projectile",
+	"damage": "4d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog"
+	],
+	"capacity": "16 rounds"
+}

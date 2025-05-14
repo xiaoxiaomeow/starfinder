@@ -1,0 +1,27 @@
+{
+	"key": "Nematocyst Spear, Dueling",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dueling &Family=Nematocyst Spear",
+	"family": "Nematocyst Spear",
+	"name_en": "Nematocyst Spear, Dueling",
+	"description_en": "These traditional spears are fashioned from the tentacles of scyphozoans who died honorably in combat. Some modern versions of the spear are grown in laboratories rather than harvested from the dead.",
+	"source": "Interstellar Species pg. 119",
+	"level": "20",
+	"price": "850,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "15d8",
+	"damageType": [
+		"A",
+		"P"
+	],
+	"critical": "Staggered",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"injection",
+		"reach",
+		"underwater"
+	],
+	"capacity": ""
+}

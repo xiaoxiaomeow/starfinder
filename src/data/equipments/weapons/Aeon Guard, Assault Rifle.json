@@ -1,0 +1,23 @@
+{
+	"key": "Aeon Guard, Assault Rifle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Assault Rifle&Family=Aeon Guard",
+	"family": "Aeon Guard",
+	"name_en": "Aeon Guard, Assault Rifle",
+	"description_en": "The AG series of longarms is manufactured by government-held factories for the sole use of the Aeon Guard. Its ingenious designers are held via lifelong “contracts” as pampered but neurally locked prisoners of the throne. The AG assault rifle is a selective-fire rifle that is standard issue for rank-and-file troops. Other weapons in the series include the AG accelerator rifle, which uses magnetic fields to propel metal projectiles like a magnetar rifle does, and the rocket propelled–projectile rifle (RPPR, or “Ripper,” as it’s known in the ranks of the Aeon Guard), which fires mini-rockets like those used in gyrojet rifles. Pact Worlds intelligence believes that some AG weapons can also be equipped with",
+	"source": "Alien Archive pg. 7",
+	"level": "10",
+	"price": "21,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "2d12",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "2",
+	"special": [
+		"—"
+	],
+	"capacity": "12 mini-rockets"
+}

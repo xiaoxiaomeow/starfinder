@@ -1,0 +1,25 @@
+{
+	"key": "Gnome Ripsaw, Flicker",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Flicker&Family=Gnome Ripsaw",
+	"family": "Gnome Ripsaw",
+	"name_en": "Gnome Ripsaw, Flicker",
+	"description_en": "At first glance, this staff seems to be nothing more than a sleek walking stick. Once powered, it transforms into a two-handed blade of terror with peaks of electricity that function like the teeth of a chainsaw. When a wielder scores a critical hit with a gnome ripsaw, it surges out, hitting creatures surrounding the target with a pulsing blast.",
+	"source": "Starfinder #50: Clockwork Demons pg. 51",
+	"level": "15",
+	"price": "105,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "7d6",
+	"damageType": [
+		"E",
+		"P"
+	],
+	"critical": "Pulse 2d6",
+	"bulk": "1",
+	"special": [
+		"Powered (capacity 80",
+		"use 2)"
+	],
+	"capacity": ""
+}

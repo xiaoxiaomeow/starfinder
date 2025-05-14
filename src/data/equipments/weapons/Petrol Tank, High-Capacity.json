@@ -1,0 +1,21 @@
+{
+	"key": "Petrol Tank, High-Capacity",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=High-Capacity&Family=Petrol Tank",
+	"family": "Petrol Tank",
+	"name_en": "Petrol Tank, High-Capacity",
+	"description_en": "Petrol is a highly flammable blend of hydrocarbons that is used in flame weapons (and petrol is occasionally used by desperate adventurers as fuel or for other various utilitarian purposes). A petrol tank snaps easily into the housing of weapons that are specifically petrol-powered.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "1",
+	"price": "60",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"—"
+	],
+	"capacity": "20"
+}

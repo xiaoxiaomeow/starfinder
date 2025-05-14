@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Doshko, White Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=White Star&Family=Plasma Doshko",
+	"family": "Plasma Doshko",
+	"name_en": "Plasma Doshko, White Star",
+	"description_en": "The plasma versions of these traditional vesk weapons use the same popular naming convention as other plasma weapons.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "18",
+	"price": "364,100",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "7d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "severe wound",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 2)"
+	],
+	"capacity": ""
+}

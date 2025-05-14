@@ -1,0 +1,25 @@
+{
+	"key": "Apocalypse Bow, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Apocalypse Bow",
+	"family": "Apocalypse Bow",
+	"name_en": "Apocalypse Bow, Tactical",
+	"description_en": "Magically resonant crystals sometimes develop in regions ravaged by supernatural cataclysms. When carefully heated and incorporated into a bow’s construction, these crystals impart destructive force to the weapon’s arrows, creating an apocalypse bow.",
+	"source": "Galactic Magic pg. 33",
+	"level": "17",
+	"price": "363,000",
+	"hands": "2",
+	"proficiency": "Special",
+	"category": "",
+	"damage": "7d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "corrode (3d6)",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"force",
+		"quick reload"
+	],
+	"capacity": "drawn"
+}

@@ -1,0 +1,25 @@
+{
+	"key": "Digitizer Rifle, Holofoil",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Holofoil &Family=Digitizer Rifle",
+	"family": "Digitizer Rifle",
+	"name_en": "Digitizer Rifle, Holofoil",
+	"description_en": "These usually gaudy weapons likely manifested within some virtual reality or were created by cultures locked in digital simulations. Digitizer weapons use standard batteries and insistently announce (sometimes in long-forgotten languages) that they require more ammunition whenever the battery is reduced below 20% its total capacity.",
+	"source": "Tech Revolution pg. 65",
+	"level": "14",
+	"price": "65,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "5d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "digitize 2d8",
+	"bulk": "1",
+	"special": [
+		"Bright",
+		"professional (vidgamer)",
+		"relic"
+	],
+	"capacity": "80 charges "
+}

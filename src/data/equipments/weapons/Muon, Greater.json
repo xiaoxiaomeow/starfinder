@@ -1,0 +1,21 @@
+{
+	"key": "Muon, Greater",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Greater&Family=Muon",
+	"family": "Muon",
+	"name_en": "Muon, Greater",
+	"description_en": "",
+	"source": "Starfinder Armory pg. 49",
+	"level": "16",
+	"price": "166,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+6d4 ",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "—",
+	"special": [
+		"penetrating"
+	],
+	"capacity": ""
+}

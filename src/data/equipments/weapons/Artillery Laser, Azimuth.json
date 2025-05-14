@@ -1,0 +1,23 @@
+{
+	"key": "Artillery Laser, Azimuth",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Azimuth&Family=Artillery Laser",
+	"family": "Artillery Laser",
+	"name_en": "Artillery Laser, Azimuth",
+	"description_en": "Artillery lasers are heavy weapons designed to be effective against hardened targets such as vehicles and enemy bunkers.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "20",
+	"price": "722,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Laser",
+	"damage": "9d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 5d6",
+	"bulk": "3",
+	"special": [
+		"penetrating"
+	],
+	"capacity": "100 charges"
+}

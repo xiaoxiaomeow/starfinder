@@ -1,0 +1,25 @@
+{
+	"key": "Stormcaller, Sheet",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sheet&Family=Stormcaller",
+	"family": "Stormcaller",
+	"name_en": "Stormcaller, Sheet",
+	"description_en": "Some barathu researchers who intensively study the titanic lightning storms found on their home world become obsessed with the phenomenon. The efforts of such scientists led to the creation of the stormcaller, a living weapon that generates a line of electricity originating not from the wielder but from a single point within the weapon’s relatively short range. Like most barathu creations, stormcallers are living creatures, and their massive shells are large enough to require two hands to wield, aided by the stormcaller wrapping its translucent tentacles around the user’s appendages. Sheet and ribbon stormcallers are powerful weapons in their own right, while rocket and smooth-channel stormcallers can summon electrical currents that live up to the weapons’ namesake.",
+	"source": "Starfinder Armory pg. 48",
+	"level": "18",
+	"price": "440,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "8d8",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"flexible line",
+		"living",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Bolter, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Plasma Bolter",
+	"family": "Plasma Bolter",
+	"name_en": "Plasma Bolter, Elite",
+	"description_en": "One of the most common ranged weapons used by the vesk military during the war between the Pact Worlds and the Veskarium, the plasma bolter is a particularly hefty longarm with a bulky profile that speaks to its vesk origins. Unlike most common ranged plasma weapons, which lay out long lines of plasma or boost their output, plasma bolters focus on delivering a single heavy bolt of plasma. These weapons saw extensive use in fighting back the Swarm, and now many can be easily obtained on the open market as Pact Worlds manufacturers have begun offering their own tactical, advanced, elite, and paragon models of the classic weapon.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "16",
+	"price": "170,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Plasma",
+	"damage": "9d8",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "wound",
+	"bulk": "2",
+	"special": [
+		"unwieldy"
+	],
+	"capacity": "80 charges"
+}

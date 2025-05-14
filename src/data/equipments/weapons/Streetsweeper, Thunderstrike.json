@@ -1,0 +1,23 @@
+{
+	"key": "Streetsweeper, Thunderstrike",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thunderstrike&Family=Streetsweeper",
+	"family": "Streetsweeper",
+	"name_en": "Streetsweeper, Thunderstrike",
+	"description_en": "Streetsweepers are sonic weapons designed to deliver a low-intensity “punch” of sound. A streetsweeper can be overcharged to deliver a significant sonic blast that can knock down its target.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "16",
+	"price": "195,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Sonic",
+	"damage": "5d10",
+	"damageType": [
+		"So"
+	],
+	"critical": "knockdown",
+	"bulk": "2",
+	"special": [
+		"boost 1d10"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,25 @@
+{
+	"key": "Sap, Heavy",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Heavy&Family=Sap",
+	"family": "Sap",
+	"name_en": "Sap, Heavy",
+	"description_en": "A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with a heavily weighted end. Archaeological digs have verified that almost every society develops an analog to the sap. Modern versions are constructed from high-tech fiber and dense alloys. Although sap models are referred to as light, medium, and heavy by users, it’s the rare materials used in various models, and not their actual weight, that make them progressively better at bludgeoning victims into unconsciousness.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "6",
+	"price": "3,900",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "1d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"nonlethal",
+		"operative"
+	],
+	"capacity": ""
+}

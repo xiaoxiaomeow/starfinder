@@ -14,7 +14,7 @@ relaunch terminal
 fnm env
 ```
 
-do as `fnm env` asked, then relaunch terminal
+copy the output of `fnm env` into the terminal, run them, then relaunch terminal
 
 ```
 fnm use --install-if-missing 20

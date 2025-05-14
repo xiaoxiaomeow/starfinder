@@ -1,0 +1,21 @@
+{
+	"key": "Mini-Rockets",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mini-Rockets&Family=None",
+	"family": "None",
+	"name_en": "Mini-Rockets",
+	"description_en": "These long, tapered shells hold combustible material as well as a chemical propellant.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "4",
+	"price": "300",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "10"
+}

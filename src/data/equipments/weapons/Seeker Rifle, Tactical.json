@@ -1,0 +1,23 @@
+{
+	"key": "Seeker Rifle, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Seeker Rifle",
+	"family": "Seeker Rifle",
+	"name_en": "Seeker Rifle, Tactical",
+	"description_en": "Seeker rifles are single-shot projectile weapons. The line gained its name from korasha lashunta explorers, who favor the rifle for its reliability in hostile terrain.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "20",
+	"price": "809,200",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "12d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": "24 rounds"
+}

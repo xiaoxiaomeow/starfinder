@@ -104,3 +104,7 @@
 td {
 	text-align: center;
 }
+
+.docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
+  max-width: 100% !important;
+}

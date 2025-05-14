@@ -1,0 +1,22 @@
+{
+	"key": "Web Grenade, Mk 2",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 2&Family=Web Grenade",
+	"family": "Web Grenade",
+	"name_en": "Web Grenade, Mk 2",
+	"description_en": "Developed using samples of haans’ biological webbing, a web grenade explodes to cover the area in sticky strands of hightensile fibers, making the affected area difficult terrain.",
+	"source": "Starfinder Armory pg. 40",
+	"level": "19",
+	"price": "163,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (25 ft.)",
+		"mire 1 minute"
+	],
+	"capacity": "drawn"
+}

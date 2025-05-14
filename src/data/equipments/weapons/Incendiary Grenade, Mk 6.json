@@ -1,0 +1,23 @@
+{
+	"key": "Incendiary Grenade, Mk 6",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 6&Family=Incendiary Grenade",
+	"family": "Incendiary Grenade",
+	"name_en": "Incendiary Grenade, Mk 6",
+	"description_en": "Incendiary grenades detonate in a spray of superheated plasma.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "16",
+	"price": "20,200",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "10d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (10d6 F burning 5d6; 15 ft.)"
+	],
+	"capacity": "drawn"
+}

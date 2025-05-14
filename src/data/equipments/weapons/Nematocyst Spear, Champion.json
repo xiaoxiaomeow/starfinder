@@ -1,0 +1,27 @@
+{
+	"key": "Nematocyst Spear, Champion",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Champion &Family=Nematocyst Spear",
+	"family": "Nematocyst Spear",
+	"name_en": "Nematocyst Spear, Champion",
+	"description_en": "These traditional spears are fashioned from the tentacles of scyphozoans who died honorably in combat. Some modern versions of the spear are grown in laboratories rather than harvested from the dead.",
+	"source": "Interstellar Species pg. 119",
+	"level": "17",
+	"price": "260,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "10d8",
+	"damageType": [
+		"A",
+		"P"
+	],
+	"critical": "Staggered",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"injection",
+		"reach",
+		"underwater"
+	],
+	"capacity": ""
+}

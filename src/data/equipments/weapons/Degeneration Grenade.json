@@ -1,0 +1,24 @@
+{
+	"key": "Degeneration Grenade",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Degeneration Grenade&Family=None",
+	"family": "None",
+	"name_en": "Degeneration Grenade",
+	"description_en": "Degeneration grenades were standard equipment among sivv soldiers. They create a powerful degeneration wave that affects creatures and objects at the subatomic level. Creatures caught in the explosion of a degeneration grenade must attempt a Fortitude saving throw as their cells begin to collapse; on a failure, the creature takes 5d6 fire damage at the beginning of each of their turns and is fatigued. At the end of each of their turns, the creature can attempt a new Fortitude save to end this effect with a cumulative +1 bonus.",
+	"source": "Starfinder #33: Dominion’s End pg. 49",
+	"level": "17",
+	"price": "40,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (11d6 A & So",
+		"degeneration 5d6",
+		"20 ft.)",
+		"hybrid"
+	],
+	"capacity": "Drawn"
+}

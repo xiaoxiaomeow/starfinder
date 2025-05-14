@@ -1,0 +1,26 @@
+{
+	"key": "Fractal Hook, Dynamic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dynamic&Family=Fractal Hook",
+	"family": "Fractal Hook",
+	"name_en": "Fractal Hook, Dynamic",
+	"description_en": "These graceful weapons have an infinitely repeating shape that grows smaller and smaller at its edges. This constant reshaping creates a sawing effect, enabling the blades to cut through nearly any substance.",
+	"source": "Tech Revolution pg. 65",
+	"level": "12",
+	"price": "32,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "4d12",
+	"damageType": [
+		"S"
+	],
+	"critical": "Embed 4d4",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"relic",
+		"penetrating",
+		"unwieldy"
+	],
+	"capacity": ""
+}

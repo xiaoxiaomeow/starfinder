@@ -1,0 +1,26 @@
+{
+	"key": "Shobhad Horizon Striker, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Shobhad Horizon Striker",
+	"family": "Shobhad Horizon Striker",
+	"name_en": "Shobhad Horizon Striker, Tactical",
+	"description_en": "Refined from traditional shobhad designs stretching back to long before the Gap, a horizon striker has remarkable range.",
+	"source": "Pact Worlds pg. 194",
+	"level": "16",
+	"price": "185,000",
+	"hands": "2",
+	"proficiency": "Sniper",
+	"category": "Projectile",
+	"damage": "8d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"sniper (1",
+		"500 ft.)",
+		"unwieldy"
+	],
+	"capacity": "2 rounds"
+}

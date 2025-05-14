@@ -1,0 +1,29 @@
+{
+	"key": "Terminal Doshko, Moment",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Moment&Family=Terminal Doshko",
+	"family": "Terminal Doshko",
+	"name_en": "Terminal Doshko, Moment",
+	"description_en": "A terminal doshko is the largest and deadliest of the common codework weapons. The large metal shaft houses an easy access control panel for the wielder to adjust the blade mid-combat without needing a free hand. By default, the bright blue force projection resembles a traditional doshko, but many organizations recode their weapons to match their faction. Orders of Hellknights are known to reprogram the shape to mimic their order’s signature weapon, such as a flail for Order of the Chain or a glaive for Order of the Furnace, while the corpse fleet military brandishes vicious scythes instead.",
+	"source": "Starfinder #50: Clockwork Demons pg. 53",
+	"level": "20",
+	"price": "820,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "7d12",
+	"damageType": [
+		"S|p"
+	],
+	"critical": "Wound",
+	"bulk": "1",
+	"special": [
+		"Boost 3d12",
+		"breakdown",
+		"codework (capacity 40",
+		"usage 8)",
+		"reach",
+		"modal",
+		"unwieldy"
+	],
+	"capacity": ""
+}

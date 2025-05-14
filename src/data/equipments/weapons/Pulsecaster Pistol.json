@@ -1,0 +1,23 @@
+{
+	"key": "Pulsecaster Pistol",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Pulsecaster Pistol&Family=None",
+	"family": "None",
+	"name_en": "Pulsecaster Pistol",
+	"description_en": "A smaller version of an arc pistol, the pulsecaster sends a lowenergy blast at its target. This blast stuns the target without dealing serious damage.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "1",
+	"price": "250",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Shock",
+	"damage": "1d4",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"nonlethal"
+	],
+	"capacity": "20 charges"
+}

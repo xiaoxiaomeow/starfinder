@@ -1,0 +1,21 @@
+{
+	"key": "Thasphalt canister",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thasphalt canister &Family=None",
+	"family": "None",
+	"name_en": "Thasphalt canister",
+	"description_en": "",
+	"source": "Drift Crisis pg. 51",
+	"level": "1",
+	"price": "75",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "20 thasphalt"
+}

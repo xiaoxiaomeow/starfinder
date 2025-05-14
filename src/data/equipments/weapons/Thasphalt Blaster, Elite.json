@@ -1,0 +1,24 @@
+{
+	"key": "Thasphalt Blaster, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Thasphalt Blaster",
+	"family": "Thasphalt Blaster",
+	"name_en": "Thasphalt Blaster, Elite",
+	"description_en": "The thasphalt blaster’s small canister reactor attaches to a belt, arm strap, or similar configuration.",
+	"source": "Drift Crisis pg. 51",
+	"level": "10",
+	"price": "17,300",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "2d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"force"
+	],
+	"capacity": "40 thasphalt "
+}

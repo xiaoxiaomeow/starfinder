@@ -1,0 +1,29 @@
+{
+	"key": "Clockbaton, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Clockbaton",
+	"family": "Clockbaton",
+	"name_en": "Clockbaton, Advanced",
+	"description_en": "Clockbatons are similar to stun batons, delivering a static charge during an attack to incapacitate the target. They usually have insulated, rubber-lined grips to protect the user from accidentally shocking themselves. Clockbatons are kept as slim and short as possible to minimize their weight despite the relatively heavy mechanisms needed for winding the mainspring and keeping a charge.",
+	"source": "Starfinder #50: Clockwork Demons pg. 52",
+	"level": "16",
+	"price": "165,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "5d4",
+	"damageType": [
+		"B",
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"boost 2d4",
+		"clockwork (capacity 20",
+		"usage 2)",
+		"operative",
+		"stun"
+	],
+	"capacity": ""
+}

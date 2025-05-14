@@ -1,0 +1,23 @@
+{
+	"key": "Seeker Rifle, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Seeker Rifle",
+	"family": "Seeker Rifle",
+	"name_en": "Seeker Rifle, Paragon",
+	"description_en": "Seeker rifles are single-shot projectile weapons. The line gained its name from korasha lashunta explorers, who favor the rifle for its reliability in hostile terrain.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "17",
+	"price": "242,500",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "9d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": "18 rounds"
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Dross Gun, Flux",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Flux&Family=Dross Gun",
+	"family": "Dross Gun",
+	"name_en": "Dross Gun, Flux",
+	"description_en": "Early models of disintegrator weapons were designed solely to deal indiscriminate corrosion damage to targets. The dross gun is a slightly more refined version, though it lacks the overall power those initial prototypes had. Its shots are slightly more concentrated, dealing substantial damage to objects and dealing painful, lasting wounds to a target on a direct hit. A scrapper dross gun is the smallest model available, used as often to remove choice parts from a wrecked starship as it is to remove crew from the ship in the first place, and the scoring and flux models have increased wounding capabilities.",
+	"source": "Starfinder Armory pg. 36",
+	"level": "5",
+	"price": "3,300",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Disintegrator",
+	"damage": "1d8",
+	"damageType": [
+		"A"
+	],
+	"critical": "wound",
+	"bulk": "1",
+	"special": [
+		"penetrating"
+	],
+	"capacity": "20 charges"
+}

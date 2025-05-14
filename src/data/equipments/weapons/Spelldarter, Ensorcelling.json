@@ -1,0 +1,24 @@
+{
+	"key": "Spelldarter, Ensorcelling",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ensorcelling&Family=Spelldarter",
+	"family": "Spelldarter",
+	"name_en": "Spelldarter, Ensorcelling",
+	"description_en": "Resembling an archaic hand crossbow, this weapon consists of a hand-sized stock outfitted with numerous metallic components and enhanced with eldritch runes. Darts fire by a spelldarter are transformed into pure magical energy by the weapon's intricate runes.",
+	"source": "Angels of the Drift #3 pg. 30",
+	"level": "12",
+	"price": "36,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "3d4",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"force",
+		"hybrid"
+	],
+	"capacity": "6 darts"
+}

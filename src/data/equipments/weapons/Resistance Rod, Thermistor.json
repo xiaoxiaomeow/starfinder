@@ -1,0 +1,23 @@
+{
+	"key": "Resistance Rod, Thermistor",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thermistor&Family=Resistance Rod",
+	"family": "Resistance Rod",
+	"name_en": "Resistance Rod, Thermistor",
+	"description_en": "The metal rod has a carefully insulated grip and a resistance coil designed to generate substantial heat surrounding the bulk of the baton’s shaft. Though the weapon is named for its engineering, it is often used by members of the Android Abolitionist Front and other rebel groups because of its evocative name and ease of construction. Straingauge resistance rods retain some flexibility and are easier to use, while thermistor and piezoresistor resistance rods employ more advanced coils to generate a hotter output. Induction resistance rods operate at higher outputs and are significantly more dangerous.",
+	"source": "Starfinder Armory pg. 39",
+	"level": "15",
+	"price": "94,200",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Flame",
+	"damage": "10d4",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d4",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Needler Pistol, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Needler Pistol",
+	"family": "Needler Pistol",
+	"name_en": "Needler Pistol, Elite",
+	"description_en": "A favorite of assassins and battlefield medics alike, the needler pistol uses magnetic fields or pressurized gas to launch darts that inject a substance into the target. This injection gun can be fitted with cartridges containing medicine or poison.",
+	"source": "Character Operations Manual pg. 123",
+	"level": "20",
+	"price": "725,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "8d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "Injection DC +2",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"injection"
+	],
+	"capacity": "8 darts"
+}

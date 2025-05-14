@@ -1,0 +1,26 @@
+{
+	"key": "Shout Projector, Damper",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Damper&Family=Shout Projector",
+	"family": "Shout Projector",
+	"name_en": "Shout Projector, Damper",
+	"description_en": "Shout projectors amplify your speech to overwhelming or destructive volume, and then project it in a cone. Words and sheer sonic pressure in this cone can’t be ignored. All shout projectors can be installed as armor upgrades (taking one upgrade slot per hand needed to wield the weapon), allowing the projectors to be used hands-free. That way, a user can carry lethal weaponry, safety gear, or protest signage. Exhorter shout projectors can be useful for crowd control with a lighter touch. Damper and pacifier models are ostensibly for nonlethal but more coercive applications, while the riot and crackdown projectors are for heavy-handed use.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "20",
+	"price": "918,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Sonic",
+	"damage": "9d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "Demoralize",
+	"bulk": "2",
+	"special": [
+		"explode (20 ft.)",
+		"integrated (4 slots)",
+		"nonlethal",
+		"unwieldy"
+	],
+	"capacity": "80 charges"
+}

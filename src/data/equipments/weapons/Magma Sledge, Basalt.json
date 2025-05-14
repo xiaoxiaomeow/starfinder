@@ -1,0 +1,27 @@
+{
+	"key": "Magma Sledge, Basalt",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Basalt&Family=Magma Sledge",
+	"family": "Magma Sledge",
+	"name_en": "Magma Sledge, Basalt",
+	"description_en": "Inspired by the red-hot stony body of a thermatrod, magma sledges are the larger cousins of the more agile magma blades. At first glance, a magma sledge seems like an analog weapon with a steel shaft and a head of solid stone. However, when the weapon powers on, cracks form along the surface show the magma hidden within, held in place with powerful magnetic fields. When slammed into a target, the intense heat and force can send even the most powerful opponents reeling. Factory floors that mass produce magma sledges are often swelteringly hot.",
+	"source": "Alien Archive 4 pg. 125",
+	"level": "20",
+	"price": "850,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "12d10",
+	"damageType": [
+		"B",
+		"F"
+	],
+	"critical": "Staggered",
+	"bulk": "2",
+	"special": [
+		"Powered (capacity 80",
+		"usage 2)",
+		"reach",
+		"unwieldy"
+	],
+	"capacity": ""
+}

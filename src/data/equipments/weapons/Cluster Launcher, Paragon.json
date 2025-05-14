@@ -1,0 +1,21 @@
+{
+	"key": "Cluster Launcher, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Cluster Launcher",
+	"family": "Cluster Launcher",
+	"name_en": "Cluster Launcher, Paragon",
+	"description_en": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power.",
+	"source": "Starfinder Armory pg. 52",
+	"level": "15",
+	"price": "105,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "3",
+	"special": [
+		"cluster (10 ft.)"
+	],
+	"capacity": "12 grenades"
+}

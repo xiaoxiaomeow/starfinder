@@ -1,0 +1,27 @@
+{
+	"key": "Taclash, Standard",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Standard&Family=Taclash",
+	"family": "Taclash",
+	"name_en": "Taclash, Standard",
+	"description_en": "A tactical lash, or taclash as it is commonly called, is a length of nylon cord reinforced with carbon fibers. Taclashes were originally used by military organizations as a form of crowd control, and explorers and mercenaries came to appreciate the utility of the weapon. When a numbing taclash connects, a low electrical shock transmits through the lash. The shock is too mild to deal damage, but it can stun the target.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "11",
+	"price": "24,800",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "5d4",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"disarm",
+		"powered (capacity 20 usage 2)",
+		"reach",
+		"stun",
+		"trip"
+	],
+	"capacity": ""
+}

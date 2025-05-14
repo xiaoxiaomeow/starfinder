@@ -1,0 +1,23 @@
+{
+	"key": "Recombinator Ray",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Recombinator Ray&Family=None",
+	"family": "None",
+	"name_en": "Recombinator Ray",
+	"description_en": "Grays created this nightmarish weapon to defend themselves against incursions into their territory. This rifle looks like a long, silver cylinder that ends in two long prongs. When it’s fired, lasers ionize the air between the prongs to send a charge at the target that disrupts cellular bonds. The current is powerful enough to penetrate armor but has no effect on nonliving material, leaving equipment lying in a puddle of organic sludge.",
+	"source": "Starfinder #26: Flight of the Sleepers pg. 45",
+	"level": "8",
+	"price": "9,500",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "2d10",
+	"damageType": [
+		"A"
+	],
+	"critical": "Corrode 1d6",
+	"bulk": "1",
+	"special": [
+		"Antibiological"
+	],
+	"capacity": "80"
+}

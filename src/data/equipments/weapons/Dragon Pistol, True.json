@@ -1,0 +1,23 @@
+{
+	"key": "Dragon Pistol, True",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=True&Family=Dragon Pistol",
+	"family": "Dragon Pistol",
+	"name_en": "Dragon Pistol, True",
+	"description_en": "A dragon pistol features a wide muzzle that is often shaped like a dragon’s maw. The weapon discharges discrete orbs of flaming petrol that can cling to targets. A wyrmling dragon pistol casts small petrol globules, while drake and wyvern dragon pistols have increased outputs. The true dragon pistol is as devastating as it is rare.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "15",
+	"price": "95,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Flame",
+	"damage": "4d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 3d6",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "20 petrol"
+}

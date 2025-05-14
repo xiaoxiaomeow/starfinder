@@ -1,0 +1,27 @@
+{
+	"key": "Plasma Lash, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Plasma Lash",
+	"family": "Plasma Lash",
+	"name_en": "Plasma Lash, Blue Star",
+	"description_en": "A plasma lash has a sturdy, braided handle with a thick but flexible cord that divides into several narrower cables as it gets farther from the handle, each trailing lines of uncontained plasma. These weapons come in red star, yellow star, white star and blue star models.",
+	"source": "Starfinder Armory pg. 43",
+	"level": "14",
+	"price": "80,500",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "6d4",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "knockdown",
+	"bulk": "L",
+	"special": [
+		"Powered (capacity 20",
+		"usage 1)",
+		"reach",
+		"trip"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,25 @@
+{
+	"key": "Reality Pistol",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Reality Pistol&Family=None",
+	"family": "None",
+	"name_en": "Reality Pistol",
+	"description_en": "Grays often fire on escaped abductees with these pistols, which can scramble the thoughts of those targeted, muddling recent memories and causing erratic behavior. Targets who are hit with these weapons multiple times often lose connection with reality altogether.",
+	"source": "Starfinder #26: Flight of the Sleepers pg. 45",
+	"level": "7",
+	"price": "7,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "1d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "Confuse",
+	"bulk": "1",
+	"special": [
+		"Mind-affecting",
+		"stun",
+		"subtle"
+	],
+	"capacity": "40"
+}

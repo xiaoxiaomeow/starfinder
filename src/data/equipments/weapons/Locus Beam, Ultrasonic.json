@@ -1,0 +1,25 @@
+{
+	"key": "Locus Beam, Ultrasonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ultrasonic&Family=Locus Beam",
+	"family": "Locus Beam",
+	"name_en": "Locus Beam, Ultrasonic",
+	"description_en": "This weapon’s radiant beam can be modulated to disrupt matter or reintegrate damaged creatures. When fired, the weapon emits a low hum that rapidly grows to a shrill whine.",
+	"source": "The Liberation of Locus-1 pg. 59",
+	"level": "13",
+	"price": "52,800",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Locus",
+	"damage": "3d6",
+	"damageType": [
+		"E",
+		"So"
+	],
+	"critical": "Leech",
+	"bulk": "L",
+	"special": [
+		"Force",
+		"healing"
+	],
+	"capacity": "80"
+}

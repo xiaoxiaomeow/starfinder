@@ -1,0 +1,25 @@
+{
+	"key": "Polyclub, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Polyclub",
+	"family": "Polyclub",
+	"name_en": "Polyclub, Paragon",
+	"description_en": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property.",
+	"source": "Starfinder #15: Sun Divers pg. 44",
+	"level": "14",
+	"price": "65,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "4d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"operative",
+		"polymorphic"
+	],
+	"capacity": ""
+}

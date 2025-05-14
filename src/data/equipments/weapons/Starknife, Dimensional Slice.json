@@ -1,0 +1,25 @@
+{
+	"key": "Starknife, Dimensional Slice",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dimensional Slice&Family=Starknife",
+	"family": "Starknife",
+	"name_en": "Starknife, Dimensional Slice",
+	"description_en": "Four tapered metal blades surround the central ring of a starknife, which can be thrown or used to stab opponents. Accelerated and lightspeed starknives have gas-powered jets that fire when the starknife is wielded. Solid auras surround the blades of a dimensional slice starknife, which are manufactured with cutting-edge metallurgic techniques. In a sintered starknife, the metal blades are replaced with compressed ceramic blades.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "16",
+	"price": "183,400",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "8d8",
+	"damageType": [
+		"F",
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 20 usage 2)",
+		"thrown (50 ft.)"
+	],
+	"capacity": ""
+}

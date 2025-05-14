@@ -1,0 +1,23 @@
+{
+	"key": "Stellar Cannon, Heavy",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Heavy&Family=Stellar Cannon",
+	"family": "Stellar Cannon",
+	"name_en": "Stellar Cannon, Heavy",
+	"description_en": "A stellar cannon is a portable, handheld cannon that fires exploding shells filled with dense flechettes that shred nearby targets. Stellar cannons have a limited range, but they deal traumatic damage to large areas.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "10",
+	"price": "19,200",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Projectile",
+	"damage": "2d12",
+	"damageType": [
+		"P"
+	],
+	"critical": "wound",
+	"bulk": "2",
+	"special": [
+		"blast"
+	],
+	"capacity": "18 shells"
+}

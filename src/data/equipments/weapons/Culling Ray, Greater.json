@@ -1,0 +1,25 @@
+{
+	"key": "Culling Ray, Greater",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Greater&Family=Culling Ray",
+	"family": "Culling Ray",
+	"name_en": "Culling Ray, Greater",
+	"description_en": "Members of the Order of the Culling Shadow sometimes still use shadowstaves for hand-to-hand combat, but they’ve also developed a less discriminate weapon dubbed a culling ray. This black metallic rod has a distinct pistol-like grip and serrations running along the barrel that resemble the spikes of a vicious animal; the culling ray projects a wide field of energy that flays the skin and tissue of any creature unlucky enough to find itself caught in its beam—and then sets them on fire. Energy from a culling ray can cause a breakdown in the target’s molecular structure.",
+	"source": "Starfinder #44: Allies Against the Eye pg. 42",
+	"level": "12",
+	"price": "34,500",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "2d12",
+	"damageType": [
+		"A",
+		"F"
+	],
+	"critical": "Irradiate",
+	"bulk": "2",
+	"special": [
+		"Blast",
+		"ignite 3d6"
+	],
+	"capacity": "20 charges"
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Gnome Scout Gun, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Gnome Scout Gun",
+	"family": "Gnome Scout Gun",
+	"name_en": "Gnome Scout Gun, Advanced",
+	"description_en": "Gnome scout guns are versatile in their attacks, able to fire both lasers or beams of cold, and are usually incorporated into gnomish multitools or other inventions that gnomes keep on hand. These weapons find favor with scouts and explorers who want to be prepared but not weighed down.",
+	"source": "Starfinder #50: Clockwork Demons pg. 51",
+	"level": "12",
+	"price": "34,800",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "3d6",
+	"damageType": [
+		"F|c"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Modal (Cryo)"
+	],
+	"capacity": "40 charges"
+}

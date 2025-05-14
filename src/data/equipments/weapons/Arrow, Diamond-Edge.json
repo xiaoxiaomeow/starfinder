@@ -1,0 +1,21 @@
+{
+	"key": "Arrow, Diamond-Edge",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Diamond-Edge&Family=Arrow",
+	"family": "Arrow",
+	"name_en": "Arrow, Diamond-Edge",
+	"description_en": "Special Weapons",
+	"source": "Starfinder Armory pg. 55",
+	"level": "18",
+	"price": "53,700",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "Special",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"10d6 p"
+	],
+	"capacity": "20"
+}

@@ -1,0 +1,25 @@
+{
+	"key": "Doshakari, Zero-Edge",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Zero-Edge&Family=Doshakari",
+	"family": "Doshakari",
+	"name_en": "Doshakari, Zero-Edge",
+	"description_en": "This punch dagger resembles a miniature doshko extending from the knuckles, with one to four diamond‑shaped blades. Doshakaris come in most of the same varieties as traditional steel doshkos, including the translucent molecular rift version.",
+	"source": "Near Space pg. 149",
+	"level": "19",
+	"price": "575,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "9d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "Severe wound",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"disarm",
+		"operative"
+	],
+	"capacity": ""
+}

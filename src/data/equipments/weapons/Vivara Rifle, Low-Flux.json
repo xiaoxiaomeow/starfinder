@@ -1,0 +1,23 @@
+{
+	"key": "Vivara Rifle, Low-Flux",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Low-Flux&Family=Vivara Rifle",
+	"family": "Vivara Rifle",
+	"name_en": "Vivara Rifle, Low-Flux",
+	"description_en": "Named for the astriapi engineer who developed the first prototype, these modular railguns are designed to be quickly disassembled and concealed. Vivara components are subtle yet versatile in design, making them a hit with collectors and mercenaries. The most popular method of disguising Vivara rifle components among astriapi dissidents is to pack the parts into an engineer’s or electrician’s tool kit, camouflaged as spare hardware or esoteric tools. These weapons have been used by violent cells of the Rising in guerrilla attacks and covert operations, so being caught in possession of a Vivara rifle is a serious offense on many parts of Colveare, punishable by exile or even death.",
+	"source": "Interstellar Species pg. 55",
+	"level": "12",
+	"price": "36,100",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "4d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"Breakdown"
+	],
+	"capacity": "6"
+}

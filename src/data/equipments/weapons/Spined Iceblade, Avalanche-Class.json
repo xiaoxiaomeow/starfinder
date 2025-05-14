@@ -1,0 +1,23 @@
+{
+	"key": "Spined Iceblade, Avalanche-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Avalanche-Class&Family=Spined Iceblade",
+	"family": "Spined Iceblade",
+	"name_en": "Spined Iceblade, Avalanche-Class",
+	"description_en": "The spined iceblade is a variant of the traditional kasathan spined blade. Its longer, curved handle includes internal channels where coolant builds up until it is released by the wielder’s movements. Frostbite-class, hailstorm-class, blizzard-class, and avalancheclass spined iceblades are all readily available in markets that regularly serve kasathas, but similar weapons appearing on distant worlds have intrigued kasathan archaeologists.",
+	"source": "Starfinder Armory pg. 35",
+	"level": "16",
+	"price": "170,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "7d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

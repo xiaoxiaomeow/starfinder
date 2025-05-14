@@ -1,0 +1,26 @@
+{
+	"key": "Resonant Staff, Sonorous",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sonorous&Family=Resonant Staff",
+	"family": "Resonant Staff",
+	"name_en": "Resonant Staff, Sonorous",
+	"description_en": "The weapon known as the resonant staff has a history that runs parallel to origins of the resonant gauntlet and resonant pistol. A similar crystalline structure tuned to particular frequencies turns electricity into sound as it agitates the crystal. The sonorous staff is named for the pleasant tone it strikes, while the reverberant model echoes with a few different tones. A stentorian resonant staff is like the reverberant model but punctuates its blows with distinctive sonic cracks.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "18",
+	"price": "381,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "8d6",
+	"damageType": [
+		"So"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"block",
+		"boost 5d6",
+		"powered (capacity 20",
+		"usage 1)"
+	],
+	"capacity": ""
+}

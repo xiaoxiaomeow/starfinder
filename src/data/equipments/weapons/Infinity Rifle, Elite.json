@@ -1,0 +1,23 @@
+{
+	"key": "Infinity Rifle, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Infinity Rifle",
+	"family": "Infinity Rifle",
+	"name_en": "Infinity Rifle, Elite",
+	"description_en": "Infinity rifles take their name from their shape, two conjoined rings similar to an infinity symbol with twin muzzles along the outer edge of one ring. The two rings contain a twisted loop of fiber-optic cabling that channels the laser beam; adding more energy to the loop results in a more powerful blast. These weapons were first introduced to the Pact Worlds by skittermanders (Starfinder Alien Archive 106), though their current nomenclature (tactical, advanced, elite, and paragon) was imposed by other weapons manufacturers.",
+	"source": "Starfinder Armory pg. 40",
+	"level": "16",
+	"price": "155,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Laser",
+	"damage": "4d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"boost 4d6"
+	],
+	"capacity": "20 charges"
+}

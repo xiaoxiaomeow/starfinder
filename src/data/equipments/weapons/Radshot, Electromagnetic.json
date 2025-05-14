@@ -1,0 +1,23 @@
+{
+	"key": "Radshot, Electromagnetic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Electromagnetic&Family=Radshot",
+	"family": "Radshot",
+	"name_en": "Radshot, Electromagnetic",
+	"description_en": "Banned in most civilized regions of the Pact Worlds, radshots are known for the reckless amount of radiation they generate. Despite the objections of the living, radshots’ signature short barrels and bulky containment sheaths can often be seen in the markets of Eox or at the hip of a Corpse Fleet officer. They are named for the type of radiation waves they emit: electromagnetic, neutron, and rapid-decay.",
+	"source": "Starfinder Armory pg. 38",
+	"level": "20",
+	"price": "767,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Flame",
+	"damage": "11d4",
+	"damageType": [
+		"F"
+	],
+	"critical": "irradiate",
+	"bulk": "L",
+	"special": [
+		"radioactive"
+	],
+	"capacity": "80 charges"
+}

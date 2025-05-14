@@ -1,0 +1,23 @@
+{
+	"key": "Neutriad Pistol",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Neutriad Pistol&Family=None",
+	"family": "None",
+	"name_en": "Neutriad Pistol",
+	"description_en": "A neutriad pistol is a 5th level small-arm ranged weapon that deals 1d6 bludgeoning damage and has the pulse (1d6) critical hit effect. It has a range of 60 feet and a capacity of 20 charges (1 usage). It has the force special property and light bulk, and it costs 3,200 credits.",
+	"source": "SFS Scenario #2–08: The Stumbling Society, Part 2: Sangoro’s Gifts pg. 23",
+	"level": "5",
+	"price": "3,200",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "1d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "pulse 1d6",
+	"bulk": "L",
+	"special": [
+		"Force"
+	],
+	"capacity": "20 charges"
+}

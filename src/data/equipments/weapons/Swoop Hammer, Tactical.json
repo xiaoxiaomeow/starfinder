@@ -1,0 +1,26 @@
+{
+	"key": "Swoop Hammer, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Swoop Hammer",
+	"family": "Swoop Hammer",
+	"name_en": "Swoop Hammer, Tactical",
+	"description_en": "The combat head of a swoop hammer is affixed to an elongated haft. The extra reach of the haft allows for a greater swinging arc and accelerated damage.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "20",
+	"price": "905,700",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "14d10",
+	"damageType": [
+		"B",
+		"F"
+	],
+	"critical": "knockdown",
+	"bulk": "2",
+	"special": [
+		"powered (capacity 40 usage 4)",
+		"reach",
+		"unwieldy"
+	],
+	"capacity": ""
+}

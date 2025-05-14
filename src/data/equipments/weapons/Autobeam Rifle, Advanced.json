@@ -1,0 +1,23 @@
+{
+	"key": "Autobeam Rifle, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Autobeam Rifle",
+	"family": "Autobeam Rifle",
+	"name_en": "Autobeam Rifle, Advanced",
+	"description_en": "Autobeam rifles can fire in automatic mode, spraying a cone of lasers from the barrel.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "19",
+	"price": "548,100",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Laser",
+	"damage": "12d4",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 5d4",
+	"bulk": "2",
+	"special": [
+		"automatic"
+	],
+	"capacity": "100 charges"
+}

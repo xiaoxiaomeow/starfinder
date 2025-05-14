@@ -1,0 +1,25 @@
+{
+	"key": "Painclaw, Demonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Demonic&Family=Painclaw",
+	"family": "Painclaw",
+	"name_en": "Painclaw, Demonic",
+	"description_en": "This powered gauntlet has bladed spikes for fingers, which have built-in injectors connected to three reservoirs for storing substances used with the injection weapon special property. A painclaw can carry up to 3 doses of a drug, an injury poison, or a medicinal compound. Rather than trigger the injection on the weapon’s first attack, you can choose whether to inject one of these substances upon dealing damage with the painclaw (and even select which material to inject, if the three reservoirs contain different compounds). A painclaw can inject only one substance per attack.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 240, Starfinder #2: Temple of the Twelve pg. 52",
+	"level": "19",
+	"price": "560,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "6d8",
+	"damageType": [
+		"S",
+		"P"
+	],
+	"critical": "bleed 2d6",
+	"bulk": "1",
+	"special": [
+		"injection (see text)",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

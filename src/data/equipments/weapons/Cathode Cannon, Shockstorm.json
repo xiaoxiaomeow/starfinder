@@ -1,0 +1,24 @@
+{
+	"key": "Cathode Cannon, Shockstorm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Shockstorm&Family=Cathode Cannon",
+	"family": "Cathode Cannon",
+	"name_en": "Cathode Cannon, Shockstorm",
+	"description_en": "Cathode cannons were originally designed by members of the Android Abolitionist Front, and many varieties made by different races nonetheless are decorated with circuit designs reminiscent of the weapons’ android inventors. The tactical cathode cannon is a standard-issue weapon for members of the Front, while advanced, elite, paragon, and shockstorm cathode cannons are often used by mercenaries and assault forces with a variety of goals.",
+	"source": "Starfinder Armory pg. 45",
+	"level": "15",
+	"price": "109,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "6d12",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"unwieldy",
+		"wide line"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Monowhip",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Monowhip&Family=None",
+	"family": "None",
+	"name_en": "Monowhip",
+	"description_en": "Designed to deal maximum damage, a monowhip is woven of monofilament fibers reinforced with carbon particles. Weighted at one end and spooled from a tough carbon-fiber grip, it delivers surgical-quality lacerations with minimal strength. The cuts delivered are so clean that victims sometimes fail to notice a severed limb until they are overwhelmed by a rush of blood loss.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "15",
+	"price": "107,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "10d4",
+	"damageType": [
+		"S"
+	],
+	"critical": "severe wound",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"disarm",
+		"reach",
+		"trip"
+	],
+	"capacity": ""
+}

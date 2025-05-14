@@ -1,0 +1,25 @@
+{
+	"key": "Nova Rifle, Yellow Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Yellow Star&Family=Nova Rifle",
+	"family": "Nova Rifle",
+	"name_en": "Nova Rifle, Yellow Star",
+	"description_en": "Much like traditional plasma rifles, nova rifles fire coherent gouts of plasma that can potentially travel some distance and burn multiple targets. However, nova rifles have a slimmer profile overall but a larger aperture, projecting plasma that’s both slightly cooler and more diffuse. The nova rifle’s intense visual display makes it a favorite of icons looking to make a statement or simply add pyrotechnics to their shows. Red star, yellow star, and white star nova rifles are all easily identified by the color of their plasma arcs.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "11",
+	"price": "25,300",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Plasma",
+	"damage": "3d6",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "blind",
+	"bulk": "1",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

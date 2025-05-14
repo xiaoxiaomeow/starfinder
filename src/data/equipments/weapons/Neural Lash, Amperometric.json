@@ -1,0 +1,28 @@
+{
+	"key": "Neural Lash, Amperometric",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Amperometric&Family=Neural Lash",
+	"family": "Neural Lash",
+	"name_en": "Neural Lash, Amperometric",
+	"description_en": "Similar to the living lash, a neural lash is a particularly flexible weapon that proves cumbersome to those without telepathic abilities. The neural lash has been bred to include bioelectric cells in addition to its neural fibers, delivering electricity damage and allowing the lash to deal nonlethal damage at its user’s direction. Barathu take credit for the development of the electroplax and amperometric neural lash, but later weapons manufacturers have improved upon those original models by developing the galvanic and voltaic neural lashes.",
+	"source": "Starfinder Armory pg. 45",
+	"level": "20",
+	"price": "909,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "8d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "arc 3d10",
+	"bulk": "L",
+	"special": [
+		"Living",
+		"powered (capacity 20 usage 1)",
+		"reach",
+		"stun",
+		"thought",
+		"unwieldy"
+	],
+	"capacity": ""
+}

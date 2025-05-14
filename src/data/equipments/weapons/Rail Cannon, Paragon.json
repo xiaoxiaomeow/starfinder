@@ -1,0 +1,24 @@
+{
+	"key": "Rail Cannon, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Rail Cannon",
+	"family": "Rail Cannon",
+	"name_en": "Rail Cannon, Paragon",
+	"description_en": "Rail cannons are scaled-up versions of rail guns, and like rail guns, they use magnetic fields to rapidly accelerate ammunition. A rail cannon generates such phenomenal force that its rounds can pass entirely through multiple targets, allowing the user to hit multiple targets in a line. Tactical rail cannons are precise and effective, while advanced rail cannons offer more firepower; elite and paragon rail cannons are generally used only by heavyweapons specialists in professional military groups.",
+	"source": "Starfinder Armory pg. 44",
+	"level": "16",
+	"price": "176,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Projectile",
+	"damage": "8d10",
+	"damageType": [
+		"P"
+	],
+	"critical": "bleed 3d6",
+	"bulk": "2",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "50 rounds"
+}

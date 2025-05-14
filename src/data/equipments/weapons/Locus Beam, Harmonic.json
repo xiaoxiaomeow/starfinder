@@ -1,0 +1,25 @@
+{
+	"key": "Locus Beam, Harmonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Harmonic&Family=Locus Beam",
+	"family": "Locus Beam",
+	"name_en": "Locus Beam, Harmonic",
+	"description_en": "This weapon’s radiant beam can be modulated to disrupt matter or reintegrate damaged creatures. When fired, the weapon emits a low hum that rapidly grows to a shrill whine.",
+	"source": "The Liberation of Locus-1 pg. 59",
+	"level": "17",
+	"price": "264,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Locus",
+	"damage": "4d8",
+	"damageType": [
+		"E",
+		"So"
+	],
+	"critical": "Leech",
+	"bulk": "L",
+	"special": [
+		"Force",
+		"healing"
+	],
+	"capacity": "100"
+}

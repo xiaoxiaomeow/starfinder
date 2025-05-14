@@ -1,0 +1,21 @@
+{
+	"key": "Muon, Lesser",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Lesser&Family=Muon",
+	"family": "Muon",
+	"name_en": "Muon, Lesser",
+	"description_en": "",
+	"source": "Starfinder Armory pg. 49",
+	"level": "20",
+	"price": "760,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+10d4 ",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "—",
+	"special": [
+		"penetrating"
+	],
+	"capacity": ""
+}

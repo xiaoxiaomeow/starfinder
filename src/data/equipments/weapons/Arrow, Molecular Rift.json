@@ -1,0 +1,21 @@
+{
+	"key": "Arrow, Molecular Rift",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Molecular Rift&Family=Arrow",
+	"family": "Arrow",
+	"name_en": "Arrow, Molecular Rift",
+	"description_en": "Special Weapons",
+	"source": "Starfinder Armory pg. 55",
+	"level": "12",
+	"price": "5,200",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "Special",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"3d6 p"
+	],
+	"capacity": "20"
+}

@@ -1,0 +1,22 @@
+{
+	"key": "Time-Delay Grenade, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Time-Delay Grenade",
+	"family": "Time-Delay Grenade",
+	"name_en": "Time-Delay Grenade, I",
+	"description_en": "This grenade has a time delay to allow the thrower to get clear. This grenade explodes at the beginning of the user’s next turn.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "17",
+	"price": "36,300",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (14d8 P",
+		"30 ft.) see text"
+	],
+	"capacity": "Drawn"
+}

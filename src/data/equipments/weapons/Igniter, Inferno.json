@@ -1,0 +1,21 @@
+{
+	"key": "Igniter, Inferno",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Inferno&Family=Igniter",
+	"family": "Igniter",
+	"name_en": "Igniter, Inferno",
+	"description_en": "An igniter has a deep-red crystal rod in place of a typical longarm barrel. This crystal focuses infrared light on a distant foe, causing the target to burst into flames. Assassins and drow in particular often favor the weapon due to its absence of any visible discharge. Ember, blaze, inferno, and solar flare igniters are common in many places.",
+	"source": "Starfinder Armory pg. 38",
+	"level": "18",
+	"price": "360,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Flame",
+	"damage": "—",
+	"damageType": [],
+	"critical": "burn 5d6",
+	"bulk": "1",
+	"special": [
+		"ignite 5d6"
+	],
+	"capacity": "40 charges"
+}

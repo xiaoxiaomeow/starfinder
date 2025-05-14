@@ -1,0 +1,26 @@
+{
+	"key": "Psychic-Wave Cannon, IV",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=IV&Family=Psychic-Wave Cannon",
+	"family": "Psychic-Wave Cannon",
+	"name_en": "Psychic-Wave Cannon, IV",
+	"description_en": "Unlike weapons that rely on physical projectiles or various energy forms to damage a target, a psychic-wave cannon targets a creature’s mind. The cannon contains an organic neural matrix that converts charges into a mental blast, damaging creatures with overwhelming psychic output. The numeral of a psychicwave cannon’s model indicates the strength of its output, but the weapon can’t harm objects and mindless creatures, as well as those immune to mind-affecting effects.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "20",
+	"price": "990,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "7d12",
+	"damageType": [
+		""
+	],
+	"critical": "Demoralize",
+	"bulk": "2",
+	"special": [
+		"blast",
+		"living",
+		"mind-affecting",
+		"unwieldy"
+	],
+	"capacity": "20 charges"
+}

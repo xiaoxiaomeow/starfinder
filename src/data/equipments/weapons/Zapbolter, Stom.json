@@ -1,0 +1,24 @@
+{
+	"key": "Zapbolter, Stom",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Stom&Family=Zapbolter",
+	"family": "Zapbolter",
+	"name_en": "Zapbolter, Stom",
+	"description_en": "Developed to take advantage of the kevri's impeccable eyesight, these box-like longarms are designed to unlease blats of charged electricity across incredible distances. Kevri soldiers traditionally affix their zapbolters with bayonet brackets that have been afficed with daggers or shockblades.",
+	"source": "Angels of the Drift #2 pg. 0",
+	"level": "12",
+	"price": "32,500",
+	"hands": "1",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "3d8",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"integrated (1 slot)",
+		"stun"
+	],
+	"capacity": "40 charges"
+}

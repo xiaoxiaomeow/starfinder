@@ -1,0 +1,23 @@
+{
+	"key": "Hammer, Meteoric",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Meteoric&Family=Hammer",
+	"family": "Hammer",
+	"name_en": "Hammer, Meteoric",
+	"description_en": "Assault hammers have heavily weighted metal heads and relatively light aluminum or polycarbonate grips. Hammer heads can be custom-made with designs or logos imprinted on the surface. Comet, gravity well, and meteoric hammers have weighted or pneumatically driven heads that deliver accelerated blows.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "19",
+	"price": "551,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "15d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 40 usage 2)"
+	],
+	"capacity": ""
+}

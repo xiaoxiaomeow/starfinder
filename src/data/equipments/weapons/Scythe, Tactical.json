@@ -1,0 +1,24 @@
+{
+	"key": "Scythe, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Scythe",
+	"family": "Scythe",
+	"name_en": "Scythe, Tactical",
+	"description_en": "Few weapons send a more distinctive and imposing message than a scythe, given its longstanding and transcultural connotations of harvest and death. A far cry from the farming tools of ages past, scythes range from tactical to sintered to ultrathin models. Followers of Urgathoa make up a significant portion of the customer base for this weapon.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "16",
+	"price": "160,000",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "7d8",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"trip"
+	],
+	"capacity": ""
+}

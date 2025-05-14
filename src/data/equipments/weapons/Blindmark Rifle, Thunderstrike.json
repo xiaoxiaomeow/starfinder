@@ -1,0 +1,24 @@
+{
+	"key": "Blindmark Rifle, Thunderstrike",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thunderstrike&Family=Blindmark Rifle",
+	"family": "Blindmark Rifle",
+	"name_en": "Blindmark Rifle, Thunderstrike",
+	"description_en": "Blindmark rifles generate sonic frequencies through carefully aligned resonance in multiple magnetic cylinders positioned between the stock and the short muzzle of the weapon. When the rifle’s shot hits a target, that target retains the resonance as a faint or subsonic tone useful for creatures that have blindsense (sound or vibration) or blindsight (sound or vibration). Multiple targets struck by the same blindmark rifle emit identical tones that can be distinguished only by location. Blindmark rifles are manufactured in thunderstrike, LFD (low-frequency device), HFD (high-frequency device), and banshee models.",
+	"source": "Starfinder Armory pg. 49",
+	"level": "19",
+	"price": "585,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Sonic",
+	"damage": "8d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "sicken",
+	"bulk": "1",
+	"special": [
+		"echo",
+		"stun"
+	],
+	"capacity": "80 charges"
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Nauphage Cannon, Adhesion",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Adhesion&Family=Nauphage Cannon",
+	"family": "Nauphage Cannon",
+	"name_en": "Nauphage Cannon, Adhesion",
+	"description_en": "Constructed from the arm of a Swarm nauphage, this heavy weapon fires globs of electrically charged adhesive. Advanced versions increase both the charge and the adhesion of the globs.",
+	"source": "Starfinder #43: Icebound pg. 19",
+	"level": "19",
+	"price": "570,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "8d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"Entangle (2d4 rounds)",
+		"living",
+		"Swarm",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Pulse Gauntlet, Thunderstrike",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thunderstrike&Family=Pulse Gauntlet",
+	"family": "Pulse Gauntlet",
+	"name_en": "Pulse Gauntlet, Thunderstrike",
+	"description_en": "When a pulse gauntlet strikes its target, it releases a surge of sonic energy that can knock the target down. Pulse gauntlets are made of heavy-duty nylon with reinforced pads over the items’ knuckles.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "16",
+	"price": "148,200",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "10d6",
+	"damageType": [
+		"B",
+		"So"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

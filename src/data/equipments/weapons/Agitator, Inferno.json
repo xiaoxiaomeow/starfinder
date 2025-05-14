@@ -1,0 +1,23 @@
+{
+	"key": "Agitator, Inferno",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Inferno&Family=Agitator",
+	"family": "Agitator",
+	"name_en": "Agitator, Inferno",
+	"description_en": "An agitator is a portable generator of microwave radiation that rapidly heats up targets to create internal bubbles of steam or makes targets burst into flames. The longer the weapon is focused, the more intense the agitation becomes, making it a favored by the defenders of bunkers, guard posts, and other emplacements. Ember agitators and blaze agitators rely on individual generators, taking the form of a bulky cylinder in the middle of the gun that hums ominously as the weapon fires, but miniaturization technology allows inferno agitators and solar flare agitators to include multiple smaller generators for increased effect.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "19",
+	"price": "580,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Flame",
+	"damage": "12d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d4",
+	"bulk": "2",
+	"special": [
+		"boost 5d6"
+	],
+	"capacity": "40 charges"
+}

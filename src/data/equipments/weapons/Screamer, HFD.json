@@ -1,0 +1,24 @@
+{
+	"key": "Screamer, HFD",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=HFD&Family=Screamer",
+	"family": "Screamer",
+	"name_en": "Screamer, HFD",
+	"description_en": "A screamer is a circular metal device with two handles on the back. The front of a screamer projects a cone of sonic energy that can damage and deafen anyone within the weapon’s area of effect.",
+	"source": "Starfinder Core Rulebook pg. 178",
+	"level": "9",
+	"price": "14,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Sonic",
+	"damage": "2d10",
+	"damageType": [
+		"So"
+	],
+	"critical": "deafen",
+	"bulk": "2",
+	"special": [
+		"blast",
+		"unwieldy"
+	],
+	"capacity": "80 charges"
+}

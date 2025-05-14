@@ -1,0 +1,23 @@
+{
+	"key": "Autobeam Artillery, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Autobeam Artillery",
+	"family": "Autobeam Artillery",
+	"name_en": "Autobeam Artillery, Elite",
+	"description_en": "Though it lacks the penetrating power of an artillery laser, an autobeam artillery delivers sustained laser fire. It uses a rotating array of lenses to prevent the intense heat of sustained fire from melting the weapon’s housing.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "16",
+	"price": "145,700",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Laser",
+	"damage": "4d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 2d8",
+	"bulk": "2",
+	"special": [
+		"automatic"
+	],
+	"capacity": "40 charges"
+}

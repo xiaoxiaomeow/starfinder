@@ -1,0 +1,23 @@
+{
+	"key": "Barbed Shrapnel Grenade, Mk 3",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 3&Family=Barbed Shrapnel Grenade",
+	"family": "Barbed Shrapnel Grenade",
+	"name_en": "Barbed Shrapnel Grenade, Mk 3",
+	"description_en": "This cruel grenade propels exceptionally jagged shrapnel, causing lasting pain. Affected creatures that fail their Reflex saves against this grenade take the listed damage; as long as they take any damage from the grenade, the shrapnel also impedes them per the embed weapon critical hit effect (Armory 31). Both these grenades’ sadistic effects and their common use by slavers to immobilize victims have resulted in wide-scale bans on these weapons, though more lawless regions rarely regulate the explosives.",
+	"source": "Galaxy Exploration Manual pg. 42",
+	"level": "15",
+	"price": "14,250",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (7d6 P",
+		"embed 3d6",
+		"10 ft.)"
+	],
+	"capacity": "Drawn"
+}

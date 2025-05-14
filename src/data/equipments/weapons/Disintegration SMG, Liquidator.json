@@ -1,0 +1,23 @@
+{
+	"key": "Disintegration SMG, Liquidator",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Liquidator&Family=Disintegration SMG",
+	"family": "Disintegration SMG",
+	"name_en": "Disintegration SMG, Liquidator",
+	"description_en": "The disintegrator submachine gun is a compact, power-hungry firearm designed to reduce anything in its path to sludge. The weapon is especially popular with unscrupulous mercenaries and Devourer cultists, who don’t mind (or even celebrate) the collateral damage inflicted.",
+	"source": "Tech Revolution pg. 60",
+	"level": "20",
+	"price": "888,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Disintegrator",
+	"damage": "5d10",
+	"damageType": [
+		"A"
+	],
+	"critical": "Wound",
+	"bulk": "L",
+	"special": [
+		"Automatic"
+	],
+	"capacity": "80 charges "
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Needler Estoc, Supreme-pointed",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Supreme-pointed&Family=Needler Estoc",
+	"family": "Needler Estoc",
+	"name_en": "Needler Estoc, Supreme-pointed",
+	"description_en": "This slender blade is designed to puncture weak points in modern armor and inflict precise wounds on foes. The weapon possesses a small, transparent tank on its hilt, and when its wielder thrusts the blade into a foe, a spring-loaded mechanism forces anything placed in this tank up through thin passages within the blade to be discharged into the target.",
+	"source": "Character Operations Manual pg. 122",
+	"level": "20",
+	"price": "750,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "18d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "Injection DC +2",
+	"bulk": "L",
+	"special": [
+		"Injection"
+	],
+	"capacity": ""
+}

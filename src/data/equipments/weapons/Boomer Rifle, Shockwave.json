@@ -1,0 +1,23 @@
+{
+	"key": "Boomer Rifle, Shockwave",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Shockwave&Family=Boomer Rifle",
+	"family": "Boomer Rifle",
+	"name_en": "Boomer Rifle, Shockwave",
+	"description_en": "The long, rippled barrel of a boomer rifle focuses the sound of several shells ignited simultaneously into a wave of sonic energy. These weapons arose on Akiton as a wayward Veskarian battalion beset a series of scrappy outposts. When lighter rifles failed to pierce the advanced vesk armor, residents used sonic weapons to overwhelm their foes. Tremor and rumbler boomer rifles use low and damaging sonic frequencies. Concussive and shock wave versions also produce a jolt that can knock a target prone.",
+	"source": "Starfinder Armory pg. 49",
+	"level": "11",
+	"price": "24,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Sonic",
+	"damage": "4d6",
+	"damageType": [
+		"So"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": "15 shells"
+}

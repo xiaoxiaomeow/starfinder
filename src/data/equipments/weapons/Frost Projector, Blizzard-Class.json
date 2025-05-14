@@ -1,0 +1,23 @@
+{
+	"key": "Frost Projector, Blizzard-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blizzard-Class&Family=Frost Projector",
+	"family": "Frost Projector",
+	"name_en": "Frost Projector, Blizzard-Class",
+	"description_en": "A frost projector requires two armor upgrade slots to install: one for the short, wide barrel and another for the coolant canister and battery; cables and hoses connect the two components. These weapons are produced in frostbite-class, hailstorm-class, and blizzard-class models.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "12",
+	"price": "42,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Cryo",
+	"damage": "2d10",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "1",
+	"special": [
+		"integrated (2 slots)"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Snap Whip, Thunderstrike",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Thunderstrike&Family=Snap Whip",
+	"family": "Snap Whip",
+	"name_en": "Snap Whip, Thunderstrike",
+	"description_en": "Until recently, atlapaks’ exceptional pincers resisted engineers’ efforts to replicate the same mechanics in the form of a reliable weapon. In the past three decades, breakthroughs in materials science have enabled arms manufacturers to create handheld versions of an atlapak claw, which take the form of a semi-flexible, whip-like rod. An assemblage of reinforced metallic percussion plates and high-pressure levers near the rod’s tip creates a focused shock of sonic energy when activated, shattering nearby materials. Artificial ligaments strung throughout the rod translate the kinetic energy of a user’s backswing to rearm the device, priming it to release another sonic burst. Early prototypes of the snap whip directly incorporated atlapak components, though all but the most eccentric versions of such whips are now entirely synthetic and merely borrow the atlapak’s uniquely evolved design.",
+	"source": "Alien Archive 4 pg. 15",
+	"level": "18",
+	"price": "445,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "10d6",
+	"damageType": [
+		"So"
+	],
+	"critical": "Stunned",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"penetrating",
+		"reach",
+		"sunder"
+	],
+	"capacity": ""
+}

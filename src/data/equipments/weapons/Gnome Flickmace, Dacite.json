@@ -1,0 +1,26 @@
+{
+	"key": "Gnome Flickmace, Dacite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dacite &Family=Gnome Flickmace",
+	"family": "Gnome Flickmace",
+	"name_en": "Gnome Flickmace, Dacite",
+	"description_en": "Combining archaic aesthetics and modern technology, the gnome flickmace is a functional work of art. The weapon consists of a spiked stone ball hardened with a chemical glaze and attached to a short steel handle via a chain of force energy. The ball is propelled forward a surprising distance with a flick of the wielder’s wrist and can pierce armor. The simplest version of the flickmace is dependent on the wielder’s strength, but more expensive models can be boosted in power to put more “oomph” behind the attack.",
+	"source": "Starfinder #50: Clockwork Demons pg. 51",
+	"level": "9",
+	"price": "12,500",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "3d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Boost (1d6)",
+		"powered (capacity 40",
+		"use 2)",
+		"reach"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,21 @@
+{
+	"key": "Gluon, Shard",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Shard&Family=Gluon",
+	"family": "Gluon",
+	"name_en": "Gluon, Shard",
+	"description_en": "",
+	"source": "Starfinder Core Rulebook pg. 180",
+	"level": "20",
+	"price": "916,200",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+6d6 ",
+	"damageType": [],
+	"critical": "severe wound",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

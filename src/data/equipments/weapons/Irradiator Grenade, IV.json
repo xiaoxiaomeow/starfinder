@@ -1,0 +1,23 @@
+{
+	"key": "Irradiator Grenade, IV",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=IV&Family=Irradiator Grenade",
+	"family": "Irradiator Grenade",
+	"name_en": "Irradiator Grenade, IV",
+	"description_en": "SFS Note: An irradiator grenade irradiates the area for 1 minute.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "16",
+	"price": "21,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (6d12 F & S",
+		"high radiation",
+		"20 ft.)"
+	],
+	"capacity": "Drawn"
+}

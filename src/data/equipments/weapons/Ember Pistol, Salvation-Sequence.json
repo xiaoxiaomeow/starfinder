@@ -1,0 +1,23 @@
+{
+	"key": "Ember Pistol, Salvation-Sequence",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Salvation-Sequence&Family=Ember Pistol",
+	"family": "Ember Pistol",
+	"name_en": "Ember Pistol, Salvation-Sequence",
+	"description_en": "Lighter and more mobile versions of cinder rifles, these pistols are standard issue to the Dawn Patrol and many Sarenite authorities across the galaxy. The piercing rounds are shot from the bulky pistol at white-hot temperatures and can set their targets on fire. They are still thought of as a humane weapon by some, as the searing bullets often cauterize the wounds that they make.",
+	"source": "Starfinder #13: Fire Starters pg. 52",
+	"level": "14",
+	"price": "65,800",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Projectile",
+	"damage": "4d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "burn 2d6",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "16 rounds"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Acid Dart Rifle, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Acid Dart Rifle",
+	"family": "Acid Dart Rifle",
+	"name_en": "Acid Dart Rifle, Tactical",
+	"description_en": "An acid dart rifle has a nonreactive polymer reservoir that can be filled with whatever acid the wielder desires. The automatic loading process fills the rifle darts with acid as they are moved into the chamber. Dual acid dart rifles fire two darts simultaneously, while complex acid dart rifles hold concentrated doses of acid.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "12",
+	"price": "39,200",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "4d8",
+	"damageType": [
+		"A",
+		"P"
+	],
+	"critical": "corrode 4d4",
+	"bulk": "2",
+	"special": [
+		"analog"
+	],
+	"capacity": "48 darts"
+}

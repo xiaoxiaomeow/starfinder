@@ -1,0 +1,21 @@
+{
+	"key": "Positron, Least",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Least&Family=Positron",
+	"family": "Positron",
+	"name_en": "Positron, Least",
+	"description_en": "",
+	"source": "Starfinder Armory pg. 49",
+	"level": "19",
+	"price": "528,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+5d6 F",
+	"damageType": [],
+	"critical": "irradiate",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

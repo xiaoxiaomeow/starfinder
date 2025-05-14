@@ -1,0 +1,21 @@
+{
+	"key": "Flechette",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Flechette&Family=None",
+	"family": "None",
+	"name_en": "Flechette",
+	"description_en": "",
+	"source": "Pact Worlds pg. 194",
+	"level": "1",
+	"price": "75",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "25"
+}

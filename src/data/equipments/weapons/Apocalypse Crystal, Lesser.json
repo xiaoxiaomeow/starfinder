@@ -1,0 +1,21 @@
+{
+	"key": "Apocalypse Crystal, Lesser",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Lesser&Family=Apocalypse Crystal",
+	"family": "Apocalypse Crystal",
+	"name_en": "Apocalypse Crystal, Lesser",
+	"description_en": "",
+	"source": "Alien Archive 2 pg. 81",
+	"level": "20",
+	"price": "776,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+6d6 ",
+	"damageType": [],
+	"critical": "corrode 2d6",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,25 @@
+{
+	"key": "Polyclub, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Polyclub",
+	"family": "Polyclub",
+	"name_en": "Polyclub, Elite",
+	"description_en": "Weaponized polyfluid applications are just beginning to be explored. Polyfluid’s plasticity has already been applied to some melee weapons, resulting in the polymorphic weapon special property.",
+	"source": "Starfinder #15: Sun Divers pg. 44",
+	"level": "18",
+	"price": "345,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "8d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"operative",
+		"polymorphic"
+	],
+	"capacity": ""
+}

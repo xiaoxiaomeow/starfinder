@@ -1,0 +1,25 @@
+{
+	"key": "Stun Staff, Storm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Storm&Family=Stun Staff",
+	"family": "Stun Staff",
+	"name_en": "Stun Staff, Storm",
+	"description_en": "Shock Weapons",
+	"source": "Starfinder Armory pg. 48",
+	"level": "17",
+	"price": "244,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "6d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "staggered",
+	"bulk": "1",
+	"special": [
+		"block",
+		"powered (capacity 20 usage 1)",
+		"stun"
+	],
+	"capacity": ""
+}

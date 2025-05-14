@@ -1,0 +1,24 @@
+{
+	"key": "Shock Caster, Tempest",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tempest&Family=Shock Caster",
+	"family": "Shock Caster",
+	"name_en": "Shock Caster, Tempest",
+	"description_en": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius.",
+	"source": "Starfinder Core Rulebook pg. 178",
+	"level": "16",
+	"price": "164,800",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "5d12",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"explode (20 ft.)",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

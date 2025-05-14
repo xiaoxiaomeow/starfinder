@@ -1,0 +1,21 @@
+{
+	"key": "Phasing, II Longarm and Sniper Rounds",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II Longarm and Sniper Rounds&Family=Phasing",
+	"family": "Phasing",
+	"name_en": "Phasing, II Longarm and Sniper Rounds",
+	"description_en": "This ammunition is tipped with quantum-variable molecules, allowing it to phase through many materials prior to impacting with its target. If you take a move action to aim and then fire on the same turn a weapon with phasing ammo (including doing so with a sniper weapon), the attack ignores any cover the target has with a hardness equal to given value or less (hardness 10 for 7th-level rounds, hardness 20 for 14th-level rounds). The rounds literally bypass the cover, doing no damage to it.",
+	"source": "Starfinder Armory pg. 55",
+	"level": "7",
+	"price": "820",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "Special",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "25"
+}

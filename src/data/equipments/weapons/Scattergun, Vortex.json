@@ -1,0 +1,24 @@
+{
+	"key": "Scattergun, Vortex",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Vortex&Family=Scattergun",
+	"family": "Scattergun",
+	"name_en": "Scattergun, Vortex",
+	"description_en": "A scattergun fires fragmentary shells in a spray from its barrel, dealing damage to all targets in range. The shortened barrel of the snub scattergun makes it easier to conceal. Grapeshot, impact, and vortex scatterguns are designed to deliver enhanced damage.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "18",
+	"price": "331,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "4d12",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"blast"
+	],
+	"capacity": "12 shells"
+}

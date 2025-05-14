@@ -1,0 +1,23 @@
+{
+	"key": "Infernian, Firedrake-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Firedrake-Class&Family=Infernian",
+	"family": "Infernian",
+	"name_en": "Infernian, Firedrake-Class",
+	"description_en": "Produced in prison-factories on Embroi, this short pistol uses clips of magnesium flares to deliver shots of scorching fire. The fire from this weapon seems to dance briefly over the target, lunging out toward other creatures.",
+	"source": "Near Space pg. 150",
+	"level": "19",
+	"price": "591,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "7d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "Arc 4d6",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "20 flares"
+}

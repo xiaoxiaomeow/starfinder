@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Fork, 15-Notch",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=15-Notch&Family=Plasma Fork",
+	"family": "Plasma Fork",
+	"name_en": "Plasma Fork, 15-Notch",
+	"description_en": "Also known as a plasma rail gun, a plasma fork has two long metal prongs in place of a barrel. The mechanism magnetically accelerates a bolt of plasma between these two prongs, but it can also hold plasma temporarily between the prongs to charge up an even more devastating attack. Each model has a number of notches that infuse the plasma with energy, starting with 12-notch plasma forks and increasing in intensity to 15-notch, 19-notch, and 22-notch plasma forks.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "19",
+	"price": "750,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Plasma",
+	"damage": "6d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"boost 3d10"
+	],
+	"capacity": "40 charges"
+}

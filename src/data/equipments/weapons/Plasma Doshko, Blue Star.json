@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Doshko, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Plasma Doshko",
+	"family": "Plasma Doshko",
+	"name_en": "Plasma Doshko, Blue Star",
+	"description_en": "The plasma versions of these traditional vesk weapons use the same popular naming convention as other plasma weapons.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "15",
+	"price": "126,800",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "5d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "severe wound",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 2)"
+	],
+	"capacity": ""
+}

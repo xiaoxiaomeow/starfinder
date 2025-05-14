@@ -1,0 +1,24 @@
+{
+	"key": "Hailcannon, Ultracold",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ultracold&Family=Hailcannon",
+	"family": "Hailcannon",
+	"name_en": "Hailcannon, Ultracold",
+	"description_en": "Cryo Weapons",
+	"source": "Starfinder Armory pg. 35",
+	"level": "19",
+	"price": "565,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Cryo",
+	"damage": "14d8",
+	"damageType": [
+		"C",
+		"P"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"automatic"
+	],
+	"capacity": "80 charges"
+}

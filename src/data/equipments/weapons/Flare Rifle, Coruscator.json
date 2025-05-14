@@ -1,0 +1,25 @@
+{
+	"key": "Flare Rifle, Coruscator",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Coruscator&Family=Flare Rifle",
+	"family": "Flare Rifle",
+	"name_en": "Flare Rifle, Coruscator",
+	"description_en": "A flare rifle is similar in appearance to a combat rifle, though it has a slightly wider barrel and magazine. This weapon fires flares, which don’t typically deal tremendous damage but can distract opponents. Dazzler flare rifles fire a single, relatively ordinary flare, while the vivifier flare rifle breaks open the flare and burns it all in moments, causing far greater light and heat. Coruscator, scorcher, and nova models fire more flares at a time to increase their damage output.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "17",
+	"price": "201,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Flame",
+	"damage": "12d4",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d6",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"bright",
+		"harrying"
+	],
+	"capacity": "12 flares"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Degenerator Rifle, Military",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Military&Family=Degenerator Rifle",
+	"family": "Degenerator Rifle",
+	"name_en": "Degenerator Rifle, Military",
+	"description_en": "Sivv soldiers were armed with some version of the degenerator rifle, a two-handed longarm with improved range and destabilizing power. Like other sivv weapons, the rifle comes in two models: a less potent model intended for standard use and a more robust version used only by elite soldiers.",
+	"source": "Starfinder #33: Dominion’s End pg. 49",
+	"level": "20",
+	"price": "810,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Degenerator",
+	"damage": "10d8",
+	"damageType": [
+		"A",
+		"So"
+	],
+	"critical": "Degeneration 5d6",
+	"bulk": "2",
+	"special": [
+		"Hybrid"
+	],
+	"capacity": "80 charges"
+}

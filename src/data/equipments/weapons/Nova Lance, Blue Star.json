@@ -1,0 +1,25 @@
+{
+	"key": "Nova Lance, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Nova Lance",
+	"family": "Nova Lance",
+	"name_en": "Nova Lance, Blue Star",
+	"description_en": "This long weapon bears a plasma sheath at its striking tip. Although similar weapons are produced on many worlds, nova lances’ use in Eoxian racing broadcasts has made them especially popular throughout the Pact Worlds. They are typically manufactured by corporations that specialize in plasma pistols and plasma rifles and thus their models follow the same naming conventions: red star, yellow star, white star, and blue star.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "12",
+	"price": "39,500",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "7d4",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "severe wound",
+	"bulk": "2",
+	"special": [
+		"powered (capacity 40 usage 2)",
+		"reach"
+	],
+	"capacity": ""
+}

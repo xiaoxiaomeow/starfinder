@@ -1,0 +1,26 @@
+{
+	"key": "Fractal Hook, Static",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Static&Family=Fractal Hook",
+	"family": "Fractal Hook",
+	"name_en": "Fractal Hook, Static",
+	"description_en": "These graceful weapons have an infinitely repeating shape that grows smaller and smaller at its edges. This constant reshaping creates a sawing effect, enabling the blades to cut through nearly any substance.",
+	"source": "Tech Revolution pg. 65",
+	"level": "18",
+	"price": "360,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "9d12",
+	"damageType": [
+		"S"
+	],
+	"critical": "Embed 8d4",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"relic",
+		"penetrating",
+		"unwieldy"
+	],
+	"capacity": ""
+}

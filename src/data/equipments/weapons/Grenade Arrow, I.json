@@ -1,0 +1,21 @@
+{
+	"key": "Grenade Arrow, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Grenade Arrow",
+	"family": "Grenade Arrow",
+	"name_en": "Grenade Arrow, I",
+	"description_en": "The explosive tip of the arrow detonates on impact. A grenade arrow can be made using any handheld grenade. The miniaturized technology incorporated into the arrow increases its price substantially over an equivalent grenade.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "20",
+	"price": "245,000",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "Special",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "—",
+	"special": [
+		"as any 15th- or lower-level grenade"
+	],
+	"capacity": "1"
+}

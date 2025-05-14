@@ -1,0 +1,21 @@
+{
+	"key": "Rounds, Heavy",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Heavy&Family=Rounds",
+	"family": "Rounds",
+	"name_en": "Rounds, Heavy",
+	"description_en": "Cased rounds are housed in magazines, which can be fitted into the appropriate weapon.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "1",
+	"price": "75",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "25"
+}

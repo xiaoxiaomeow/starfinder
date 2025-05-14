@@ -1,0 +1,25 @@
+{
+	"key": "Staff, Sentinel",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sentinel&Family=Staff",
+	"family": "Staff",
+	"name_en": "Staff, Sentinel",
+	"description_en": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "13",
+	"price": "45,200",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "3d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"block",
+		"powered (capacity 20 usage 1)",
+		"stun"
+	],
+	"capacity": ""
+}

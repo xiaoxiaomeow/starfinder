@@ -1,0 +1,26 @@
+{
+	"key": "Shobhad Horizon Striker, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Shobhad Horizon Striker",
+	"family": "Shobhad Horizon Striker",
+	"name_en": "Shobhad Horizon Striker, Paragon",
+	"description_en": "Refined from traditional shobhad designs stretching back to long before the Gap, a horizon striker has remarkable range.",
+	"source": "Pact Worlds pg. 194",
+	"level": "11",
+	"price": "27,300",
+	"hands": "2",
+	"proficiency": "Sniper",
+	"category": "Projectile",
+	"damage": "6d4",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"sniper (1",
+		"250 ft.)",
+		"unwieldy"
+	],
+	"capacity": "2 rounds"
+}

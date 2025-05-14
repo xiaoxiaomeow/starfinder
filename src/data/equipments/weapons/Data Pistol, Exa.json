@@ -1,0 +1,27 @@
+{
+	"key": "Data Pistol, Exa",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Exa&Family=Data Pistol",
+	"family": "Data Pistol",
+	"name_en": "Data Pistol, Exa",
+	"description_en": "A data pistol has a short barrel and smooth aluminum grip covered in faint etchings of circuitry. The mainspring powers the mechanical housing that then processes the firearm’s technomagic coding. The data pistol’s code allows the wielder to quickly switch the forms of projectiles it produces. When fired, the circuitry emits code fragments in varying levels of intensity before discharging, glowing more brightly when using more charges.",
+	"source": "Starfinder #50: Clockwork Demons pg. 55",
+	"level": "14",
+	"price": "76,300",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "5d4",
+	"damageType": [
+		"B|p|s"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Boost 2d4",
+		"codework (capacity 40",
+		"usage 4)",
+		"force",
+		"modal"
+	],
+	"capacity": "40 charges"
+}

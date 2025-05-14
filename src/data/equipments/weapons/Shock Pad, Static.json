@@ -1,0 +1,25 @@
+{
+	"key": "Shock Pad, Static",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Static&Family=Shock Pad",
+	"family": "Shock Pad",
+	"name_en": "Shock Pad, Static",
+	"description_en": "A shock pad can be installed into an armor upgrade slot. When the user hits a target with the shock pad, the weapon emits an electric discharge that stuns or damages the target. These weapons are particularly valued in suits of powered armor that bring substantial strength to bear. Shock pads typically are available in static, aurora, storm, and tempest models.",
+	"source": "Starfinder Armory pg. 48",
+	"level": "17",
+	"price": "268,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "13d4",
+	"damageType": [
+		"E"
+	],
+	"critical": "staggered",
+	"bulk": "L",
+	"special": [
+		"integrated (1 slot)",
+		"powered (capacity 20 usage 1)",
+		"stun"
+	],
+	"capacity": ""
+}

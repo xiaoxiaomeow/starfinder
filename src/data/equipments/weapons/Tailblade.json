@@ -1,0 +1,25 @@
+{
+	"key": "Tailblade",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tailblade&Family=None",
+	"family": "None",
+	"name_en": "Tailblade",
+	"description_en": "Developed by ysoki on Akiton, this slender, lightweight blade has a series of bands that attach the blade to a tail or similar anatomy. Although using a tailblade doesn’t allow you to make additional attacks, it can free up your hands without leaving you unarmed.",
+	"source": "Starfinder Armory pg. 54",
+	"level": "4",
+	"price": "2,300",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "1d4",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"operative",
+		"tail"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Parapet Rifle, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Parapet Rifle",
+	"family": "Parapet Rifle",
+	"name_en": "Parapet Rifle, Advanced",
+	"description_en": "Designed by pahtra guerilla forces on Vesk-6, the parapet rifle enables long-range harassment while providing enhanced protection to its wielder against retaliation. These weapons often draw additional scrutiny within the Veskarium thanks to the number of lives lost to hit-and-run tactics.",
+	"source": "Tech Revolution pg. 62",
+	"level": "19",
+	"price": "610,000",
+	"hands": "2",
+	"proficiency": "Sniper",
+	"category": "Projectile",
+	"damage": "9d10",
+	"damageType": [
+		"E",
+		"P"
+	],
+	"critical": "Staggered",
+	"bulk": "2",
+	"special": [
+		"Buttressing",
+		"sniper (750 ft.)",
+		"unwieldy"
+	],
+	"capacity": "6 rounds "
+}

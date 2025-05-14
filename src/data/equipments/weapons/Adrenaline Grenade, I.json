@@ -1,0 +1,21 @@
+{
+	"key": "Adrenaline Grenade, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Adrenaline Grenade",
+	"family": "Adrenaline Grenade",
+	"name_en": "Adrenaline Grenade, I",
+	"description_en": "This explosive sprays a fine mist of adrenaline upon detonation. Each living creature in the area gains the listed bonus as an enhancement bonus to their speed until the end of their next turn.",
+	"source": "Starfinder Enhanced pg. 165",
+	"level": "17",
+	"price": "37,600",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (15 ft. 30-foot bonus)"
+	],
+	"capacity": "Drawn"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Uppercut SMG, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Uppercut SMG",
+	"family": "Uppercut SMG",
+	"name_en": "Uppercut SMG, Tactical",
+	"description_en": "Dozens of new submachine gun models hit the market every year, yet few have matched the intersection of affordability and reliability achieved by the uppercut SMG.",
+	"source": "Tech Revolution pg. 61",
+	"level": "18",
+	"price": "380,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Projectile",
+	"damage": "4d12",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"automatic"
+	],
+	"capacity": "20 rounds "
+}

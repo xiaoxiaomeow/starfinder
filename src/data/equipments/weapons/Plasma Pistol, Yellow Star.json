@@ -1,0 +1,25 @@
+{
+	"key": "Plasma Pistol, Yellow Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Yellow Star&Family=Plasma Pistol",
+	"family": "Plasma Pistol",
+	"name_en": "Plasma Pistol, Yellow Star",
+	"description_en": "Plasma pistols fire a line of ionized plasma out to a relatively short range. The plasma can continue to burn after contact.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "19",
+	"price": "565,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Plasma",
+	"damage": "5d8",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 3d8",
+	"bulk": "L",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

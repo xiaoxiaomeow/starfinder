@@ -1,0 +1,26 @@
+{
+	"key": "Neutriad Flail",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Neutriad Flail&Family=None",
+	"family": "None",
+	"name_en": "Neutriad Flail",
+	"description_en": "A neutriad flail is a 5th level advanced melee weapon that deals 1d8 bludgeoning damage and has the push critical hit effect. It has the disarm, force, and powered (capacity 20, usage 1) special properties and 1 bulk, and it costs 3,200 credits.",
+	"source": "SFS Scenario #2–08: The Stumbling Society, Part 2: Sangoro’s Gifts pg. 23",
+	"level": "5",
+	"price": "3,200",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "1d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "push",
+	"bulk": "1",
+	"special": [
+		"Disarm",
+		"Force",
+		"Powered (capacity 20",
+		"usage 1)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Blaze Scimitar, Cleric",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Cleric&Family=Blaze Scimitar",
+	"family": "Blaze Scimitar",
+	"name_en": "Blaze Scimitar, Cleric",
+	"description_en": "Known far and wide for their fighting prowess, Sarenites who delve into the darkest corners of the universe often take the holy weapon of their goddess with them. A blaze scimitar is made of a metallic alloy that can be heated to blistering temperatures again and again through use of a an induction magnet. These golden blades glow bright orange when activated and shed light in a wide area when they strike a blow. Due to their weight and the power required to follow through with attacks, they must be wielded with two hands.",
+	"source": "Tech Revolution pg. 60, Starfinder #13: Fire Starters pg. 52",
+	"level": "16",
+	"price": "162,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Flame",
+	"damage": "8d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "Burn 2d8",
+	"bulk": "1",
+	"special": [
+		"Bright",
+		"powered (capacity 40 usage 2)"
+	],
+	"capacity": ""
+}

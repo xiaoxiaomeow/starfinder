@@ -1,0 +1,23 @@
+{
+	"key": "Dragon Rifle, Drake",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Drake&Family=Dragon Rifle",
+	"family": "Dragon Rifle",
+	"name_en": "Dragon Rifle, Drake",
+	"description_en": "A larger and more powerful version of a dragon pistol, a dragon rifle also commonly bears draconic motifs or iconography in its aesthetic design. The globules of petrol from a dragon rifle are slightly larger than those from a pistol, and the weapon can be set to launch a series of shots in quick succession. Wyrmling, drake, and wyvern dragon rifles are available, along with the powerful and rare true dragon rifle.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "19",
+	"price": "559,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Flame",
+	"damage": "11d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d4",
+	"bulk": "1",
+	"special": [
+		"automatic"
+	],
+	"capacity": "20 petrol"
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Battletune, Soprano",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Soprano&Family=Battletune",
+	"family": "Battletune",
+	"name_en": "Battletune, Soprano",
+	"description_en": "A battletune comes in a variety of sizes and shapes, as it mimics the variety of musical instruments found across countless cultures throughout the galaxy. This instrument, however, is sturdy enough to be used as a bludgeoning weapon in combat without activating the battery. When powered, its sonic vibrations instead harm the eardrums of enemies (though this weapon always targets KAC).",
+	"source": "Starfinder #46: The Perfect Storm pg. 44",
+	"level": "12",
+	"price": "34,600",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "Sonic",
+	"damage": "2d8",
+	"damageType": [
+		"B|So"
+	],
+	"critical": "deafen",
+	"bulk": "1",
+	"special": [
+		"instrumental",
+		"modal (sonic)",
+		"powered (capacity 80",
+		"usage 4)"
+	],
+	"capacity": ""
+}

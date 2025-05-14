@@ -1,0 +1,21 @@
+{
+	"key": "Antimagic Grenade, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Antimagic Grenade",
+	"family": "Antimagic Grenade",
+	"name_en": "Antimagic Grenade, II",
+	"description_en": "An antimagic grenade creates a temporary field that inhibits magic in its radius. Upon detonation, everything in the grenade’s radius is affected by an area dispel as greater dispel magic, using the grenade’s item level as the caster level. Second, each creature in the explosion radius must make a Will save each time they attempt to cast a spell or use a spell-like ability for a number of rounds equal to the grenade’s model number, or lose the spell or spell-like ability. A creature, object, or area can be affected by only one antimagic grenade every 24 hours.",
+	"source": "Drift Crisis pg. 51",
+	"level": "15",
+	"price": "27,500",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (20 ft. see text)"
+	],
+	"capacity": "Drawn"
+}

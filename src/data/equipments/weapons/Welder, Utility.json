@@ -1,0 +1,25 @@
+{
+	"key": "Welder, Utility",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Utility&Family=Welder",
+	"family": "Welder",
+	"name_en": "Welder, Utility",
+	"description_en": "Though generally recognized as tools, welders are so commonly used as improvised weapons that some ysoki manufacturers have begun designing them to serve equally well in both roles. A welder is often little more than a battery casing and an exposed plasma conduit. Utility welders are simple and straightforward, and industrial welders are more powerful and built to be more comfortable for more regular use. Starship welders are versatile and relatively compact for their output, while offensive welders are intended for combat first and maintenance only as an afterthought.",
+	"source": "Starfinder Armory pg. 43",
+	"level": "16",
+	"price": "164,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "11d4",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 40 usage 4)",
+		"professional (contractor)"
+	],
+	"capacity": ""
+}

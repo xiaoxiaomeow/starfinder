@@ -1,0 +1,23 @@
+{
+	"key": "Collapsible Battle Ladder",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Collapsible Battle Ladder&Family=None",
+	"family": "None",
+	"name_en": "Collapsible Battle Ladder",
+	"description_en": "Favored by smaller species, this pocket-sized ladder is a gnomish invention useful both in and out of combat. A collapsible battle ladder can be extended to its full length of 10 feet or collapsed to its compressed size of 2 feet as a standard action. Once extended, the ladder doubles in bulk and gains the reach and trip weapon special properties. Outside of combat, this collapsible ladder is extremely useful for reaching heights the user couldn't normally access.",
+	"source": "Starfinder #50: Clockwork Demons pg. 51",
+	"level": "4",
+	"price": "2,050",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "1d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": ""
+}

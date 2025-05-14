@@ -1,0 +1,23 @@
+{
+	"key": "Dirge Pistol, Harmonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Harmonic&Family=Dirge Pistol",
+	"family": "Dirge Pistol",
+	"name_en": "Dirge Pistol, Harmonic",
+	"description_en": "The oscillating sonic waves discharged from a dirge pistol work like those fired from a dirge cannon. Raiders and hijackers prize these weapons for their effect against living targets, which can leave many valuables unharmed. Harmonic and resonant dirge pistols generate stable oscillations, while the anharmonic, parametric, and radial dirge pistols have concentric generator cylinders to produce dissonant and more harmful output.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "19",
+	"price": "660,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Sonic",
+	"damage": "10d4",
+	"damageType": [
+		"So"
+	],
+	"critical": "sicken",
+	"bulk": "L",
+	"special": [
+		"antibiological"
+	],
+	"capacity": "20 charges"
+}

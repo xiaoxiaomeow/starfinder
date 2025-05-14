@@ -1,0 +1,24 @@
+{
+	"key": "Shell Knuckles, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Shell Knuckles",
+	"family": "Shell Knuckles",
+	"name_en": "Shell Knuckles, Tactical",
+	"description_en": "This bulky glove fits over the user’s hand, with reinforced plates covering the knuckles. When the weapon connects with a target, the kinetic force fires scattergun shells into the target and deal impressive bludgeoning damage. Mercenaries favor these weapons for fighting at close quarters, and pirates sometimes use them to make their punches all the more dramatic. Shell knuckles are available in tactical, advanced, elite, and paragon models.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "20",
+	"price": "525,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "14d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"shells (4 usage 4)"
+	],
+	"capacity": ""
+}

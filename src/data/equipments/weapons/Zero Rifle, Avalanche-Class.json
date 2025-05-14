@@ -1,0 +1,23 @@
+{
+	"key": "Zero Rifle, Avalanche-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Avalanche-Class&Family=Zero Rifle",
+	"family": "Zero Rifle",
+	"name_en": "Zero Rifle, Avalanche-Class",
+	"description_en": "Zero rifles have long, bulky barrels and tend to be very frontheavy. A heavy tank over the barrel stores the rifle’s coolant supply, contributing most of its bulk.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "14",
+	"price": "79,800",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Cryo",
+	"damage": "4d8",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"—"
+	],
+	"capacity": "80 charges"
+}

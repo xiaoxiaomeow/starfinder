@@ -1,0 +1,25 @@
+{
+	"key": "Lightning Pistol, Smooth-Channel",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Smooth-Channel&Family=Lightning Pistol",
+	"family": "Lightning Pistol",
+	"name_en": "Lightning Pistol, Smooth-Channel",
+	"description_en": "When fired, this weapon erupts with a long, crackling bolt of electricity reminiscent of lightning. Sheet lightning pistols and ribbon lightning pistols are relatively common, but rocket and smooth-channel lightning pistols typically require a special license to carry legally.",
+	"source": "Starfinder Armory pg. 45",
+	"level": "12",
+	"price": "37,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Shock",
+	"damage": "2d8",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"line",
+		"stun",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

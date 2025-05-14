@@ -1,0 +1,25 @@
+{
+	"key": "Singing Spear, Alto",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Alto&Family=Singing Spear",
+	"family": "Singing Spear",
+	"name_en": "Singing Spear, Alto",
+	"description_en": "As a singing spear moves through the air, grooves and channels along its length catch the wind, amplifying the noise into a strong sonic vibration. Lashunta shotalashu hunters of Castrovel originally used the weapons as the sound helped members of hunting parties keep track of one another and identify where targets might be in thick undergrowth. Singing spears sound pleasant, and can be found in sopranino, soprano, alto, and tenor models. Each has increasingly precise grooves for improved sonic damage that can disturb the inner ear and cause brief disorientation.",
+	"source": "Starfinder Armory pg. 51",
+	"level": "17",
+	"price": "247,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "11d8",
+	"damageType": [
+		"P",
+		"So"
+	],
+	"critical": "confuse",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"thrown (20 ft.)"
+	],
+	"capacity": ""
+}

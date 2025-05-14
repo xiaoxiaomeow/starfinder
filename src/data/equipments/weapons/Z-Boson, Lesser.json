@@ -1,0 +1,21 @@
+{
+	"key": "Z-Boson, Lesser",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Lesser&Family=Z-Boson",
+	"family": "Z-Boson",
+	"name_en": "Z-Boson, Lesser",
+	"description_en": "",
+	"source": "Starfinder Armory pg. 49",
+	"level": "19",
+	"price": "561,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+4d8 ",
+	"damageType": [],
+	"critical": "push (30 ft.)",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

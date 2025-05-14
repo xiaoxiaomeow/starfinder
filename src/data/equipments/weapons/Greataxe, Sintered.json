@@ -1,0 +1,23 @@
+{
+	"key": "Greataxe, Sintered",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sintered&Family=Greataxe",
+	"family": "Greataxe",
+	"name_en": "Greataxe, Sintered",
+	"description_en": "No one can argue against the damage potential of a greataxe. Half-orcs who take an interest in fragmentary records from lost Golarion embrace the greataxe as a cultural symbol. Tactical greataxes are the most common, but sintered models are made of dense ceramic and designed to increase the axe’s effectiveness against modern gear. It’s hard to tell ultrathin greataxes from molecular rift models at a glance, but one’s edge is merely blurry while the other’s is actually translucent.",
+	"source": "Starfinder Armory pg. 52",
+	"level": "14",
+	"price": "69,800",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "4d12",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Bone Scepter, Void",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Void&Family=Bone Scepter",
+	"family": "Bone Scepter",
+	"name_en": "Bone Scepter, Void",
+	"description_en": "These narrow clubs are often constructed of numerous intertwined bones—as one might expect from a weapon designed by Eoxians—infused with a silvery absolute-zero alloy that instantly draws the heat out of living creatures on contact. Chill bone scepters and void bone scepters have fine threads of the rare alloy, while rigor bone scepters and cadaver bone scepters shimmer with it.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "19",
+	"price": "598,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "12d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "leech",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"antibiological"
+	],
+	"capacity": ""
+}

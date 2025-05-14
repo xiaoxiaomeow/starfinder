@@ -1,0 +1,29 @@
+{
+	"key": "Countdown Blade, Minute",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Minute&Family=Countdown Blade",
+	"family": "Countdown Blade",
+	"name_en": "Countdown Blade, Minute",
+	"description_en": "Until activated, a countdown blade is little more than a metallic hilt with a small retractable key used to wind it. In battle, the hilt projects a blade of force. Though most countdown blades default to a standard sword shape, the exact nature of the blade can be customized to suit the user’s needs, from axes to knives to doshkos. With the blade retracted, these weapons are extremely compact and concealable, making the countdown blade a favorite of many agents on covert missions.",
+	"source": "Starfinder #50: Clockwork Demons pg. 53",
+	"level": "15",
+	"price": "113,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "5d4",
+	"damageType": [
+		"S|p"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Boost 2d4",
+		"codework (capacity 20",
+		"usage 4)",
+		"conceal",
+		"force",
+		"operative",
+		"modal"
+	],
+	"capacity": ""
+}

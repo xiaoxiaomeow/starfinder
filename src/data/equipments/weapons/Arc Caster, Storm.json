@@ -1,0 +1,24 @@
+{
+	"key": "Arc Caster, Storm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Storm&Family=Arc Caster",
+	"family": "Arc Caster",
+	"name_en": "Arc Caster, Storm",
+	"description_en": "Flanked by large handles, an arc caster bristles with capacitors and antennae that release more energy than it can realistically control. While many shock weapons have a chance to arc to a second target on a hit, the arc caster is designed to achieve that feat on every shot, and particularly well-aimed strikes can sometimes arc twice. The storm and tempest models feature improvements that build upon the capabilities of static and aurora arc casters. Since there is little way to control which creatures are struck on the subsequent arcs, arc casters are generally used only by solo combatants or those with little regard for their allies’ well-being. More rarely, party members may take particular precautions against electricity damage, such as with a resistant armor spell or an electrostatic field armor upgrade, to protect themselves from an ally wielding an arc caster.",
+	"source": "Starfinder Armory pg. 45",
+	"level": "17",
+	"price": "262,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "10d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "second arc 4d6",
+	"bulk": "2",
+	"special": [
+		"first arc 4d6",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Repeater Grenade, III",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=III&Family=Repeater Grenade",
+	"family": "Repeater Grenade",
+	"name_en": "Repeater Grenade, III",
+	"description_en": "This cacophonous grenade detonates not only upon use but also two additional times at the same location, for the same damage. These additional detonations take place at the start of the turn of the creature who used the grenade.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "18",
+	"price": "49,100",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (6d8 So",
+		"15 ft.",
+		"see text)"
+	],
+	"capacity": "Drawn"
+}

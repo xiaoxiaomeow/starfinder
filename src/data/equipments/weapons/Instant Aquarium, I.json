@@ -1,0 +1,21 @@
+{
+	"key": "Instant Aquarium, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Instant Aquarium",
+	"family": "Instant Aquarium",
+	"name_en": "Instant Aquarium, I",
+	"description_en": "This small glass sphere’s explosion fills a hemisphere of the listed radius, or as much of one as possible, with water for 1 round. Creatures in the blast radius who are adjacent to a square unaffected by this explosion can attempt a Reflex saving throw to move to that square. The water is held in place with a mild force field that creatures can pass through without effort. Inside the water area, normal aquatic rules apply. The water is considered calm for the purpose of Athletics checks to swim.",
+	"source": "Starfinder Enhanced pg. 166",
+	"level": "9",
+	"price": "2,050",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (20 ft.) see text"
+	],
+	"capacity": "Drawn"
+}

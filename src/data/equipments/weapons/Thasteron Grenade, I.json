@@ -1,0 +1,23 @@
+{
+	"key": "Thasteron Grenade, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Thasteron Grenade",
+	"family": "Thasteron Grenade",
+	"name_en": "Thasteron Grenade, I",
+	"description_en": "Nicknamed the “hole-maker,” this raw thasteron-packed explosive is a favored room-clearing device for special forces.",
+	"source": "Drift Crisis pg. 51",
+	"level": "18",
+	"price": "110,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (staggered",
+		"30 ft.)",
+		"propel 15 ft."
+	],
+	"capacity": "Drawn"
+}

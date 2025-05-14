@@ -1,0 +1,25 @@
+{
+	"key": "Manica, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Manica",
+	"family": "Manica",
+	"name_en": "Manica, Advanced",
+	"description_en": "Consisting of a series of durable arm plates strapped across a limb, these weapons serve a dual purpose of offense and defense. While ancient manicas may have taken time to don, modern-day versions cover the arm quickly with the assistance of spring-loaded mechanisms. Gladiator manicas are favored by players of martial sports such as brutaris, despite their ungainly size preventing other weapons being wielded with the same hand.",
+	"source": "Starfinder #46: The Perfect Storm pg. 45",
+	"level": "16",
+	"price": "172,600",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "9d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "push (15 ft.)",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"block",
+		"unwieldy"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,22 @@
+{
+	"key": "Ethereal Bomb, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Ethereal Bomb",
+	"family": "Ethereal Bomb",
+	"name_en": "Ethereal Bomb, II",
+	"description_en": "Used to drive out spirits and ethereal creatures, this explosive channels energy from the ethereal plane; its damage has the force descriptor. Its multicolored lights leave a temporary otherworldly glow. Churches sometimes keep small stocks of ethereal bombs for ghost-hunters and exorcists.",
+	"source": "Starfinder Enhanced pg. 166",
+	"level": "17",
+	"price": "34,480",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (5d12 B",
+		"15 ft.)"
+	],
+	"capacity": "Drawn"
+}

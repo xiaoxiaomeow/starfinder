@@ -1,0 +1,25 @@
+{
+	"key": "Ignurso Knuckles, Solar Flare",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Solar Flare&Family=Ignurso Knuckles",
+	"family": "Ignurso Knuckles",
+	"name_en": "Ignurso Knuckles, Solar Flare",
+	"description_en": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes.",
+	"source": "Alien Archive 4 pg. 51",
+	"level": "13",
+	"price": "50,250",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "4d6",
+	"damageType": [
+		"F",
+		"S"
+	],
+	"critical": "Wound",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"penetrating"
+	],
+	"capacity": ""
+}

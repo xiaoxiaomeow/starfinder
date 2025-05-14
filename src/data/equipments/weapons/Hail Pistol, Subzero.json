@@ -1,0 +1,24 @@
+{
+	"key": "Hail Pistol, Subzero",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Subzero&Family=Hail Pistol",
+	"family": "Hail Pistol",
+	"name_en": "Hail Pistol, Subzero",
+	"description_en": "A hail pistol includes a chamber behind the barrel that circulates supercooled vapor and causes it to coalesce into razor-edged shards of ice that leave foes with rime-edged bleeding wounds. Subzero, gelid, ultracold, and absolute-zero hail pistols each produce progressively larger and more jagged shards.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "17",
+	"price": "218,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "5d8",
+	"damageType": [
+		"C",
+		"P"
+	],
+	"critical": "bleed 1d10",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "20 charges"
+}

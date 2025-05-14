@@ -1,0 +1,24 @@
+{
+	"key": "Magnetar Rifle, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Magnetar Rifle",
+	"family": "Magnetar Rifle",
+	"name_en": "Magnetar Rifle, Tactical",
+	"description_en": "The magnetar rifle uses magnetic fields to accelerate metallic rounds to high speeds. With few moving parts that can break down, it’s a workhorse automatic rifle popular among planetary explorers.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "19",
+	"price": "612,600",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "8d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"automatic"
+	],
+	"capacity": "48 rounds"
+}

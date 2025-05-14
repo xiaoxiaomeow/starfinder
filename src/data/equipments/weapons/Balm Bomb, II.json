@@ -1,0 +1,21 @@
+{
+	"key": "Balm Bomb, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Balm Bomb",
+	"family": "Balm Bomb",
+	"name_en": "Balm Bomb, II",
+	"description_en": "The small explosive atomizes healing serums with a light spray. Such devices are often labeled with emblems of deities or organizations associated with medicine and healing. Each creature in the area recovers the listed amount of Hit Points.",
+	"source": "Starfinder Enhanced pg. 166",
+	"level": "14",
+	"price": "11,700",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (15 ft. 6d8 HP)"
+	],
+	"capacity": "Drawn"
+}

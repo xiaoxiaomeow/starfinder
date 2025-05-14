@@ -1,0 +1,23 @@
+{
+	"key": "Steam Cloud Grenade, III",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=III&Family=Steam Cloud Grenade",
+	"family": "Steam Cloud Grenade",
+	"name_en": "Steam Cloud Grenade, III",
+	"description_en": "This device releases highly pressurized steam that fills the area for 1d4 rounds before dissipating. Creatures in the area can attempt a Reflex save for half damage upon detonation as normal, and any creature who enters or begins their turn in the cloud must attempt an additional Reflex save against the same damage. Further, the steam cloud provides concealment.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "18",
+	"price": "57,600",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (6d8 F",
+		"20 ft.",
+		"see text)"
+	],
+	"capacity": "Drawn"
+}

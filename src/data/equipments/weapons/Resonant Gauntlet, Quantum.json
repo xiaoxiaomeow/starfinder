@@ -1,0 +1,24 @@
+{
+	"key": "Resonant Gauntlet, Quantum",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Quantum&Family=Resonant Gauntlet",
+	"family": "Resonant Gauntlet",
+	"name_en": "Resonant Gauntlet, Quantum",
+	"description_en": "The translucent crystal network in a resonant gauntlet has its origins in the rings of the gas giant Liavara. The rings contain crystal fragments thought to record every sonic vibration that passes through them. Researchers have yet to fully decode the information they hold, but they have been able to develop a material that shares some of the crystal’s properties.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "15",
+	"price": "124,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "8d4",
+	"damageType": [
+		"So"
+	],
+	"critical": "nauseate",
+	"bulk": "L",
+	"special": [
+		"boost 4d4",
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

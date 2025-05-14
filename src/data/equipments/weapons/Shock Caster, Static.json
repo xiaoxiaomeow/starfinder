@@ -1,0 +1,24 @@
+{
+	"key": "Shock Caster, Static",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Static&Family=Shock Caster",
+	"family": "Shock Caster",
+	"name_en": "Shock Caster, Static",
+	"description_en": "Shock casters fire a blast of electrical energy that explodes when it impacts, creating an electrical storm that can damage and stun anyone within its radius.",
+	"source": "Starfinder Core Rulebook pg. 178",
+	"level": "20",
+	"price": "735,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "7d12",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"explode (20 ft.)",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

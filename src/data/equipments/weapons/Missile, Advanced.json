@@ -1,0 +1,21 @@
+{
+	"key": "Missile, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Missile",
+	"family": "Missile",
+	"name_en": "Missile, Advanced",
+	"description_en": "Missiles are heavy, snub-nosed munitions with devastating explosive power. A missile’s damage when fired from a missile launcher (such as an IMDS missile launcher) is listed in its entry in Table 7–9: Ammunition on page 179.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "10",
+	"price": "5,700",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "Special",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"explode (6d8 B & P 30 ft.)"
+	],
+	"capacity": "1"
+}

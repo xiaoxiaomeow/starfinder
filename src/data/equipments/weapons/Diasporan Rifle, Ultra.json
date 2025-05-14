@@ -1,0 +1,25 @@
+{
+	"key": "Diasporan Rifle, Ultra",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ultra&Family=Diasporan Rifle",
+	"family": "Diasporan Rifle",
+	"name_en": "Diasporan Rifle, Ultra",
+	"description_en": "These sleek firearms were developed by the finest sarcesian engineers for use by elite mercenaries. The most common manufacturer is MuniTech, one of the only corporations fully owned and operated by sarcesians. Diasporan rifles are sniper rifles that belong to the laser category.",
+	"source": "Alien Archive pg. 99",
+	"level": "20",
+	"price": "725,000",
+	"hands": "2",
+	"proficiency": "Sniper",
+	"category": "Laser",
+	"damage": "10d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"sniper (1",
+		"000 ft.)",
+		"unwieldy"
+	],
+	"capacity": "30 charges"
+}

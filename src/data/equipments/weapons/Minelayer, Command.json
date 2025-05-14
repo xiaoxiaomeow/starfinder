@@ -1,0 +1,21 @@
+{
+	"key": "Minelayer, Command",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Command&Family=Minelayer",
+	"family": "Minelayer",
+	"name_en": "Minelayer, Command",
+	"description_en": "A specialized form of grenade launcher, a minelayer surrounds its ordnance with a cushioning magnetic field. Grenades must be loaded into a minelayer individually, and a user can decide which grenade to fire with each shot. A merc minelayer holds up to 8 grenades at once, a squad model holds 12, a platoon version can carry up to 16, and the command minelayer can hold an impressive 20 grenades.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "13",
+	"price": "51,400",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"mine"
+	],
+	"capacity": "16 grenades"
+}

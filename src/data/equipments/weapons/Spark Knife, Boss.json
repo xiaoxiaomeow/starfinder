@@ -1,0 +1,26 @@
+{
+	"key": "Spark Knife, Boss",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Boss&Family=Spark Knife",
+	"family": "Spark Knife",
+	"name_en": "Spark Knife, Boss",
+	"description_en": "A spark knife is similar in appearance to a typical survival knife, leading to confusion among those unfamiliar with the weapon. In addition to dealing electricity damage, a spark knife can siphon electrical charge from its target’s natural electrical attacks, recharging its own battery. These blades were originally created in the Absalom Station neighborhood of Sparks, and different versions trace their names to their usage there: runner spark knives are relatively inexpensive, followed by recruit spark knives. Crew spark knives and boss spark knives are rarer, tracing back to those in established positions in the neighborhood’s social order.",
+	"source": "Starfinder Armory pg. 48",
+	"level": "10",
+	"price": "18,200",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "2d6",
+	"damageType": [
+		"E",
+		"S"
+	],
+	"critical": "arc 2d6",
+	"bulk": "L",
+	"special": [
+		"drain charge",
+		"operative",
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

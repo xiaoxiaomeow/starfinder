@@ -1,0 +1,23 @@
+{
+	"key": "Cryo Grenade, Mk 4",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 4&Family=Cryo Grenade",
+	"family": "Cryo Grenade",
+	"name_en": "Cryo Grenade, Mk 4",
+	"description_en": "Cryo grenades release a blast of supercooled chemicals on impact, which immediately coalesce into freezing particles.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "14",
+	"price": "9,400",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "4d8",
+	"damageType": [
+		"C"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (4d8 C staggered 1 round; 20 ft.)"
+	],
+	"capacity": "drawn"
+}

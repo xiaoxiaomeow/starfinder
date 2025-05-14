@@ -1,0 +1,23 @@
+{
+	"key": "Scrambler Rifle, Termite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Termite&Family=Scrambler Rifle",
+	"family": "Scrambler Rifle",
+	"name_en": "Scrambler Rifle, Termite",
+	"description_en": "A group of skittermander researchers on Pritinzo have found a way to fight back against the Swarm. By finely tuning the frequency of certain weapons, the engineers can temporarily disrupt telepathic communication, including the hive mind capabilities of Swarm creatures. Cut off from communication with their fellow components, Swarm creatures are disconcerted, even if just for a moment, allowing the planet’s resistance a chance to fight back.",
+	"source": "Drift Crisis pg. 107",
+	"level": "14",
+	"price": "82,600",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "4d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "Confuse",
+	"bulk": "1",
+	"special": [
+		"Scramble"
+	],
+	"capacity": "20 charges "
+}

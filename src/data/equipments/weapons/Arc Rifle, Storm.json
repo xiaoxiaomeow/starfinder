@@ -1,0 +1,23 @@
+{
+	"key": "Arc Rifle, Storm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Storm&Family=Arc Rifle",
+	"family": "Arc Rifle",
+	"name_en": "Arc Rifle, Storm",
+	"description_en": "Arc rifles fire deadly electrical blasts and have a longer range than arc pistols. Like arc pistols, arc rifles can stun targets that are not killed outright by the electricity damage.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "19",
+	"price": "622,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "6d12",
+	"damageType": [
+		"E"
+	],
+	"critical": "arc 6d6",
+	"bulk": "2",
+	"special": [
+		"stun"
+	],
+	"capacity": "100 charges"
+}

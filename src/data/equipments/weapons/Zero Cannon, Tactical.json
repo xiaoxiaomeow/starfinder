@@ -1,0 +1,24 @@
+{
+	"key": "Zero Cannon, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Zero Cannon",
+	"family": "Zero Cannon",
+	"name_en": "Zero Cannon, Tactical",
+	"description_en": "Zero cannons project a freezing line straight out from a generator, affecting any targets within the line. A pair of tanks in the cannon’s heavy stock contain chemical coolants that produce a violent endothermic reaction when mixed in the insulated barrel.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "18",
+	"price": "412,800",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Cryo",
+	"damage": "8d8",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

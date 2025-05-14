@@ -1,0 +1,26 @@
+{
+	"key": "Voidhammer, Primordial",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Primordial&Family=Voidhammer",
+	"family": "Voidhammer",
+	"name_en": "Voidhammer, Primordial",
+	"description_en": "A voidhammer is a modified swoop hammer integrated with a miniaturized projector that, when activated, creates a small gravitational anomaly on its head. This faux black hole crushes those struck with the hammer and can even pin them to the ground. Black market sellers of voidhammers claim to have “liberated” them from the Lightbringers, who crafted them from anacite technology supposedly found on Anodyne. Voidhammers have the immobilize critical hit effect.",
+	"source": "Starfinder #26: Flight of the Sleepers pg. 49",
+	"level": "18",
+	"price": "390,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "12d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "Immobilize",
+	"bulk": "2",
+	"special": [
+		"Powered (capacity 80",
+		"usage 4)",
+		"reach",
+		"unwieldy"
+	],
+	"capacity": ""
+}

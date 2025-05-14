@@ -1,0 +1,25 @@
+{
+	"key": "Icestar Staff, Leader",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Leader&Family=Icestar Staff",
+	"family": "Icestar Staff",
+	"name_en": "Icestar Staff, Leader",
+	"description_en": "An icestar staff is an homage to the planet of Verces, where shirren immigrants making their first Pact Worlds home developed the weapon. One end of this staff glows with heat, while the other end shimmers with frost, offering the wielder the choice of which to use for each strike—a particular treat for its shirren creators. Icestar staves come in defender, seeker, warrior, drifter, and leader models.",
+	"source": "Starfinder Armory pg. 35",
+	"level": "14",
+	"price": "73,100",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "6d6",
+	"damageType": [
+		"C|f"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"block",
+		"double (flame)",
+		"powered (capacity 40 usage 2)"
+	],
+	"capacity": ""
+}

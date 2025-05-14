@@ -1,0 +1,25 @@
+{
+	"key": "Arc Emitter, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Arc Emitter",
+	"family": "Arc Emitter",
+	"name_en": "Arc Emitter, Advanced",
+	"description_en": "Arc emitters discharge a cone of electrical energy that can damage and stun anyone within its area. Advanced arc emitters can be used at a longer range and are used by military forces to stun and subdue groups of enemies.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "2",
+	"price": "750",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "1d4",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"blast",
+		"stun",
+		"unwieldy"
+	],
+	"capacity": "20 charges"
+}

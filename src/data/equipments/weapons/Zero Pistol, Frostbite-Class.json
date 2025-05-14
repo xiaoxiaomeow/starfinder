@@ -1,0 +1,23 @@
+{
+	"key": "Zero Pistol, Frostbite-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Frostbite-Class&Family=Zero Pistol",
+	"family": "Zero Pistol",
+	"name_en": "Zero Pistol, Frostbite-Class",
+	"description_en": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "19",
+	"price": "492,900",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "6d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "80 charges"
+}

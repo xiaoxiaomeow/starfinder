@@ -1,0 +1,23 @@
+{
+	"key": "Mindspike, Ultraserrated",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ultraserrated&Family=Mindspike",
+	"family": "Mindspike",
+	"name_en": "Mindspike, Ultraserrated",
+	"description_en": "The impact of this insectile-looking spike can cause pain or otherwise addle the target’s nervous system.",
+	"source": "Starfinder #19: Fate of the Fifth pg. 53",
+	"level": "14",
+	"price": "77,800",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "7d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "staggered",
+	"bulk": "L",
+	"special": [
+		"Analog"
+	],
+	"capacity": ""
+}

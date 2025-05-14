@@ -1,0 +1,24 @@
+{
+	"key": "Resonant Gauntlet, Cellular",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Cellular&Family=Resonant Gauntlet",
+	"family": "Resonant Gauntlet",
+	"name_en": "Resonant Gauntlet, Cellular",
+	"description_en": "The translucent crystal network in a resonant gauntlet has its origins in the rings of the gas giant Liavara. The rings contain crystal fragments thought to record every sonic vibration that passes through them. Researchers have yet to fully decode the information they hold, but they have been able to develop a material that shares some of the crystal’s properties.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "20",
+	"price": "901,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "6d12",
+	"damageType": [
+		"So"
+	],
+	"critical": "nauseate",
+	"bulk": "L",
+	"special": [
+		"boost 3d12",
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

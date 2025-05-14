@@ -1,0 +1,24 @@
+{
+	"key": "Excavation Laser, Medium",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Medium&Family=Excavation Laser",
+	"family": "Excavation Laser",
+	"name_en": "Excavation Laser, Medium",
+	"description_en": "This sturdy, snub-nosed laser rifle resembles a starship’s mining laser in miniature. It fires a powerful beam that loses intensity after a relatively short distance, which makes it not only useful in many mining and quarrying endeavors but also effective in medium-range combat for those trained in its use. Most technologically advanced civilizations develop excavation lasers, and the tools are commonly seen in the hands of workers from the Ulrikka Clanholdings and other miners in the Diaspora. Light, medium, and heavy excavation lasers all see extensive use.",
+	"source": "Starfinder Armory pg. 40",
+	"level": "18",
+	"price": "380,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Laser",
+	"damage": "6d10",
+	"damageType": [
+		"F"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"penetrating",
+		"professional (mining)"
+	],
+	"capacity": "80 charges"
+}

@@ -1,0 +1,21 @@
+{
+	"key": "Pheromone Grenade, Mk 4",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 4&Family=Pheromone Grenade",
+	"family": "Pheromone Grenade",
+	"name_en": "Pheromone Grenade, Mk 4",
+	"description_en": "Though scientists understand little about how a <%ALIENS%Vracinea%%>vracinea’s<%END> paralyzing scent affects the brain, weapon designers across the galaxy have been inspired by its effects and have replicated them with custom hybrid grenades. When it bursts, a",
+	"source": "Alien Archive 3 pg. 131",
+	"level": "12",
+	"price": "5,300",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (20 ft. see text)"
+	],
+	"capacity": "drawn"
+}

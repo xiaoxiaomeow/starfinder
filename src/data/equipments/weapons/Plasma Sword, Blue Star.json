@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Sword, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Plasma Sword",
+	"family": "Plasma Sword",
+	"name_en": "Plasma Sword, Blue Star",
+	"description_en": "A plasma generator is seated within this sword’s hilt. A plasma-resistant ceramic housing focuses the beam with the assistance of a localized force field, either in a single straight beam or along a magnetized blunted blade or wire-like lines. When the sword is unpowered, the plasma beam disappears.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "18",
+	"price": "415,600",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "8d8",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "severe wound",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 40 usage 4)"
+	],
+	"capacity": ""
+}

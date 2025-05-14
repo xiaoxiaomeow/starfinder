@@ -1,0 +1,24 @@
+{
+	"key": "Freeze Ray, Isothermal",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Isothermal&Family=Freeze Ray",
+	"family": "Freeze Ray",
+	"name_en": "Freeze Ray, Isothermal",
+	"description_en": "Across the galaxy, practically every sufficiently advanced civilization has created its own variation of the freeze ray. All freeze rays function in a similar way, emitting a long line of supercooled gas, but individual models reflect their species’ design aesthetics. In the Pact Worlds, the most common models reflect the slim profile of Vercite technology or the bony protrusions of Eoxian design. Hiemal, algid, and glacial freeze rays simply produce an extreme reduction in the temperature along the weapon’s line of effect. Isothermal freeze rays cause a persistent temperature drop, dealing further damage, while hypothermic freeze rays causes multiple temperature reductions in rapid succession for further increased destruction.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "20",
+	"price": "818,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Cryo",
+	"damage": "5d12",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "20 charges"
+}

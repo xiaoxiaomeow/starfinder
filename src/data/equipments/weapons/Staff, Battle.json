@@ -1,0 +1,24 @@
+{
+	"key": "Staff, Battle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Battle&Family=Staff",
+	"family": "Staff",
+	"name_en": "Staff, Battle",
+	"description_en": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "18",
+	"price": "320,800",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "8d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"block"
+	],
+	"capacity": ""
+}

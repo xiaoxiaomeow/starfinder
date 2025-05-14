@@ -1,0 +1,23 @@
+{
+	"key": "Decoupler Grenade, V",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=V&Family=Decoupler Grenade",
+	"family": "Decoupler Grenade",
+	"name_en": "Decoupler Grenade, V",
+	"description_en": "Although tripods can use other grenades, they are infamous for the decoupler grenades they produce internally. Other creatures in the galaxy, such as the weapon-dealing drow of Apostae, have replicated this horrid tech. A decoupler grenade produces a dense cloud of dark nanites. This cloud provides concealment and corrodes creatures and materials within it. Each creature that starts its turn in the cloud must succeed at a Fortitude saving throw (DC = 10 + half the grenade’s item level) or be subject to the corrode critical hit effect. A creature that inhales the nanites takes a –4 penalty to this saving throw.",
+	"source": "Alien Archive 3 pg. 119",
+	"level": "14",
+	"price": "12,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (15 ft.",
+		"nanite cloud 1 minute",
+		"corrode 4d4)"
+	],
+	"capacity": "drawn"
+}

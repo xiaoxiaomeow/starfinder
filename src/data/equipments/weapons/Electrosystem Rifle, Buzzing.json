@@ -1,0 +1,26 @@
+{
+	"key": "Electrosystem Rifle, Buzzing",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Buzzing&Family=Electrosystem Rifle",
+	"family": "Electrosystem Rifle",
+	"name_en": "Electrosystem Rifle, Buzzing",
+	"description_en": "An electrosystem rifle weaves a Swarm nervous system into an organic harness, protected by a thick membrane. When activated, the weapon cranks the nervous system’s low-grade electrostatic field into a powerful electric blast.",
+	"source": "Starfinder #43: Icebound pg. 18",
+	"level": "18",
+	"price": "400,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "8d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "Stunned",
+	"bulk": "1",
+	"special": [
+		"Blast",
+		"living",
+		"Swarm",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

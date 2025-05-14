@@ -1,0 +1,25 @@
+{
+	"key": "Ignurso Knuckles, Ember",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ember&Family=Ignurso Knuckles",
+	"family": "Ignurso Knuckles",
+	"name_en": "Ignurso Knuckles, Ember",
+	"description_en": "Ignursos wield enough strength to punch through rock, and even after death, their claws ignite with momentary heat when struck against another surface. Weaponsmiths can stabilize the claws’ supernatural ignition and incorporate them into bladed gauntlets known as ignurso knuckles. These gauntlets’ ignurso-hide coverings protect the wielder from the claws’ heat, and high-end models allow the claws to retract into wrist sheathes.",
+	"source": "Alien Archive 4 pg. 51",
+	"level": "17",
+	"price": "262,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "9d6",
+	"damageType": [
+		"F",
+		"S"
+	],
+	"critical": "Severe wound",
+	"bulk": "L",
+	"special": [
+		"Analog",
+		"penetrating"
+	],
+	"capacity": ""
+}

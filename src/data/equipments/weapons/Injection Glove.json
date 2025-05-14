@@ -1,0 +1,24 @@
+{
+	"key": "Injection Glove",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Injection Glove&Family=None",
+	"family": "None",
+	"name_en": "Injection Glove",
+	"description_en": "Injection gloves were originally designed for medical use, but they have been heavily altered to serve in combat as well. A flat cartridge containing an injectable substance (such as a medicinal or poison) is inserted into a slot in the pointer finger of the glove, where it connects with a retractable needle. When the pointer finger encounters resistance, the needle pops out and injects its contents. The needle is reset by pressing it against a hard surface (which can be done as part of reloading it).",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "2",
+	"price": "490",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "1d4",
+	"damageType": [
+		"P"
+	],
+	"critical": "injection DC +2",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"injection"
+	],
+	"capacity": ""
+}

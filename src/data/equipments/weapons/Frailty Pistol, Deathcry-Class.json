@@ -1,0 +1,23 @@
+{
+	"key": "Frailty Pistol, Deathcry-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Deathcry-Class&Family=Frailty Pistol",
+	"family": "Frailty Pistol",
+	"name_en": "Frailty Pistol, Deathcry-Class",
+	"description_en": "A rib cage of ossified injectors covers the casing of these pistols, corrupting the internal coolant supply with negative energy. These pistols deliver chilling blasts of concentrated entropy at close range.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 247, Starfinder #3: Splintered Worlds pg. 49",
+	"level": "14",
+	"price": "85,800",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "4d4",
+	"damageType": [
+		"C"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"necrotic"
+	],
+	"capacity": "20 charges"
+}

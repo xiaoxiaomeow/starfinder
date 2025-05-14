@@ -1,0 +1,23 @@
+{
+	"key": "Hunting Rifle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Hunting Rifle&Family=None",
+	"family": "None",
+	"name_en": "Hunting Rifle",
+	"description_en": "This basic rifle is used mainly for personal defense and hunting. More advanced rifles have military uses.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "1",
+	"price": "240",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "1d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": "6 rounds"
+}

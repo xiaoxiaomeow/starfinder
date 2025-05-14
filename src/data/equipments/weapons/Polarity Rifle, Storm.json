@@ -1,0 +1,23 @@
+{
+	"key": "Polarity Rifle, Storm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Storm&Family=Polarity Rifle",
+	"family": "Polarity Rifle",
+	"name_en": "Polarity Rifle, Storm",
+	"description_en": "The polarity rifle was designed by Vercite engineers using the conceptual model that underpins polarity gauntlets. This rifle’s prongs are separately polarized, and it alternates between them as it fires to create a circuit of lightning between the gun and target, causing subsequent attacks to deal additional damage. Static, aurora, storm, and tempest polarity rifles are favored by sharpshooters in many fields, though they are often scorned by kasathas who view them as a vulgarized appropriation of an honorable weapon.",
+	"source": "Starfinder Armory pg. 48",
+	"level": "20",
+	"price": "1,000,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "8d8",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"polarize 3d8"
+	],
+	"capacity": "80 charges"
+}

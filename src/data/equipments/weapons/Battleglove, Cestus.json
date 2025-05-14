@@ -1,0 +1,23 @@
+{
+	"key": "Battleglove, Cestus",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Cestus&Family=Battleglove",
+	"family": "Battleglove",
+	"name_en": "Battleglove, Cestus",
+	"description_en": "Battlegloves are popular, economical choices for mercenaries and guards. These durable nylon-web or para-aramid gloves hold a weighted plate over the wearer’s knuckles. You can hold other objects or weapons in a hand wearing a glove, but you can’t use the glove to make attacks while doing so.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "17",
+	"price": "214,850",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "5d10",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

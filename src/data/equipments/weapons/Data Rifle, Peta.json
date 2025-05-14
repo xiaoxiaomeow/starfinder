@@ -1,0 +1,27 @@
+{
+	"key": "Data Rifle, Peta",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Peta&Family=Data Rifle",
+	"family": "Data Rifle",
+	"name_en": "Data Rifle, Peta",
+	"description_en": "A data rifle resembles an aluminum bar rounded at the edges with a small indent housing the trigger. Like the smaller data pistol, the weapon is covered in circuitry that emits light when fired, and the projections from the firearm can be recoded into different forms. The additional size of a data rifle allows for greatly increased power and effective range.",
+	"source": "Starfinder #50: Clockwork Demons pg. 55",
+	"level": "20",
+	"price": "875,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "11d8",
+	"damageType": [
+		"B|p|s"
+	],
+	"critical": "Knockdown",
+	"bulk": "1",
+	"special": [
+		"Boost 5d8",
+		"codework (capacity 40",
+		"usage 4)",
+		"force",
+		"modal"
+	],
+	"capacity": "80 charges"
+}

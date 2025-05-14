@@ -1,0 +1,25 @@
+{
+	"key": "Battlebow, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Battlebow",
+	"family": "Battlebow",
+	"name_en": "Battlebow, Elite",
+	"description_en": "These compound bows are made of materials scavenged from the ruins of kishalee civilization, giving the bowstrings incredibly high tensile strength. Battlebows can be used to fire arrows and grenade arrows.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 256, Starfinder #4: The Ruined Clouds pg. 44",
+	"level": "16",
+	"price": "150,000",
+	"hands": "2",
+	"proficiency": "Special",
+	"category": "",
+	"damage": "6d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"archaic",
+		"quick reload"
+	],
+	"capacity": "drawn"
+}

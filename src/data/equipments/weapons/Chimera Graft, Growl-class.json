@@ -1,0 +1,27 @@
+{
+	"key": "Chimera Graft, Growl-class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Growl-class&Family=Chimera Graft",
+	"family": "Chimera Graft",
+	"name_en": "Chimera Graft, Growl-class",
+	"description_en": "This imposing rifle, made of red scales and horn, emits an impressive gout of bright flame. Designed by Iratha Incorporated and first released as an augmentation, it proved cumbersome and was redesigned as an armorintegrated weapon.",
+	"source": "Starfinder #29: The Cradle Infestation pg. 48",
+	"level": "17",
+	"price": "218,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "4d12",
+	"damageType": [
+		"F"
+	],
+	"critical": "Burn 1d6",
+	"bulk": "1",
+	"special": [
+		"Automatic",
+		"integrated (1 slot)",
+		"harrying",
+		"living",
+		"regrowth"
+	],
+	"capacity": "20 petrol"
+}

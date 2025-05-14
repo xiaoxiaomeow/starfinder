@@ -1,0 +1,21 @@
+{
+	"key": "Graviton, Standard",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Standard&Family=Graviton",
+	"family": "Graviton",
+	"name_en": "Graviton, Standard",
+	"description_en": "",
+	"source": "Starfinder Core Rulebook pg. 180",
+	"level": "20",
+	"price": "727,100",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+6d6 ",
+	"damageType": [],
+	"critical": "knockdown",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

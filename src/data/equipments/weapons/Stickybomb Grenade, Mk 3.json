@@ -1,0 +1,21 @@
+{
+	"key": "Stickybomb Grenade, Mk 3",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 3&Family=Stickybomb Grenade",
+	"family": "Stickybomb Grenade",
+	"name_en": "Stickybomb Grenade, Mk 3",
+	"description_en": "A stickybomb grenade detonates with a splash of adhesive resin.",
+	"source": "Starfinder Core Rulebook pg. 178",
+	"level": "4",
+	"price": "300",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (entangled 2d4 rounds 15 ft.)"
+	],
+	"capacity": "drawn"
+}

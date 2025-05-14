@@ -1,0 +1,23 @@
+{
+	"key": "Serpent Laser, Aphelion",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Aphelion&Family=Serpent Laser",
+	"family": "Serpent Laser",
+	"name_en": "Serpent Laser, Aphelion",
+	"description_en": "The serpent laser is a creation of the Aspis Consortium, meant to undercut the pricing of its competitors while consuming battery charges at a higher rate to drive the sale of additional batteries, higher-capacity batteries, and recharging services. Experienced spacefarers know the scheme behind the serpent laser and generally avoid what they have come to call the “snakebite laser,” though amateurs and novices often fall for the low initial price. Serpent lasers have the same model names as many standard laser rifles (azimuth, corona, aphelion, and perihelion), though savvy customers know that the serpent laser models are often slightly less powerful than their conventional counterparts.",
+	"source": "Starfinder Armory pg. 41",
+	"level": "14",
+	"price": "66,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Laser",
+	"damage": "3d12",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d4",
+	"bulk": "1",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

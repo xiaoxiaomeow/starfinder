@@ -1,0 +1,24 @@
+{
+	"key": "Flare Axe, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Flare Axe",
+	"family": "Flare Axe",
+	"name_en": "Flare Axe, Blue Star",
+	"description_en": "A flare axe pushes a magnetically contained wave of plasma in a semicircular arc parallel to the haft that resembles a miniature solar flare. The color of plasma indicates the relative temperature (and therefore damage output) of each weapon: red star flare axes are the standard model, yellow star and white star flare axes are more dangerous, and blue star flare axes inflict the most destruction.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "11",
+	"price": "23,100",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "3d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 1d10",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

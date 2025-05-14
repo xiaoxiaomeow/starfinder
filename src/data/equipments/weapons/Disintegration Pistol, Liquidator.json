@@ -1,0 +1,23 @@
+{
+	"key": "Disintegration Pistol, Liquidator",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Liquidator&Family=Disintegration Pistol",
+	"family": "Disintegration Pistol",
+	"name_en": "Disintegration Pistol, Liquidator",
+	"description_en": "Disintegrator Weapons",
+	"source": "Starfinder Armory pg. 36",
+	"level": "20",
+	"price": "745,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Disintegrator",
+	"damage": "3d20",
+	"damageType": [
+		"A"
+	],
+	"critical": "corrode 2d6",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

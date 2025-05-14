@@ -1,0 +1,22 @@
+{
+	"key": "Foam Grenade, Mk 3",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 3&Family=Foam Grenade",
+	"family": "Foam Grenade",
+	"name_en": "Foam Grenade, Mk 3",
+	"description_en": "A foam grenade explodes on impact to release a burst of fire-suppressant foam akin to that from a fire extinguisher. This foam ends all active fires and removes the burning condition and the corrode critical hit effect taken by creatures within the area.",
+	"source": "Starfinder Armory pg. 39",
+	"level": "9",
+	"price": "3,520",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (20 ft.)",
+		"extinguish"
+	],
+	"capacity": "drawn"
+}

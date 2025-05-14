@@ -1,0 +1,21 @@
+{
+	"key": "Iceflame Crystals, True",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=True&Family=Iceflame Crystals",
+	"family": "Iceflame Crystals",
+	"name_en": "Iceflame Crystals, True",
+	"description_en": "",
+	"source": "Interstellar Species pg. 79",
+	"level": "17",
+	"price": "255,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+4d6 C",
+	"damageType": [],
+	"critical": "frostbite 3d6",
+	"bulk": "—",
+	"special": [
+		"aurora"
+	],
+	"capacity": ""
+}

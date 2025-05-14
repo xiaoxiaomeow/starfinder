@@ -1,0 +1,23 @@
+{
+	"key": "Sclerite Harpooner, Hook",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Hook&Family=Sclerite Harpooner",
+	"family": "Sclerite Harpooner",
+	"name_en": "Sclerite Harpooner, Hook",
+	"description_en": "Kaions’ ability to reel in all manner of prey has led to emulations of their effective hunting strategy. A sclerite harpooner is inlaid with spirals of kaion shell and magnetically fires either harvested or manufactured kaion sclerites along two rails; this ammunition is available in the same quantities and at the same price as darts. As a reaction, the weapon can be activated to reel in a target affected by its embed critical hit effect. The target must attempt a Reflex save (DC = 10 + 1/2 the harpooner’s item level + the wielder’s Strength modifier) or be pulled 30 feet toward the wielder; this movement does not provoke attacks of opportunity. Huge or larger creatures are not affected.",
+	"source": "Alien Archive 4 pg. 59",
+	"level": "14",
+	"price": "70,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "6d12",
+	"damageType": [
+		"P"
+	],
+	"critical": "Embed 1d12",
+	"bulk": "3",
+	"special": [
+		"Unwieldy"
+	],
+	"capacity": "100 sclerites"
+}

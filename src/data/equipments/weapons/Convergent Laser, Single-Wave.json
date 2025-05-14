@@ -1,0 +1,23 @@
+{
+	"key": "Convergent Laser, Single-Wave",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Single-Wave&Family=Convergent Laser",
+	"family": "Convergent Laser",
+	"name_en": "Convergent Laser, Single-Wave",
+	"description_en": "For those seeking efficient laser attacks in a reliable, relatively lightweight format, the convergent laser is an ideal weapon. The weapon’s smaller lasers synchronize and focus their output on a single target to deal more damage than any single beam could deal alone; however, the need to carefully aim and adjust the weapon makes it somewhat slower to fire than its single-beam counterparts. Typically, the different beams originate from the corners of a square or triangular barrel, angling in to join at a single point on the target. A single-wave convergent laser emits a single wavelength, with all its beams sharing a color. Multiwave convergent lasers produce different wavelengths for each beam, using computer assistance to continually adjust the output, while a wide-spectrum convergent laser increases the number of beams until their joining point on the target is a white so brilliant that it’s painful to look at.",
+	"source": "Starfinder Armory pg. 40",
+	"level": "15",
+	"price": "118,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Laser",
+	"damage": "7d10",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 4d6",
+	"bulk": "2",
+	"special": [
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

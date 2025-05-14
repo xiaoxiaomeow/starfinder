@@ -1,0 +1,25 @@
+{
+	"key": "Polarity Gauntlets, Current",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Current&Family=Polarity Gauntlets",
+	"family": "Polarity Gauntlets",
+	"name_en": "Polarity Gauntlets, Current",
+	"description_en": "Polarity gauntlets fit snugly over the wearer’s extremities, and when activated, the two gloves generate an arc of electricity between them. Due to the alternating currents, subsequent attacks deal additional damage: each strike that hits a target after the first in rapid succession deals additional damage. The popularity of these weapons has led to the proliferation of different versions, including the cheap but potent spark and static models, the midrange aurora and current models, and the powerful storm and tempest polarity gauntlets. Kasathan warriors who maintain their cultural predilection for melee combat favor polarity gauntlets as an effective weapon that aligns with their martial values.",
+	"source": "Starfinder Armory pg. 48",
+	"level": "19",
+	"price": "615,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "9d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"operative",
+		"polarize 3d6",
+		"powered (capacity 100 usage 10)"
+	],
+	"capacity": ""
+}

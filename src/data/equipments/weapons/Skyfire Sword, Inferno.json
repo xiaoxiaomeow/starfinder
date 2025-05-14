@@ -1,0 +1,23 @@
+{
+	"key": "Skyfire Sword, Inferno",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Inferno&Family=Skyfire Sword",
+	"family": "Skyfire Sword",
+	"name_en": "Skyfire Sword, Inferno",
+	"description_en": "Originally, these swords were known by their manufacturing ID, BSB–1750. Their popularity with the Skyfire Legion led to their colloquial name, Skyfire swords. Vents for burning gas jets line one edge of the hollow blade. When powered, magnetic fields contain and ignite the gases into a glowing corona of flames.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "7",
+	"price": "6,120",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Flame",
+	"damage": "2d4",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 1d8",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 20 usage 2)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,22 @@
+{
+	"key": "Riot Grenade, Mk 2",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 2&Family=Riot Grenade",
+	"family": "Riot Grenade",
+	"name_en": "Riot Grenade, Mk 2",
+	"description_en": "Riot grenades are standard issue among police forces, as they deal nonlethal damage and slow the movements of creatures affected by the blast.",
+	"source": "Starfinder Armory pg. 39",
+	"level": "20",
+	"price": "222,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"explode (6d12 S staggered; 25 ft.)",
+		"nonlethal"
+	],
+	"capacity": "drawn"
+}

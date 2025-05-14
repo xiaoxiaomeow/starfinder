@@ -1,0 +1,25 @@
+{
+	"key": "Pyrod, Torch",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Torch&Family=Pyrod",
+	"family": "Pyrod",
+	"name_en": "Pyrod, Torch",
+	"description_en": "Constructed from an insulated tube containing an integrated petrol tank with a nozzle on one end, pyrods expel a gout of flame when swung with force. The weapons are used in lashunta dance and performance combat as often as in earnest melee, and many bear elegant laser engraving, sculpted grips, or other aesthetically pleasing elements. Luminous pyrods are produced with a greater eye toward aesthetics, while torch pyrods and beacon pyrods are designed to maximize their firepower.",
+	"source": "Starfinder Armory pg. 38",
+	"level": "16",
+	"price": "164,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Flame",
+	"damage": "8d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "jet 4d6",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"fueled (capacity 20 usage 1)",
+		"professional (dancer)"
+	],
+	"capacity": ""
+}

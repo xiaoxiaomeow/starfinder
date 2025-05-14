@@ -1,0 +1,22 @@
+{
+	"key": "Stinking Goo Grenade, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Stinking Goo Grenade",
+	"family": "Stinking Goo Grenade",
+	"name_en": "Stinking Goo Grenade, II",
+	"description_en": "The greasy gunk that seeps from this device has a powerful odor that bypasses even the environmental protections of armor. Each creature in the area that can smell must succeed at a Fortitude saving throw or gain the sickened condition for 1d4 rounds. A stinking goo II grenade imposes the nauseated condition instead. The substance also makes the area difficult terrain for 1d4 rounds.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "2",
+	"price": "150",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (10 ft.",
+		"see text)"
+	],
+	"capacity": "Drawn"
+}

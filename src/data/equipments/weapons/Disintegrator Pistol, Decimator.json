@@ -1,0 +1,23 @@
+{
+	"key": "Disintegrator Pistol, Decimator",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Decimator&Family=Disintegrator Pistol",
+	"family": "Disintegrator Pistol",
+	"name_en": "Disintegrator Pistol, Decimator",
+	"description_en": "This hefty pistol has two small internal tanks that generate the energy needed to deliquesce the wielder’s targets. Disintegrator pistols come in liquidator, decimator, executioner, and eradicator models.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 240, Starfinder #2: Temple of the Twelve pg. 52",
+	"level": "20",
+	"price": "745,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Disintegrator",
+	"damage": "3d20",
+	"damageType": [
+		"A"
+	],
+	"critical": "corrode 2d6",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

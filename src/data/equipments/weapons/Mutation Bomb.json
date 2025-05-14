@@ -1,0 +1,24 @@
+{
+	"key": "Mutation Bomb",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mutation Bomb&Family=None",
+	"family": "None",
+	"name_en": "Mutation Bomb",
+	"description_en": "A mutation bomb is a single-use grenade that unleashes a wave of quantum degeneration, interacting with living things to cause unpredictable mutation. Mutation bombs are expensive and somewhat experimental, so even sivvs rarely used them. Creatures caught within the explosion of a mutation bomb must succeed at a Fortitude save or gain a random mutation from the mutation critical hit effect above. Mutations caused by a mutation bomb can be cured with",
+	"source": "Starfinder #33: Dominion’s End pg. 49",
+	"level": "19",
+	"price": "85,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (8d12 A & So",
+		"mutation [Fortitude negates]",
+		"20 ft.)",
+		"hybrid"
+	],
+	"capacity": "Drawn"
+}

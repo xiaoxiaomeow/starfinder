@@ -1,0 +1,23 @@
+{
+	"key": "Zero Pistol, Avalanche-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Avalanche-Class&Family=Zero Pistol",
+	"family": "Zero Pistol",
+	"name_en": "Zero Pistol, Avalanche-Class",
+	"description_en": "Zero pistols have a weighted grip to balance their unusually heavy barrels. A cylindrical canister over the barrel contains and directs the coolants.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "15",
+	"price": "94,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "4d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

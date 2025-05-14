@@ -1,0 +1,23 @@
+{
+	"key": "Bone Pistol, Grave-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Grave-Class&Family=Bone Pistol",
+	"family": "Bone Pistol",
+	"name_en": "Bone Pistol, Grave-Class",
+	"description_en": "Usually crafted from bone and gristle, these pistols are prized by the Corpse Fleet and members of the Urgathoan church, but they have also been found in reaches of the galaxy untouched by Eoxian influence. The energy blasts from a bone pistol are a special blend of cold and negative energy that passes harmlessly over the nonliving. Bone pistols are commonly categorized as grave-class, crypt-class, sepulcher-class, and vault-class.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "18",
+	"price": "591,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "5d8",
+	"damageType": [
+		"C"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"antibiological"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Persuader",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Persuader&Family=None",
+	"family": "None",
+	"name_en": "Persuader",
+	"description_en": "This small, brutish sidearm fires a surprisingly large globule of plasma that stretches into a rope as it travels, sometimes inflicting terrible wounds on its target. It is a perennial favorite of officers in the Veskarium; those seeking to surprise and intimidate their foes use the weapon’s reputation to their advantage. Although the first persuaders date back to the Silent War and are considered rare collectibles in the Pact Worlds, dozens of manufacturers make their own modern versions.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "9",
+	"price": "13,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Plasma",
+	"damage": "2d4",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "wound",
+	"bulk": "L",
+	"special": [
+		"boost 1d4"
+	],
+	"capacity": "20 charges"
+}

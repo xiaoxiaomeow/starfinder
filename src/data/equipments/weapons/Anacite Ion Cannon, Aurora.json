@@ -1,0 +1,25 @@
+{
+	"key": "Anacite Ion Cannon, Aurora",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Aurora&Family=Anacite Ion Cannon",
+	"family": "Anacite Ion Cannon",
+	"name_en": "Anacite Ion Cannon, Aurora",
+	"description_en": "This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them.",
+	"source": "Pact Worlds pg. 194",
+	"level": "18",
+	"price": "441,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Shock",
+	"damage": "6d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"line",
+		"lockdown",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Starknife, Accelerated",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Accelerated&Family=Starknife",
+	"family": "Starknife",
+	"name_en": "Starknife, Accelerated",
+	"description_en": "Four tapered metal blades surround the central ring of a starknife, which can be thrown or used to stab opponents. Accelerated and lightspeed starknives have gas-powered jets that fire when the starknife is wielded. Solid auras surround the blades of a dimensional slice starknife, which are manufactured with cutting-edge metallurgic techniques. In a sintered starknife, the metal blades are replaced with compressed ceramic blades.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "19",
+	"price": "602,200",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "8d12",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"thrown (80 ft.)"
+	],
+	"capacity": ""
+}

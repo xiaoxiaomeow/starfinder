@@ -1,0 +1,21 @@
+{
+	"key": "Scattergun Shells",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Scattergun Shells&Family=None",
+	"family": "None",
+	"name_en": "Scattergun Shells",
+	"description_en": "These cartridges are packed with small metal spheres that scatter when the cartridge explodes.",
+	"source": "Starfinder Core Rulebook pg. 179",
+	"level": "1",
+	"price": "55",
+	"hands": "1",
+	"proficiency": "Ammo",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "25"
+}

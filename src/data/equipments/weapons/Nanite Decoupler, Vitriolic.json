@@ -1,0 +1,24 @@
+{
+	"key": "Nanite Decoupler, Vitriolic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Vitriolic&Family=Nanite Decoupler",
+	"family": "Nanite Decoupler",
+	"name_en": "Nanite Decoupler, Vitriolic",
+	"description_en": "While most disintegrator weapons produce a stream of energy that strikes a single target, a nanite decoupler programs nanites to replicate a disintegrator’s destructive energies over a set area. The integrated generators used to overcharge the nanites for the desired effect make a nanite decoupler a heavy, bulky weapon that requires a skilled user. The caustic nanite decoupler and the vitriolic nanite decoupler are both deadly, destructive weapons.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "9",
+	"price": "15,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Disintegrator",
+	"damage": "2d6",
+	"damageType": [
+		"A"
+	],
+	"critical": "corrode 1d6",
+	"bulk": "3",
+	"special": [
+		"explode (10 ft.)",
+		"unwieldy"
+	],
+	"capacity": "10 nanites"
+}

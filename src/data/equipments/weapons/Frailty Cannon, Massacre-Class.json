@@ -1,0 +1,24 @@
+{
+	"key": "Frailty Cannon, Massacre-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Massacre-Class&Family=Frailty Cannon",
+	"family": "Frailty Cannon",
+	"name_en": "Frailty Cannon, Massacre-Class",
+	"description_en": "The frailty cannon line produces a jet of necromantically fueled coolant. More easily controlled than their zero cannon counterparts, these weapons are used to bring down enemies as much as they’re used to invigorate nearby undead.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 247, Starfinder #3: Splintered Worlds pg. 49",
+	"level": "19",
+	"price": "660,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Cryo",
+	"damage": "9d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"line",
+		"necrotic"
+	],
+	"capacity": "50 charges"
+}

@@ -1,0 +1,21 @@
+{
+	"key": "Graviton Pistol, Tensor",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tensor&Family=Graviton Pistol",
+	"family": "Graviton Pistol",
+	"name_en": "Graviton Pistol, Tensor",
+	"description_en": "Many security forces and peacekeepers employ graviton pistols, since these weapons deal no damage but instead push or pull a target. Long rods running in parallel lines form a barrel-like structure that makes such a pistol easy to identify. The available models of graviton pistols start at linear, with vector, tensor, and chiral models are able to move a target increasing distances.",
+	"source": "Starfinder Armory pg. 52",
+	"level": "13",
+	"price": "49,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "knockdown",
+	"bulk": "2",
+	"special": [
+		"gravitation (25 ft.)"
+	],
+	"capacity": "40 charges"
+}

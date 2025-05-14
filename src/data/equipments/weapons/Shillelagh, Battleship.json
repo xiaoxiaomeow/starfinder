@@ -1,0 +1,24 @@
+{
+	"key": "Shillelagh, Battleship",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Battleship&Family=Shillelagh",
+	"family": "Shillelagh",
+	"name_en": "Shillelagh, Battleship",
+	"description_en": "Though smaller and more expensive than a simple club, a shillelagh is often sturdier and made of more modern materials, such as aluminum or fiberglass. A shillelagh is usually used as a walking stick, but some are capable of dealing weighty blows to the head in the hands of those trained in self-defense.",
+	"source": "Starfinder #46: The Perfect Storm pg. 46",
+	"level": "7",
+	"price": "5,500",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "1d10",
+	"damageType": [
+		"B"
+	],
+	"critical": "staggered",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"reposition"
+	],
+	"capacity": ""
+}

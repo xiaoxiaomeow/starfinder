@@ -1,0 +1,26 @@
+{
+	"key": "Molecular Borer, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite &Family=Molecular Borer",
+	"family": "Molecular Borer",
+	"name_en": "Molecular Borer, Elite",
+	"description_en": "Molecular borers are bleeding-edge tools that function by slowing molecular action and then, with a modal change, exciting the molecules to cause sheering force, resulting in quicker excavation. Instead of damaging valuable ores, the molecular borer allows a miner to detect different materials by their variable response to the borer’s energy loop. Rescue operations make good use of utility borers, which easily penetrates penetrating the lighter materials used for public doorways and vehicles. Industrial borers routinely remove typical mining materials, such as limestone. Advanced and elite models cut through plate steel or airlocks. The paragon model has tested favorably against pure plate adamantine.",
+	"source": "Starfinder #34: We’re No Heroes pg. 44",
+	"level": "18",
+	"price": "400,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "11d12",
+	"damageType": [
+		"C|f"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"Modal (cryo)",
+		"professional (miner)",
+		"shatter",
+		"unwieldy"
+	],
+	"capacity": "100 charges "
+}

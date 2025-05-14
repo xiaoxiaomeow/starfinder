@@ -1,0 +1,26 @@
+{
+	"key": "Rocket Pauldron, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Rocket Pauldron",
+	"family": "Rocket Pauldron",
+	"name_en": "Rocket Pauldron, Paragon",
+	"description_en": "This shoulder protector houses an array of deadly munitions. When activated, the pauldron provides its wearer a momentary heads-up display, using the wearer’s eye movements to establish a target and preprogrammed facial or verbal cues to fire a salvo of rockets at the unlucky recipient.",
+	"source": "Tech Revolution pg. 62",
+	"level": "15",
+	"price": "108,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "4d10",
+	"damageType": [
+		"B",
+		"F"
+	],
+	"critical": "Knockdown",
+	"bulk": "1",
+	"special": [
+		"Explode (10 ft.)",
+		"integrated (2 slots)",
+		"unwieldy"
+	],
+	"capacity": "12 mini-rockets "
+}

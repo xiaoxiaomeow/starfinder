@@ -1,0 +1,25 @@
+{
+	"key": "Plasma Rifle, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Plasma Rifle",
+	"family": "Plasma Rifle",
+	"name_en": "Plasma Rifle, Blue Star",
+	"description_en": "Plasma rifles fire long lines of ionized plasma that lance through objects and opponents in their path.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "15",
+	"price": "126,600",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Plasma",
+	"damage": "4d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 2d8",
+	"bulk": "2",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

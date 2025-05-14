@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Caster, Blue Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Blue Star&Family=Plasma Caster",
+	"family": "Plasma Caster",
+	"name_en": "Plasma Caster, Blue Star",
+	"description_en": "Plasma casters fling bolts of ionized plasma at a target. They have good range and are easier to use than plasma rifles or pistols, but they strike only a single target.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "13",
+	"price": "49,100",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Plasma",
+	"damage": "3d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 1d10",
+	"bulk": "2",
+	"special": [
+		"boost 1d10"
+	],
+	"capacity": "100 charges"
+}

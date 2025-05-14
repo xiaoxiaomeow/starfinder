@@ -1,0 +1,25 @@
+{
+	"key": "Spear, Gravity",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Gravity&Family=Spear",
+	"family": "Spear",
+	"name_en": "Spear, Gravity",
+	"description_en": "Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-edge spears employ quantum manufacturing to hone an edge so fine that it seems indistinct. The gravity spear uses a tiny gravity field generator to accelerate the weapon at the moment of impact.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "15",
+	"price": "107,350",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "7d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"block",
+		"thrown (20 ft.)"
+	],
+	"capacity": ""
+}

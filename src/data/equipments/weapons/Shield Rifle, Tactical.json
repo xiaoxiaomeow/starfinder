@@ -1,0 +1,24 @@
+{
+	"key": "Shield Rifle, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Shield Rifle",
+	"family": "Shield Rifle",
+	"name_en": "Shield Rifle, Tactical",
+	"description_en": "These firearms rely on electromagnetic firing mechanisms similar to railguns, though shield rifles’ design and thinner protective housing cause the weapons to practically bleed energy. Although only faintly visible in isolation, the electrical discharges from entire platoons wielding shield rifles can illuminate their surroundings with haunting light.",
+	"source": "Tech Revolution pg. 61",
+	"level": "17",
+	"price": "264,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "8d8",
+	"damageType": [
+		"E",
+		"P"
+	],
+	"critical": "Arc 4d8",
+	"bulk": "2",
+	"special": [
+		"Buttressing"
+	],
+	"capacity": "18 rounds "
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Electroflail, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Electroflail",
+	"family": "Electroflail",
+	"name_en": "Electroflail, Tactical",
+	"description_en": "An electroflail is a 2-foot-long haft and a floating spiked or ridged ball; as there is no visible tether between the two components, an electroflail appears to be two separate weapons. An electromagnetic force causes the ball to stay within a predetermined range of the haft’s end—usually around 1 foot away—while also conducting a substantial electric charge to the ball that is discharged upon a strike. The magnetic field can also interfere with other weapons, allowing a proficient user to use an electroflail to knock opponents’ weapons out of their grasp. These weapons see frequent use among various Hellknight orders, which often custom order designs featuring grinning devils, complete with spiked wings. Electroflails are available in tactical, advanced, elite, and paragon models.",
+	"source": "Starfinder Armory pg. 45",
+	"level": "18",
+	"price": "360,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "11d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "arc 4d6",
+	"bulk": "1",
+	"special": [
+		"disarm",
+		"powered (capacity 20 usage 1)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Nauphage Cannon, Anchor",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Anchor&Family=Nauphage Cannon",
+	"family": "Nauphage Cannon",
+	"name_en": "Nauphage Cannon, Anchor",
+	"description_en": "Constructed from the arm of a Swarm nauphage, this heavy weapon fires globs of electrically charged adhesive. Advanced versions increase both the charge and the adhesion of the globs.",
+	"source": "Starfinder #43: Icebound pg. 13",
+	"level": "13",
+	"price": "47,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "4d10",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"Entangle (2d4 rounds)",
+		"living",
+		"Swarm",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

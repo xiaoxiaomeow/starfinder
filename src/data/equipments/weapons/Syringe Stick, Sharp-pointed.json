@@ -1,0 +1,25 @@
+{
+	"key": "Syringe Stick, Sharp-pointed",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sharp-pointed&Family=Syringe Stick",
+	"family": "Syringe Stick",
+	"name_en": "Syringe Stick, Sharp-pointed",
+	"description_en": "This weapon is a lightweight, handheld auto-injector device designed to quickly inject drugs, poison, and similar substance into a creature when pressed against its body. A syringe stick’s patented spring-loaded design features a sturdy needle able to punch through the toughest armor, chitin, and hide. Despite its deadliness, it is difficult to discern a syringe stick from a medicinal auto-injector.",
+	"source": "Character Operations Manual pg. 122",
+	"level": "17",
+	"price": "225,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "10d4",
+	"damageType": [
+		"P"
+	],
+	"critical": "Injection DC +2",
+	"bulk": "L",
+	"special": [
+		"Conceal",
+		"injection",
+		"operative"
+	],
+	"capacity": ""
+}

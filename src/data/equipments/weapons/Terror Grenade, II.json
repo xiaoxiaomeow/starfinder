@@ -1,0 +1,22 @@
+{
+	"key": "Terror Grenade, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Terror Grenade",
+	"family": "Terror Grenade",
+	"name_en": "Terror Grenade, II",
+	"description_en": "This brightly colored device releases a terrifying display of images and sounds upon impact. Each creature in the area must succeed at a Will save or become frightened for 1d4 rounds. If a creature fails the check by 5 or more, they are instead panicked for 1 round. This effect has the emotion, fear, and mind-affecting traits.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "11",
+	"price": "3,780",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (20 ft.",
+		"see text)"
+	],
+	"capacity": "Drawn"
+}

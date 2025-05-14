@@ -1,0 +1,23 @@
+{
+	"key": "Huchket Rifle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Huchket Rifle&Family=None",
+	"family": "None",
+	"name_en": "Huchket Rifle",
+	"description_en": "The huchket is a generational weapon of the husk ghibranis. It includes some technological elements from the ghibrani’s past, but is otherwise appears like an archaic projectile longarm.",
+	"source": "SFS Scenario #1-03: Yesteryear's Truth pg. 13",
+	"level": "3",
+	"price": "1,400",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "1d10",
+	"damageType": [
+		"P"
+	],
+	"critical": "wound",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": "6 rounds"
+}

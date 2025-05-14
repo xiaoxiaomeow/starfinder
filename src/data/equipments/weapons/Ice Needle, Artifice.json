@@ -1,0 +1,26 @@
+{
+	"key": "Ice Needle, Artifice",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Artifice&Family=Ice Needle",
+	"family": "Ice Needle",
+	"name_en": "Ice Needle, Artifice",
+	"description_en": "This handheld melee weapon appears to be nothing more than a handle with a slot in one end. Once a vial of an injectable substance is inserted into this slot, the ice needle forms a slender spike of ice around that liquid core, allowing you to inject the substance into a foe with a virtually untraceable weapon. Undercover and furtive ice needles are often used primarily for their injecting capabilities, while artifice, espionage, and subterfuge ice needles deal significant damage along with the injection.",
+	"source": "Starfinder Armory pg. 35",
+	"level": "18",
+	"price": "384,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "13d6",
+	"damageType": [
+		"C",
+		"p"
+	],
+	"critical": "injection DC +2",
+	"bulk": "L",
+	"special": [
+		"conceal",
+		"injection",
+		"powered (capacity 80 usage 4)"
+	],
+	"capacity": ""
+}

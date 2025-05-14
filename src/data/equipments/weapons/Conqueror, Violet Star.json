@@ -1,0 +1,24 @@
+{
+	"key": "Conqueror, Violet Star",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Violet Star&Family=Conqueror",
+	"family": "Conqueror",
+	"name_en": "Conqueror, Violet Star",
+	"description_en": "Conquerors are perhaps the largest and most difficult to handle of the plasma weapon category. A conquerer can deliver a single devastating blast of plasma, but the weapon is rather front-heavy and difficult to maneuver. Some vesk take up the weapon as a sign of their patron deity, Damoritosh, viewing it as the ranged spiritual equivalent of the doshko. In addition to the red star, yellow star, white star, and blue star models, the particularly powerful violet star conqueror has recently made its way onto the market.",
+	"source": "Starfinder Armory pg. 41",
+	"level": "13",
+	"price": "52,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Plasma",
+	"damage": "5d10",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "wound",
+	"bulk": "3",
+	"special": [
+		"unwieldy"
+	],
+	"capacity": "80 charges"
+}

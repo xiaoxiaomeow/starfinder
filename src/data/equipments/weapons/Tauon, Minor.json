@@ -1,0 +1,21 @@
+{
+	"key": "Tauon, Minor",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Minor&Family=Tauon",
+	"family": "Tauon",
+	"name_en": "Tauon, Minor",
+	"description_en": "",
+	"source": "Pact Worlds pg. 194",
+	"level": "16",
+	"price": "161,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+3d8 E",
+	"damageType": [],
+	"critical": "staggered",
+	"bulk": "—",
+	"special": [
+		"Stun"
+	],
+	"capacity": ""
+}

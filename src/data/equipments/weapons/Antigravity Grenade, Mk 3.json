@@ -1,0 +1,22 @@
+{
+	"key": "Antigravity Grenade, Mk 3",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 3&Family=Antigravity Grenade",
+	"family": "Antigravity Grenade",
+	"name_en": "Antigravity Grenade, Mk 3",
+	"description_en": "These explosives create temporary fields of reduced gravity, upending foes, helping move large objects, and enabling extraordinary acrobatic feats. Each grenade reduces the area’s gravity strength (Core Rulebook 401–402) by a number of steps based on the grenade’s model: extreme gravity to high gravity to standard gravity to low gravity to microgravity (effectively zero gravity with some exceptions, listed below). The grenade has no effect in zero gravity conditions; it cannot reduce gravity to less than microgravity conditions, and the effects of multiple antigravity grenades are not cumulative.",
+	"source": "Galaxy Exploration Manual pg. 41",
+	"level": "19",
+	"price": "83,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (4 steps for 2 rounds",
+		"15 ft.)"
+	],
+	"capacity": "Drawn"
+}

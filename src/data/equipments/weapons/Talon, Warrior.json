@@ -1,0 +1,24 @@
+{
+	"key": "Talon, Warrior",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Warrior&Family=Talon",
+	"family": "Talon",
+	"name_en": "Talon, Warrior",
+	"description_en": "A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It can be used as a slashing weapon without activating the battery. When powered, the talon converts energy into acid that can melt through certain types of armor (though the weapon always targets a foe’s KAC). Shirrens favor talons, and some consider them to be holy weapons of Hylax, referring to them as the queen’s talons. Increasingly advanced models of the weapon are often named after roles of some hivedwelling species, beginning with drone, and advancing through warrior, knight, queen, and god.",
+	"source": "Starfinder Armory pg. 54",
+	"level": "20",
+	"price": "925,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "8d12",
+	"damageType": [
+		"A|s"
+	],
+	"critical": "corrode 4d6",
+	"bulk": "L",
+	"special": [
+		"modal",
+		"powered (capacity 40 usage 2)"
+	],
+	"capacity": ""
+}

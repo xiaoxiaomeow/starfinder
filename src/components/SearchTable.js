@@ -1,5 +1,3 @@
-import React from 'react';
-
 const translate = (value, translator) => Array.isArray(value) ? value.map(item => translate(item, translator)).join(", ") : translator?.[value] ?? value;
 
 export default function SearchTable({ context, columns }) {
@@ -17,7 +15,7 @@ export default function SearchTable({ context, columns }) {
 				{items.map(item => (
 					<tr key={item.key}>
 						{columns.map(column => (
-							<td key={column.key}>{translate(item[column.key], column.translator)}</td>
+							<td key={column.key}>{translate(item[column.key] ?? item[column.backupKey], column.translator)}</td>
 						))}
 					</tr>
 				))}

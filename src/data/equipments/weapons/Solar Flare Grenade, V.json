@@ -1,0 +1,19 @@
+{
+	"key": "Solar Flare Grenade, V",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=V&Family=Solar Flare Grenade",
+	"family": "Solar Flare Grenade",
+	"name_en": "Solar Flare Grenade, V",
+	"description_en": "Crafted using strange metals ejected by the sun and infused with magic from the Plane of Fire, solar flare grenades unleash the power of a star. When a solar flare grenade explodes, it sends out a lash of plasma. Creatures within the grenade’s area take the listed electricity and fire damage; each creature that succeeds at a Reflex save takes half damage. In addition, a solar flare grenade also sends out an electromagnetic pulse following the plasma wave. Within the same area, all technological objects that use charges, technological objects that do not use charges but are powered by electricity, and constructs with the technological subtype must each attempt a Fortitude saving throw. If a technological object with charges fails the save, it loses a number of charges equal to the grenade’s mark. If a technological object that is powered by electrical means other than charge fails the save, its functions are suppressed for a number of rounds according to the grenade’s type (see below). If a construct with the technological subtype fails the save, it is staggered for a number of rounds according to the grenade’s type (see below); such a construct can attempt an additional Fortitude save at the end of each round to shrug off the effect.",
+	"source": "",
+	"level": "",
+	"price": "",
+	"hands": "",
+	"proficiency": "",
+	"category": "",
+	"damage": "",
+	"damageType": [],
+	"critical": "",
+	"bulk": "",
+	"special": [],
+	"capacity": ""
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Living Staff, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Living Staff",
+	"family": "Living Staff",
+	"name_en": "Living Staff, Advanced",
+	"description_en": "Xenodruids developed the living staff, a gnarled and vineswathed pole, to use as a weapon and a sign of their allegiance. The staff itself can extend, and the vines can wrap around and entangle a target. Xenodruids on sentinel duty favor the tactical and advanced models. The elite and paragon models are more common among highly skilled warrior-mystics undertaking assault missions.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "20",
+	"price": "919,000",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "14d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "bind",
+	"bulk": "1",
+	"special": [
+		"block",
+		"living",
+		"powered (capacity 20 usage 1)",
+		"reach"
+	],
+	"capacity": ""
+}

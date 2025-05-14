@@ -1,0 +1,24 @@
+{
+	"key": "Disruption Rifle, Major",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Major&Family=Disruption Rifle",
+	"family": "Disruption Rifle",
+	"name_en": "Disruption Rifle, Major",
+	"description_en": "Dimensional disruption weapons were available in various forms and strengths, but those left within the Gate of Twelve Suns are pistols (small arms), rifles (longarms), and a few grenades. A dimensional disruption weapon creates a stream-like gravitational wave function that disrupts subatomic fields in an effect similar to a sonic attack, but it can stagger a target rather than deafen it, as the wave function momentarily disrupts the fabric of space around the target.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 259, Starfinder #5: The Thirteenth Gate pg. 39",
+	"level": "9",
+	"price": "15,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Dimensional Disruption",
+	"damage": "3d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"boost 1d8",
+		"relic"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,21 @@
+{
+	"key": "Cluster Launcher, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Cluster Launcher",
+	"family": "Cluster Launcher",
+	"name_en": "Cluster Launcher, Tactical",
+	"description_en": "The cluster launcher fires multiple grenades as a single shot, granting those grenades increased range and a larger blast radius. Each of the models—tactical, advanced, elite, and paragon—features an increase in range, capacity, and overall explosive power.",
+	"source": "Starfinder Armory pg. 52",
+	"level": "18",
+	"price": "360,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "3",
+	"special": [
+		"cluster (15 ft.)"
+	],
+	"capacity": "16 grenades"
+}

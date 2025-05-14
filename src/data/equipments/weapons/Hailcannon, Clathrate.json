@@ -1,0 +1,24 @@
+{
+	"key": "Hailcannon, Clathrate",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Clathrate&Family=Hailcannon",
+	"family": "Hailcannon",
+	"name_en": "Hailcannon, Clathrate",
+	"description_en": "Cryo Weapons",
+	"source": "Starfinder Armory pg. 35",
+	"level": "13",
+	"price": "50,800",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Cryo",
+	"damage": "6d8",
+	"damageType": [
+		"C",
+		"P"
+	],
+	"critical": "staggered",
+	"bulk": "2",
+	"special": [
+		"automatic"
+	],
+	"capacity": "80 charges"
+}

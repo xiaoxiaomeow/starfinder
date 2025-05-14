@@ -1,0 +1,22 @@
+{
+	"key": "Gravity Grenade, II",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=II&Family=Gravity Grenade",
+	"family": "Gravity Grenade",
+	"name_en": "Gravity Grenade, II",
+	"description_en": "Derived from the gravitational organs of shipkiller bulbs, gravity grenades generate a micro-singularity that pulls affected targets towards the detonation point. Creatures in the area move the listed distance toward the blast’s center if they fail a Fortitude saving throw. Unsecured, unattended items of 1 bulk or less automatically fail this save. The force is not powerful enough to move bigger objects, such as Large vehicles.",
+	"source": "Alien Archive 4 pg. 109",
+	"level": "12",
+	"price": "4,800",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (pull 15 ft.",
+		"30 ft.)"
+	],
+	"capacity": "Drawn"
+}

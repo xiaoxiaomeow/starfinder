@@ -10,16 +10,21 @@ import SearchTable from '@site/src/components/SearchTable.js';
 	context = {require.context("../src/data/equipments/weapons", false, /\.json$/)} 
 	columns = {
 		[
-			{ key : "name_zh", name : "武器" },
-			{ key : "type", name : "类别", translator : {
-				"Basic Melee": "基础近战武器"
+			{ key : "name_zh", backupKey : "name_en", name : "武器" },
+			{ key : "proficiency", name : "类别", translator : {
+				"Small Arms": "小型火器",
+				"Longarms": "长管火器",
+				"Heavy": "重型武器",
+				"Grenade": "手榴弹",
+				"Basic Melee": "基础近战武器",
+				"Advanced Melee": "进阶近战武器",
+				"Solarian": "太阳武器水晶",
+				"Sniper": "狙击武器",
+				"Special": "特殊武器"
 			}},
 			{ key : "category", name : "范畴", translator : {
 			}},
-			{ key : "hand", name : "占用手", translator : {
-				"One-Handed": "单手武器",
-				"Two-Handed": "双手武器",
-			}},
+			{ key : "hands", name : "占用手" },
 			{ key : "level", name : "等级" },
 			{ key : "price", name : "价格" },
 			{ key : "bulk", name : "负载" },

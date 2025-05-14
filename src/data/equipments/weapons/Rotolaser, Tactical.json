@@ -1,0 +1,23 @@
+{
+	"key": "Rotolaser, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Rotolaser",
+	"family": "Rotolaser",
+	"name_en": "Rotolaser, Tactical",
+	"description_en": "A rotolaser uses much of the same technology as autobeam artillery, but in addition to directing its beam through a rotating array of lenses, it also uses a rotating array of barrels that creates a series of short laser blasts. This rotating assembly helps the weapon to survive the heat and stress of rapid fire. Rotolasers come in tactical and advanced versions.",
+	"source": "Starfinder Armory pg. 41",
+	"level": "7",
+	"price": "6,040",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Laser",
+	"damage": "2d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 1d6",
+	"bulk": "2",
+	"special": [
+		"Automatic"
+	],
+	"capacity": "20 charges"
+}

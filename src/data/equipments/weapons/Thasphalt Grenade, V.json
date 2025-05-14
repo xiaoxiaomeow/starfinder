@@ -1,0 +1,23 @@
+{
+	"key": "Thasphalt Grenade, V",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=V&Family=Thasphalt Grenade",
+	"family": "Thasphalt Grenade",
+	"name_en": "Thasphalt Grenade, V",
+	"description_en": "Invented by accident when an engineer didn’t open a steam valve on a reactor, the thasphalt grenade’s invention coincided with new emergency pressure release valves being introduced onto other thasphalt products.",
+	"source": "Drift Crisis pg. 51",
+	"level": "11",
+	"price": "8,250",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (6d8 B",
+		"15 ft.)",
+		"force"
+	],
+	"capacity": "Drawn"
+}

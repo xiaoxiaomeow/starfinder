@@ -1,0 +1,25 @@
+{
+	"key": "Peacemaker",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Peacemaker&Family=None",
+	"family": "None",
+	"name_en": "Peacemaker",
+	"description_en": "This more advanced combat baton, known as a peacemaker, is a light metal rod that discharges a pulse that can be strong enough to knock a target to the ground.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "16",
+	"price": "185,300",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "6d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "L",
+	"special": [
+		"operative",
+		"powered (capacity 20 usage 2)",
+		"stun"
+	],
+	"capacity": ""
+}

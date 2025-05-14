@@ -1,0 +1,24 @@
+{
+	"key": "Plasma Ring, Single-Valve",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Single-Valve&Family=Plasma Ring",
+	"family": "Plasma Ring",
+	"name_en": "Plasma Ring, Single-Valve",
+	"description_en": "Plasma rings are relatively flat, circular weapons with an easily grippable interior, allowing them to be used in a variety of orientations. Plasma cycles through a channel within the ring at high speeds, and a release valve allows a stream of plasma to escape in a directed jet. Single-valve plasma rings produce a small discharge, while dual-valve plasma rings have a synchronized pair of valves to produce a larger discharge. Multichannel plasma rings build plasma in a series of parallel rings that vent into a single release valve for an extremely powerful blast.",
+	"source": "Starfinder Armory pg. 43",
+	"level": "17",
+	"price": "280,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Plasma",
+	"damage": "4d8",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "wound",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

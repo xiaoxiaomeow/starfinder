@@ -1,0 +1,23 @@
+{
+	"key": "Perforator Pistol, Linear",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Linear&Family=Perforator Pistol",
+	"family": "Perforator Pistol",
+	"name_en": "Perforator Pistol, Linear",
+	"description_en": "Sonic Weapons",
+	"source": "Starfinder Armory pg. 50",
+	"level": "20",
+	"price": "732,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Sonic",
+	"damage": "5d10",
+	"damageType": [
+		"So"
+	],
+	"critical": "bleed",
+	"bulk": "L",
+	"special": [
+		"penetrating"
+	],
+	"capacity": "40 charges"
+}

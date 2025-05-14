@@ -1,0 +1,27 @@
+{
+	"key": "Locus Blade, Ultrasonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ultrasonic&Family=Locus Blade",
+	"family": "Locus Blade",
+	"name_en": "Locus Blade, Ultrasonic",
+	"description_en": "The Locus blade forms a cutting beam of coherent energy. Like a Locus beam, the blade’s modulation can be reversed to provide healing. These blades produce a pleasing, low hum that grows louder and shriller the faster the wielder swings the weapon.",
+	"source": "The Liberation of Locus-1 pg. 59",
+	"level": "13",
+	"price": "52,800",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Locus",
+	"damage": "3d10",
+	"damageType": [
+		"E",
+		"So"
+	],
+	"critical": "Leech",
+	"bulk": "L",
+	"special": [
+		"Force",
+		"healing",
+		"powered (capacity 80",
+		"usage 8)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Void Rifle, Barrow-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Barrow-Class&Family=Void Rifle",
+	"family": "Void Rifle",
+	"name_en": "Void Rifle, Barrow-Class",
+	"description_en": "A firearm designed with crystals from the Plane of Shadow, a void rifle is unique in that power flowing through those crystals allows the rifle to fire inky bolts of life-sapping cold. The rifle’s frigid energy can harm only the living, so it does nothing to constructs and undead. Regardless, the rifle remains a favorite of followers of Urgathoa. Grave- and crypt-class void rifles are an option for standard issue among rank-and-file marines of the Eoxian navy, while tomb-, ossuary-, and barrow-class void rifles are reserved for elite forces.",
+	"source": "Starfinder Armory pg. 36",
+	"level": "16",
+	"price": "182,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Cryo",
+	"damage": "4d10",
+	"damageType": [
+		"C"
+	],
+	"critical": "suffocate",
+	"bulk": "1",
+	"special": [
+		"antibiological"
+	],
+	"capacity": "40 charges"
+}

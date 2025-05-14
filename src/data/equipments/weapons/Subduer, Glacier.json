@@ -1,0 +1,23 @@
+{
+	"key": "Subduer, Glacier",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Glacier&Family=Subduer",
+	"family": "Subduer",
+	"name_en": "Subduer, Glacier",
+	"description_en": "A subduer resembles a hollow rod with internal coolant reserves, and it relies on the user’s forceful movements to spray the coolant forward. Employed primarily by kasathan security forces to prevent suspects from fleeing, subduers coat their targets in a thin layer of expelled coolants that cause temporary painful freezing of the target’s skin that deals little lasting damage. On a lucky shot, the frozen layer also interferes with the target’s ability to function. Frost and rime subduers are often employed by peacekeeping forces, while sleet and glacier subduers typically see use only by pirates or mercenary groups.",
+	"source": "Starfinder Armory pg. 35",
+	"level": "13",
+	"price": "50,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Cryo",
+	"damage": "3d6",
+	"damageType": [
+		"C"
+	],
+	"critical": "staggered",
+	"bulk": "L",
+	"special": [
+		"nonlethal"
+	],
+	"capacity": "20 charges"
+}

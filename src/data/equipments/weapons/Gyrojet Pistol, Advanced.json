@@ -1,0 +1,23 @@
+{
+	"key": "Gyrojet Pistol, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Gyrojet Pistol",
+	"family": "Gyrojet Pistol",
+	"name_en": "Gyrojet Pistol, Advanced",
+	"description_en": "Gyrojet pistols fire mini-rockets that can hit with a force great enough to knock down targets. Gyrojet pistols are slightly larger than semiautomatic pistols, and they have a reinforced barrel.",
+	"source": "Starfinder Core Rulebook pg. 173",
+	"level": "20",
+	"price": "715,800",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Projectile",
+	"damage": "5d12",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "L",
+	"special": [
+		"analog"
+	],
+	"capacity": "8 mini-rockets"
+}

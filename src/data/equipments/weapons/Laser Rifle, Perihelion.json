@@ -1,0 +1,23 @@
+{
+	"key": "Laser Rifle, Perihelion",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Perihelion&Family=Laser Rifle",
+	"family": "Laser Rifle",
+	"name_en": "Laser Rifle, Perihelion",
+	"description_en": "With its snub, squared barrel and internal reinforcements, a laser rifle is sturdy and dependable.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "20",
+	"price": "722,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Laser",
+	"damage": "11d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 5d6",
+	"bulk": "1",
+	"special": [
+		"—"
+	],
+	"capacity": "100 charges"
+}

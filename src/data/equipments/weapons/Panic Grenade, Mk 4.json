@@ -1,0 +1,21 @@
+{
+	"key": "Panic Grenade, Mk 4",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Mk 4&Family=Panic Grenade",
+	"family": "Panic Grenade",
+	"name_en": "Panic Grenade, Mk 4",
+	"description_en": "When an early attempt at creating synthetic zhufera honey went awry, the resulting hallucinogen was aerosolized and weaponized by the Rising as a method of causing mass chaos in a short period of time. These hybrid grenades assault those in the blast radius with terrifying illusions of disastrous cataclysms, ravenous beasts, and other nightmarish hallucinations, causing those who succumb to the visions to fight, flee, or freeze. Those caught in the blast radius of a panic grenade must succeed at a Will save or gain the confused condition for a duration according to the grenade’s type.",
+	"source": "Interstellar Species pg. 55",
+	"level": "14",
+	"price": "22,400",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (15 ft. see text)"
+	],
+	"capacity": "drawn"
+}

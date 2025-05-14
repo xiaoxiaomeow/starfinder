@@ -1,0 +1,23 @@
+{
+	"key": "Pulsecaster Rifle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Pulsecaster Rifle&Family=None",
+	"family": "None",
+	"name_en": "Pulsecaster Rifle",
+	"description_en": "The pulsecaster rifle sends a low-voltage blast at its target and has a longer range than the handheld pulsecaster. The blast can stun the target and deal nonlethal damage.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "1",
+	"price": "100",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Shock",
+	"damage": "1d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"nonlethal"
+	],
+	"capacity": "20 charges"
+}

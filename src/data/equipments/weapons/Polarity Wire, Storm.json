@@ -1,0 +1,25 @@
+{
+	"key": "Polarity Wire, Storm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Storm&Family=Polarity Wire",
+	"family": "Polarity Wire",
+	"name_en": "Polarity Wire, Storm",
+	"description_en": "This gauntlet houses coiled wire tipped with a sturdy needle. When triggered, the gauntlet launches the needle toward a target, channeling a deadly shock along the wire a split second later. After this, the gauntlet rapidly recoils the tethered needle in preparation for additional attacks. Due to the weapon’s design, a polarity wire can’t attack targets beyond its first range increment.",
+	"source": "Tech Revolution pg. 61",
+	"level": "17",
+	"price": "232,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Shock",
+	"damage": "8d4",
+	"damageType": [
+		"E",
+		"P"
+	],
+	"critical": "Electrocute AR",
+	"bulk": "L",
+	"special": [
+		"Injection",
+		"integrated (1 slot)"
+	],
+	"capacity": "20 charges "
+}

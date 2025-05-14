@@ -1,0 +1,27 @@
+{
+	"key": "Living Lash",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Living Lash&Family=None",
+	"family": "None",
+	"name_en": "Living Lash",
+	"description_en": "A living lash is grown from a network of filaments closely related to neural fibers, and it remains biologically active after its creation. This living connection to neurophysiology makes the weapon easy to manipulate using telepathy, but it’s difficult to wield without such abilities. These weapons are common only on worlds with telepathic species.",
+	"source": "Starfinder Armory pg. 52",
+	"level": "6",
+	"price": "4,150",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "1d8",
+	"damageType": [
+		"S"
+	],
+	"critical": "bind",
+	"bulk": "L",
+	"special": [
+		"living",
+		"powered (capacity 20 usage 1)",
+		"reach",
+		"thought",
+		"unwieldy"
+	],
+	"capacity": ""
+}

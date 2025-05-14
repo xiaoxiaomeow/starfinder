@@ -1,0 +1,24 @@
+{
+	"key": "Void Staff, Ossuary-Class",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Ossuary-Class&Family=Void Staff",
+	"family": "Void Staff",
+	"name_en": "Void Staff, Ossuary-Class",
+	"description_en": "Quite common on Eox, void staves are designed using extensive necromancy-derived technologies, resulting in nonreflective black coloration and a range of morbid effects. A target struck by a void staff suffers effects similar to frostbite, as the weapon drains the life energy out of the target on a cellular level and, in some cases, causes complications with breathing and other essential functions. Grave-class, crypt-class, tomb-class, and ossuary-class void staves are relatively common throughout the Pact Worlds, while barrow-class void staves are almost never seen anywhere except Eox.",
+	"source": "Starfinder Armory pg. 36",
+	"level": "20",
+	"price": "904,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "9d10",
+	"damageType": [
+		"C"
+	],
+	"critical": "suffocate",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"block"
+	],
+	"capacity": ""
+}

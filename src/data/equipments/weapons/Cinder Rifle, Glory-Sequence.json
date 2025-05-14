@@ -1,0 +1,23 @@
+{
+	"key": "Cinder Rifle, Glory-Sequence",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Glory-Sequence&Family=Cinder Rifle",
+	"family": "Cinder Rifle",
+	"name_en": "Cinder Rifle, Glory-Sequence",
+	"description_en": "Designed for the fighting elite of Sarenrae, cinder rifles are similar to most jacketed rifles, but within the framework of the gun, the ammunition becomes superheated. The result is a bullet exiting the gun while white hot, tracing its path through the air with a bright trail.",
+	"source": "Starfinder #13: Fire Starters pg. 52",
+	"level": "11",
+	"price": "23,700",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "3d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "burn 2d6",
+	"bulk": "2",
+	"special": [
+		"—"
+	],
+	"capacity": "20 rounds"
+}

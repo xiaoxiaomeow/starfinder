@@ -1,0 +1,24 @@
+{
+	"key": "Nightarch Needler, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Nightarch Needler",
+	"family": "Nightarch Needler",
+	"name_en": "Nightarch Needler, Advanced",
+	"description_en": "Popular among the drow on Apostae, this needle gun can deliver deadly poisons. The weapon is so small you gain a +2 bonus to Sleight of Hand checks to hide it on your person.",
+	"source": "Pact Worlds pg. 194",
+	"level": "18",
+	"price": "369,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "8d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "injection dc +2",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"injection"
+	],
+	"capacity": "5 darts"
+}

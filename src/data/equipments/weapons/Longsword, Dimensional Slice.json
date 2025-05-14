@@ -1,0 +1,23 @@
+{
+	"key": "Longsword, Dimensional Slice",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dimensional Slice&Family=Longsword",
+	"family": "Longsword",
+	"name_en": "Longsword, Dimensional Slice",
+	"description_en": "",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "18",
+	"price": "368,100",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "8d10",
+	"damageType": [
+		"S"
+	],
+	"critical": "bleed 6d6",
+	"bulk": "1",
+	"special": [
+		"analog"
+	],
+	"capacity": ""
+}

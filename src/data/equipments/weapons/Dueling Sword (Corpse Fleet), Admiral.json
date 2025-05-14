@@ -1,0 +1,23 @@
+{
+	"key": "Dueling Sword (Corpse Fleet), Admiral",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Admiral&Family=Dueling Sword (Corpse Fleet)",
+	"family": "Dueling Sword (Corpse Fleet)",
+	"name_en": "Dueling Sword (Corpse Fleet), Admiral",
+	"description_en": "Members of the Corpse Fleet earn their dueling swords through tallied kill counts, while officers receive their blades as part of the transition to the rank of commander. Corpse Fleet admirals’ blades are some of the keenest weapons in the known galaxy. Although the weapons are mainly used by the Corpse Fleet, the undead navy leaks some versions into the markets on Eox.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 247, Starfinder #3: Splintered Worlds pg. 49, Alien Archive 2 pg. 23",
+	"level": "10",
+	"price": "18,795",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "3d4",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog"
+	],
+	"capacity": ""
+}

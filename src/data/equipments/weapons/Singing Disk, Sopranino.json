@@ -1,0 +1,24 @@
+{
+	"key": "Singing Disk, Sopranino",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sopranino&Family=Singing Disk",
+	"family": "Singing Disk",
+	"name_en": "Singing Disk, Sopranino",
+	"description_en": "A singing disk, also known as a shotalashu singer, is a 7-inch-diameter metal disk that is perforated with intricate abstract patterns and has a circular hole in the middle. When the weapon is swung or thrown, the perforations cause the air flowing through them to vibrate with a range of sonic frequencies like hundreds of voices singing simultaneously. The disks can sound quite lovely, but the sonic frequencies they create are unforgiving to the body and inner ear, and can muddle the mind. Singing disks have a series of models ranging from the sopranino to the soprano, alto, tenor, and bass versions.",
+	"source": "Starfinder Armory pg. 51",
+	"level": "19",
+	"price": "482,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Sonic",
+	"damage": "10d6",
+	"damageType": [
+		"So"
+	],
+	"critical": "confuse",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"thrown (80 ft.)"
+	],
+	"capacity": ""
+}

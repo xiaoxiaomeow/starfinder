@@ -1,0 +1,25 @@
+{
+	"key": "Cryospike, Residential",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Residential&Family=Cryospike",
+	"family": "Cryospike",
+	"name_en": "Cryospike, Residential",
+	"description_en": "Cryospikes began as fire-extinguishing equipment, but they have since been weaponized and now serve a variety of roles. The weapon discharges a spike of hyper-cooled fluid that can be configured to put out a small fire or deal a burst of cold damage to its target. Most cryospike users integrate the apparatus’s maze of polymer tubing and coolant reservoirs into their armor to keep it always close at hand. The personal cryospike is based on a model originally designed for use in powered armor prototypes (as such early designs are prone to fires caused by engineering faults). Residential cryospikes are typically employed by firefighting crews, while industrial cryospikes is most often kept on hand in massive starship-engineering bays.",
+	"source": "Starfinder Armory pg. 34",
+	"level": "15",
+	"price": "114,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "9d4",
+	"damageType": [
+		"C"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"extinguish",
+		"integrated (2 slots)",
+		"powered (capacity 20 usage 2)"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Wave Modulator, VI",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=VI&Family=Wave Modulator",
+	"family": "Wave Modulator",
+	"name_en": "Wave Modulator, VI",
+	"description_en": "The frequency of a wave modulator’s output can be adjusted to either burn a target or bombard it with damaging sonic bursts. Shirrens favor these boxy pistols because of the thrill of choosing the damage type of every shot fired. Wave modulators come in numbered models.",
+	"source": "Starfinder Armory pg. 39",
+	"level": "20",
+	"price": "919,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Flame",
+	"damage": "4d10",
+	"damageType": [
+		"F|so"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"modal (sonic)"
+	],
+	"capacity": "40 charges"
+}

@@ -1,0 +1,26 @@
+{
+	"key": "Electric Prod, Impulse",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Impulse &Family=Electric Prod",
+	"family": "Electric Prod",
+	"name_en": "Electric Prod, Impulse",
+	"description_en": "Company personnel must occasionally transport animals from one world to another. Large herd animals, such as ruthigs, can be notoriously stubborn, and sometimes a beast proves more dangerous than anticipated. In these situations, crews appreciate this stout electric prod capable of delivering a nonlethal shock that can stun or incapacitate even a surly wolliped. Electric prods see civilian use on Castrovel, Triaxus, and other worlds, where ranchers and farmers utilize them to keep large animals under control without causing permanent harm.",
+	"source": "Starfinder #34: We’re No Heroes pg. 44",
+	"level": "18",
+	"price": "385,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "8d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "Stunned",
+	"bulk": "1",
+	"special": [
+		"Nonlethal",
+		"powered (capacity 100",
+		"usage 4)",
+		"professional (farmer)"
+	],
+	"capacity": ""
+}

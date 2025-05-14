@@ -1,0 +1,24 @@
+{
+	"key": "Net Gun, Wireframe",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Wireframe&Family=Net Gun",
+	"family": "Net Gun",
+	"name_en": "Net Gun, Wireframe",
+	"description_en": "This rifle fires compacted nyfiber nets that unravel and entangle on contact with a target. The rifle’s reloading mechanism operates slowly, requiring a full minute to feed, fold, and compress a deployed nyfiber net. The rarer bolt net gun includes a battery (capacity 20; usage 4) that electrifies fired nets, often knocking targets out cold. Attacks with either net gun target KAC.",
+	"source": "Tech Revolution pg. 61",
+	"level": "7",
+	"price": "5,250",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "3d4",
+	"damageType": [
+		"E"
+	],
+	"critical": "Stunned",
+	"bulk": "1",
+	"special": [
+		"Entangle",
+		"stun"
+	],
+	"capacity": "2 nets "
+}

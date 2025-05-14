@@ -1,0 +1,26 @@
+{
+	"key": "Formian Venomcaster, Elite",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Elite&Family=Formian Venomcaster",
+	"family": "Formian Venomcaster",
+	"name_en": "Formian Venomcaster, Elite",
+	"description_en": "The formians on the moons of Vesk-5 developed this weapon to fire an envenomed dart. More expensive versions encase a fired dart in a monofilament casing. When such a dart strikes a target, it not only delivers the poison but shatters to constrain the target within the monofilament web.",
+	"source": "Near Space pg. 150",
+	"level": "18",
+	"price": "398,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "10d10",
+	"damageType": [
+		"P"
+	],
+	"critical": "Injection DC +2",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"entangle",
+		"injection",
+		"unwieldy"
+	],
+	"capacity": "24 darts"
+}

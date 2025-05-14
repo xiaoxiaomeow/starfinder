@@ -1,0 +1,23 @@
+{
+	"key": "Skipshot Pistol, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Skipshot Pistol",
+	"family": "Skipshot Pistol",
+	"name_en": "Skipshot Pistol, Tactical",
+	"description_en": "The maggedli of the Helfen-Thel system manufacture these firearms and imbue them with their magical expertise. Although the pistols use a clip of ordinary rounds, the pistol imbues teleportation magic into the ammunition as it’s fired. A skipshot pistol is a hybrid item.",
+	"source": "Near Space pg. 150",
+	"level": "17",
+	"price": "216,500",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "11d4",
+	"damageType": [
+		"P"
+	],
+	"critical": "Bleed 5d6",
+	"bulk": "L",
+	"special": [
+		"Teleportive"
+	],
+	"capacity": "20 rounds"
+}

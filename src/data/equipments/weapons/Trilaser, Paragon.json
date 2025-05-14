@@ -1,0 +1,23 @@
+{
+	"key": "Trilaser, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Trilaser",
+	"family": "Trilaser",
+	"name_en": "Trilaser, Paragon",
+	"description_en": "Members of the Aeon Guard who function in support roles or who are assigned to missions where subtlety is key favor the unique design of the trilaser. The weapon is more effective than but just as light as typical laser small arms, and even more so with a slotted",
+	"source": "Starfinder #8: Escape from the Prison Moon pg. 45",
+	"level": "15",
+	"price": "105,600",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Flame",
+	"damage": "4d6",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 3d4",
+	"bulk": "L",
+	"special": [
+		"aeon"
+	],
+	"capacity": "40 charges"
+}

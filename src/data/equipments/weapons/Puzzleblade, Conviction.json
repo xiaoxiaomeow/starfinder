@@ -1,0 +1,23 @@
+{
+	"key": "Puzzleblade, Conviction",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Conviction&Family=Puzzleblade",
+	"family": "Puzzleblade",
+	"name_en": "Puzzleblade, Conviction",
+	"description_en": "The kasathan puzzleblade is a two-handed sword that can be disassembled into pieces for ease of storage and transport, although reassembling the blade for use takes some time. Many who carry a puzzleblade see the assembly time as a reminder of virtues to uphold, so the various types of puzzleblades take their names from kasathan values of conviction, dedication, moderation, and tradition. Some ysoki, on the other hand, have taken a liking to the weapon due to the fact that the disassembled pieces can be stored in ysoki cheek pouches.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "19",
+	"price": "605,000",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "14d6",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"breakdown"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Vortex Rifle, Surge",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Surge&Family=Vortex Rifle",
+	"family": "Vortex Rifle",
+	"name_en": "Vortex Rifle, Surge",
+	"description_en": "A vortex rifle shoots a burst of sonic energy so powerful it generates a small vortex or whirlwind on impact. Well-aimed shots can overcome a target with waves of nausea. Vortex rifles also can be used to generate enough force to break down doors and walls. Vortex rifles can be found in pulse, surge, drum, and hammer varieties, which, in ascending order, generate increasingly powerful sonic waves.",
+	"source": "Galaxy Exploration Manual pg. 55",
+	"level": "17",
+	"price": "250,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Sonic",
+	"damage": "8d6",
+	"damageType": [
+		"So"
+	],
+	"critical": "Nauseate",
+	"bulk": "1",
+	"special": [
+		"Breach",
+		"underwater"
+	],
+	"capacity": "40 charges "
+}

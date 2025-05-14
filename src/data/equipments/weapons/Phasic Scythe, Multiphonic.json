@@ -1,0 +1,25 @@
+{
+	"key": "Phasic Scythe, Multiphonic",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Multiphonic&Family=Phasic Scythe",
+	"family": "Phasic Scythe",
+	"name_en": "Phasic Scythe, Multiphonic",
+	"description_en": "With these phasic scythes, weaponsmiths harnessed the nyssholora’s ability to oscillate its upper appendages to produce a deadly sonic effect. Using a complex array of internal energy conductors powered by Pact Worlds high-, super-, and ultra-capacity batteries, the technological components of phasic scythes can replicate the nyssholora’s nervous system by causing an authentic nyssholora claw to vibrate at similar frequencies to their natural counterparts. These weapons slice through solid matter with wicked efficiency, sometimes leaving their living targets with lasting wounds. These powered blades keep the market for nyssholora hunting lucrative despite the dangers inherent in recovering the raw materials.",
+	"source": "Alien Archive 2 pg. 87",
+	"level": "15",
+	"price": "112,500",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "6d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "Wound",
+	"bulk": "2",
+	"special": [
+		"penetrating",
+		"powered (capacity 80",
+		"usage 8)"
+	],
+	"capacity": ""
+}

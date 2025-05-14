@@ -1,0 +1,21 @@
+{
+	"key": "Electron, True",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=True&Family=Electron",
+	"family": "Electron",
+	"name_en": "Electron, True",
+	"description_en": "",
+	"source": "Starfinder Armory pg. 49",
+	"level": "15",
+	"price": "93,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+4d4 E",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "—",
+	"special": [
+		"stun"
+	],
+	"capacity": ""
+}

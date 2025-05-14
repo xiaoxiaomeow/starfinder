@@ -1,0 +1,21 @@
+{
+	"key": "W-Boson, Standard",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Standard&Family=W-Boson",
+	"family": "W-Boson",
+	"name_en": "W-Boson, Standard",
+	"description_en": "",
+	"source": "Starfinder Core Rulebook pg. 180",
+	"level": "20",
+	"price": "806,000",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+6d6 ",
+	"damageType": [],
+	"critical": "bleed 6d6",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

@@ -1,0 +1,24 @@
+{
+	"key": "Needler Rifle",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Needler Rifle&Family=None",
+	"family": "None",
+	"name_en": "Needler Rifle",
+	"description_en": "Like the needler pistol, this injection gun can be fitted with cartridges containing medicine or poison. The needler rifle fires darts much farther than its smaller counterpart.",
+	"source": "Starfinder Core Rulebook pg. 177",
+	"level": "1",
+	"price": "110",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "",
+	"damage": "1d6",
+	"damageType": [
+		"P"
+	],
+	"critical": "injection DC +2",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"injection"
+	],
+	"capacity": "12 darts"
+}

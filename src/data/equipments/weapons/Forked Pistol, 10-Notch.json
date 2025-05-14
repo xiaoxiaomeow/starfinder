@@ -1,0 +1,24 @@
+{
+	"key": "Forked Pistol, 10-Notch",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=10-Notch&Family=Forked Pistol",
+	"family": "Forked Pistol",
+	"name_en": "Forked Pistol, 10-Notch",
+	"description_en": "Plasma builds up and arcs between the two long, notched tines of this pistol, amplifying in power as the stream travels the length of the weapon. Forked pistols are named for the number of notches in their plasma-generating forks, as each notch contributes to a more powerful blast. Pistols are typically available in 6-notch, 8-notch, 9-notch, and 10-notch models.",
+	"source": "Starfinder Armory pg. 42",
+	"level": "13",
+	"price": "48,100",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Plasma",
+	"damage": "4d4",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 3d4",
+	"bulk": "L",
+	"special": [
+		"boost 2d4"
+	],
+	"capacity": "40 charges"
+}

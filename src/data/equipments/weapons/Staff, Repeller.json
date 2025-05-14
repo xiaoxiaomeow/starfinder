@@ -1,0 +1,25 @@
+{
+	"key": "Staff, Repeller",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Repeller&Family=Staff",
+	"family": "Staff",
+	"name_en": "Staff, Repeller",
+	"description_en": "Staves are long and flexible, weighted on the end to provide extra striking power. Most staves are made from aluminum or fiberglass, though some are still made from wood.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "7",
+	"price": "6,320",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "1d10",
+	"damageType": [
+		"B"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"block",
+		"powered (capacity 20 usage 1)",
+		"stun"
+	],
+	"capacity": ""
+}

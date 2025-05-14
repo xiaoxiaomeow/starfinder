@@ -1,0 +1,24 @@
+{
+	"key": "Chorister, Intoner",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Intoner&Family=Chorister",
+	"family": "Chorister",
+	"name_en": "Chorister, Intoner",
+	"description_en": "A chorister is a wireless microphone that, when activated, channels a singer’s voice into a powerful weapon. Before the Gap, Desna gifted magical choristers to five of her most talented and devout followers. The glamorous group of starsingers used Desna’s gifts to defend their home worlds. The original chorister artifacts were lost long ago, but today’s imitations amplify the voices of daring performers who want to be part of the action.",
+	"source": "Starfinder #47: Nightmare Scenario pg. 48",
+	"level": "18",
+	"price": "380,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "6d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "Knockdown",
+	"bulk": "L",
+	"special": [
+		"Boost 2d6",
+		"professional (musician)"
+	],
+	"capacity": "80 charges"
+}

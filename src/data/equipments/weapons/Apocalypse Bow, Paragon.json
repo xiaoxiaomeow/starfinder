@@ -1,0 +1,25 @@
+{
+	"key": "Apocalypse Bow, Paragon",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Paragon&Family=Apocalypse Bow",
+	"family": "Apocalypse Bow",
+	"name_en": "Apocalypse Bow, Paragon",
+	"description_en": "Magically resonant crystals sometimes develop in regions ravaged by supernatural cataclysms. When carefully heated and incorporated into a bow’s construction, these crystals impart destructive force to the weapon’s arrows, creating an apocalypse bow.",
+	"source": "Galactic Magic pg. 33",
+	"level": "13",
+	"price": "40,000",
+	"hands": "2",
+	"proficiency": "Special",
+	"category": "",
+	"damage": "4d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "corrode (2d6)",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"force",
+		"quick reload"
+	],
+	"capacity": "drawn"
+}

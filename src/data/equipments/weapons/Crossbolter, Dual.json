@@ -1,0 +1,24 @@
+{
+	"key": "Crossbolter, Dual",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dual&Family=Crossbolter",
+	"family": "Crossbolter",
+	"name_en": "Crossbolter, Dual",
+	"description_en": "This weapon resembles a rifle with a crossbeam near the end of the barrel. A crossbolter uses mechanical power to fire arrows along the barrel. Grenade arrows can also be fired with a crossbolter.",
+	"source": "Starfinder Core Rulebook pg. 176",
+	"level": "2",
+	"price": "475",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Projectile",
+	"damage": "1d10",
+	"damageType": [
+		"P"
+	],
+	"critical": "—",
+	"bulk": "2",
+	"special": [
+		"Analog",
+		"unwieldy"
+	],
+	"capacity": "1 arrow"
+}

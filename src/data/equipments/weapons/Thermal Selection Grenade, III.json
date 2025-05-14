@@ -1,0 +1,22 @@
+{
+	"key": "Thermal Selection Grenade, III",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=III&Family=Thermal Selection Grenade",
+	"family": "Thermal Selection Grenade",
+	"name_en": "Thermal Selection Grenade, III",
+	"description_en": "You can use a move action to activate this grenade’s thermal chamber, setting its temperature to hot or cold for the next 10 minutes. This causes the grenade to deal additional fire or cold damage, respectively. The thermal activation action can be combined with the action to draw the grenade.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "17",
+	"price": "35,900",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (5d8 P plus 5d6 C or 5d6 F",
+		"10 ft.)"
+	],
+	"capacity": "Drawn"
+}

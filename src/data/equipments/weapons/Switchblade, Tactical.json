@@ -1,0 +1,25 @@
+{
+	"key": "Switchblade, Tactical",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Tactical&Family=Switchblade",
+	"family": "Switchblade",
+	"name_en": "Switchblade, Tactical",
+	"description_en": "This blade looks much like a single-edged survival knife when opened, but the blade can be folded or collapsed to fit within the grip, making it easier to conceal. A switch on the knife means the blade can be folded or extended as a swift action, or as part of making an attack or full attack. Most weapon manufacturers that offer daggers also produce switchblades, which are made in the same models: tactical, ultrathin, zero-edge, and molecular rift.",
+	"source": "Starfinder Armory pg. 54",
+	"level": "18",
+	"price": "354,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "11d4",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"analog",
+		"conceal",
+		"operative"
+	],
+	"capacity": ""
+}

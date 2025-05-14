@@ -1,0 +1,26 @@
+{
+	"key": "Extrusion Rifle, 12-atm",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=12-atm&Family=Extrusion Rifle",
+	"family": "Extrusion Rifle",
+	"name_en": "Extrusion Rifle, 12-atm",
+	"description_en": "An extrusion rifle creates powerful pressure waves that exit the weapon with an incongruous whisper. The bulk of the rifle is a slender and reinforced cylindrical barrel. When fired, a piston travels from one end of the barrel to the other, compressing the gases inside to extreme pressures before the other end opens and release the projectile. A series of baffles at the rifle’s tip stabilize the pressure wave so that it maintains cohesion over long distances and retains enough power to punch a perfectly clean hole into its target, though it can be modulated to simply hit a target’s surface with forceful impact.",
+	"source": "Galaxy Exploration Manual pg. 79",
+	"level": "18",
+	"price": "392,400",
+	"hands": "2",
+	"proficiency": "Sniper",
+	"category": "Projectile",
+	"damage": "10d10",
+	"damageType": [
+		"B"
+	],
+	"critical": "Knockdown",
+	"bulk": "2",
+	"special": [
+		"Sniper (1",
+		"000 ft.)",
+		"stun",
+		"unwieldy"
+	],
+	"capacity": "80 charges "
+}

@@ -1,0 +1,23 @@
+{
+	"key": "Exploding Crystal, IV",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=IV&Family=Exploding Crystal",
+	"family": "Exploding Crystal",
+	"name_en": "Exploding Crystal, IV",
+	"description_en": "This beautifully faceted gemstone explodes into thousands of tiny fragments on impact, creating many tiny bleeding cuts all over a target’s body. They are often displayed in plain sight, and to recognize that it is not a normal gemstone, a creature must succeed at Perception check with a DC equal to 15 plus the grenade’s level.",
+	"source": "Starfinder Enhanced pg. 166",
+	"level": "17",
+	"price": "39,900",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (5d8 S",
+		"bleed 3d8",
+		"10 ft.)"
+	],
+	"capacity": "Drawn"
+}

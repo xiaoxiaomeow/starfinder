@@ -1,0 +1,25 @@
+{
+	"key": "Code Grenade, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Code Grenade",
+	"family": "Code Grenade",
+	"name_en": "Code Grenade, I",
+	"description_en": "SFS Note: The code grenades information table was omitted; it is published below",
+	"source": "Starfinder #49: A Light in the Dark pg. 42",
+	"level": "16",
+	"price": "26,000",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "12d6",
+	"damageType": [
+		"E"
+	],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (12d6 E",
+		"special 1d4+1 rounds",
+		"15 ft.)"
+	],
+	"capacity": "Drawn"
+}

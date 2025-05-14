@@ -1,0 +1,23 @@
+{
+	"key": "Rubbish Cannon, Light",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Light&Family=Rubbish Cannon",
+	"family": "Rubbish Cannon",
+	"name_en": "Rubbish Cannon, Light",
+	"description_en": "A rubbish cannon is a long metal tube with a trigger, similar to a rocket launcher. Instead of rockets or other mass-produced ammunition, a rubbish cannon is loaded with 1 bulk of junk—useless trash found in most urban environments. The inert electronic equipment used as a target for many of the junk spells works best.",
+	"source": "Junker's Delight pg. 57",
+	"level": "14",
+	"price": "70,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "6d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "Knockdown",
+	"bulk": "2",
+	"special": [
+		"Blast"
+	],
+	"capacity": "Special"
+}

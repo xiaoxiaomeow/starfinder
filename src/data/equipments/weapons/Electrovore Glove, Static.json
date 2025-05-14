@@ -1,0 +1,24 @@
+{
+	"key": "Electrovore Glove, Static",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Static&Family=Electrovore Glove",
+	"family": "Electrovore Glove",
+	"name_en": "Electrovore Glove, Static",
+	"description_en": "With these battle gauntlets, enterprising weaponsmiths have harnessed the electrovore’s ability to conduct and siphon electrical energy. Using a combination of an electrovore’s spines, conductive wiring, and miniaturized storage cells, electrovore gloves deliver electricity damage and can even drain electrical impulses from living creatures and robots with a critical hit.",
+	"source": "Alien Archive pg. 45",
+	"level": "18",
+	"price": "375,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "12d6",
+	"damageType": [
+		"P",
+		"E"
+	],
+	"critical": "recharge 4",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 40 usage 2)"
+	],
+	"capacity": ""
+}

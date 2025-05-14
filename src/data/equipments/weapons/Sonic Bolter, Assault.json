@@ -1,0 +1,25 @@
+{
+	"key": "Sonic Bolter, Assault",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Assault&Family=Sonic Bolter",
+	"family": "Sonic Bolter",
+	"name_en": "Sonic Bolter, Assault",
+	"description_en": "The sound waves a sonic bolter produces tightly focus in a brief but coherent line. This concentrated, low-frequency vibration damages the body and jostles internal organs, causing dizziness, pain, and slight nausea. Members of the Android Abolitionist Front developed the light model upon discovering the effect of a similar beam. Heavy, assault, and devastator bolters can generate sufficient sound pressure to damage artificial and unliving creatures.",
+	"source": "Starfinder Armory pg. 51",
+	"level": "18",
+	"price": "398,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Sonic",
+	"damage": "3d12",
+	"damageType": [
+		"So"
+	],
+	"critical": "Sicken",
+	"bulk": "2",
+	"special": [
+		"antibiological",
+		"line",
+		"unwieldy"
+	],
+	"capacity": "20 charges"
+}

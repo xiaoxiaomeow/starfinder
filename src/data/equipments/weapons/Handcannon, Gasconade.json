@@ -1,0 +1,25 @@
+{
+	"key": "Handcannon, Gasconade",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Gasconade&Family=Handcannon",
+	"family": "Handcannon",
+	"name_en": "Handcannon, Gasconade",
+	"description_en": "Handcannons are popular with those who want to impress or intimidate their foes through the sheer presence of their armament without having to invest in the training required to master longarms or heavy weaponry. Its oversized barrel and muzzle are somewhat precariously balanced on a one-handed grip, though most wielders use both hands to make the weapon more manageable in combat situations. The various model names of this weapon—bravado, swagger, bombast, braggadocio, and gasconade—were originally facetious references to the character of those who tend to favor them, though many users embrace the names unironically.",
+	"source": "Starfinder Armory pg. 44",
+	"level": "12",
+	"price": "35,100",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Projectile",
+	"damage": "3d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"free hands (1)",
+		"unwieldy"
+	],
+	"capacity": "9 shells"
+}

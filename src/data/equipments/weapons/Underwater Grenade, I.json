@@ -1,0 +1,22 @@
+{
+	"key": "Underwater Grenade, I",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=I&Family=Underwater Grenade",
+	"family": "Underwater Grenade",
+	"name_en": "Underwater Grenade, I",
+	"description_en": "This grenade can be thrown underwater, unlike other thrown weapons, but not beyond its first range increment. When used underwater, the grenade steams the surrounding area, adding fire damage that is not reduced due to being underwater.",
+	"source": "Starfinder Enhanced pg. 167",
+	"level": "18",
+	"price": "57,620",
+	"hands": "1",
+	"proficiency": "Grenade",
+	"category": "",
+	"damage": "—",
+	"damageType": [],
+	"critical": "—",
+	"bulk": "L",
+	"special": [
+		"Explode (7d8 P plus 4d6 F if underwater",
+		"10 ft.)"
+	],
+	"capacity": "Drawn"
+}

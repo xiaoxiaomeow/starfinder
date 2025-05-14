@@ -1,0 +1,23 @@
+{
+	"key": "Tetrad Rings, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Tetrad Rings",
+	"family": "Tetrad Rings",
+	"name_en": "Tetrad Rings, Advanced",
+	"description_en": "Tetrad rings deal lighter damage than weapons of a similar class, but the device launches a bolt of force that bypasses many common defenses. The design of tetrad rings is proprietary witchwyrd technology, which makes them expensive and difficult to find. They are manufactured in only three models: tactical, advanced, and elite. All three are elaborate sets of rings covered in delicate carvings, with a wire mesh to house the battery. Advanced and elite models have finer decorations.",
+	"source": "Starfinder Armory pg. 54",
+	"level": "19",
+	"price": "620,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "5d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "push (10 ft.)",
+	"bulk": "L",
+	"special": [
+		"force"
+	],
+	"capacity": "20 charges"
+}

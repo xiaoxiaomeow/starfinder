@@ -1,0 +1,26 @@
+{
+	"key": "Desperation Cannon, Sky-Piercer",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Sky-Piercer&Family=Desperation Cannon",
+	"family": "Desperation Cannon",
+	"name_en": "Desperation Cannon, Sky-Piercer",
+	"description_en": "Few damai are brave enough to confront the titanic colossi that roam the devastated world of Daimalko, but some have no choice. This plasma weapon not only delivers a powerful blast capable of penetrating a colossus’s thick hide, but it delivers a blast of light and noise drawing the target’s attention from others. Some desperation cannons are used in only one battle, unless they’re later recovered from wreckage by scavengers.",
+	"source": "Near Space pg. 149",
+	"level": "19",
+	"price": "565,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "9d12",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "Nuisance",
+	"bulk": "2",
+	"special": [
+		"Bright",
+		"penetrating",
+		"unwieldy"
+	],
+	"capacity": "100 charges"
+}

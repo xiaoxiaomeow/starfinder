@@ -1,0 +1,24 @@
+{
+	"key": "Binding Blaster, Globe",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Globe&Family=Binding Blaster",
+	"family": "Binding Blaster",
+	"name_en": "Binding Blaster, Globe",
+	"description_en": "Gray guards positioned around secret labs often wield these devices to contain rogue specimens. They fire a sphere‑shaped matrix of energy that electrically adheres to other matter, interfering with mobility. Creatures report a sticky, tingling sensation when struck with these weapons and often find strange markings on their flesh from where the energy matrix attached.",
+	"source": "Starfinder #26: Flight of the Sleepers pg. 45",
+	"level": "5",
+	"price": "3,100",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "",
+	"damage": "1d6",
+	"damageType": [
+		"B"
+	],
+	"critical": "Bind",
+	"bulk": "L",
+	"special": [
+		"Force",
+		"stun"
+	],
+	"capacity": "20"
+}

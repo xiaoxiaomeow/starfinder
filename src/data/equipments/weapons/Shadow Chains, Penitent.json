@@ -1,0 +1,26 @@
+{
+	"key": "Shadow Chains, Penitent",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Penitent&Family=Shadow Chains",
+	"family": "Shadow Chains",
+	"name_en": "Shadow Chains, Penitent",
+	"description_en": "Worshipers of Zon-Kuthon developed the first shadow chains using cutting-edge heat-transfer technology, but outsiders rapidly reverse-engineered the weapons, constructing functional facsimiles from their own tech. Shadow chains’ links rapidly absorb heat, while their heavily insulated handle protect their wielders from direct exposure to the freezing darkness. Many adherents of the Midnight Lord make use of the follower, acolyte, and penitent shadow chains, while only the most devout can afford the more powerful ecclesiastic and devotional shadow chains.",
+	"source": "Starfinder Armory pg. 35",
+	"level": "18",
+	"price": "261,000",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "Cryo",
+	"damage": "9d8",
+	"damageType": [
+		"C"
+	],
+	"critical": "bind",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"disarm",
+		"reach",
+		"trip"
+	],
+	"capacity": ""
+}

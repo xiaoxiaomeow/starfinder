@@ -1,0 +1,23 @@
+{
+	"key": "Shoulder Laser, Aphelion",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Aphelion&Family=Shoulder Laser",
+	"family": "Shoulder Laser",
+	"name_en": "Shoulder Laser, Aphelion",
+	"description_en": "This laser weapon has a smooth, curved housing and an eyelike aperture, and it can be installed in an armor upgrade slot, leaving the wielder’s hands free for other tasks. As the name implies, most users mount the eyelike aperture over one shoulder, but it can work just as easily mounted on the torso or a forearm. Many shoulder laser users are androids who integrate them into their bodies as emergency weapons. Azimuth, corona, aphelion, and perihelion shoulder lasers are available in most areas.",
+	"source": "Starfinder Armory pg. 41",
+	"level": "18",
+	"price": "383,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Laser",
+	"damage": "3d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 3d6",
+	"bulk": "L",
+	"special": [
+		"integrated (1 slot)"
+	],
+	"capacity": "20 charges"
+}

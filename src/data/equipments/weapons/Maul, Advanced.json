@@ -1,0 +1,24 @@
+{
+	"key": "Maul, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Maul",
+	"family": "Maul",
+	"name_en": "Maul, Advanced",
+	"description_en": "Outsized hammers, mauls are valued for their intimidation factor and effectiveness in battle. A tactical maul is as much an instrument for hammering posts into the ground as a weapon. Advanced mauls include dense, heavy cores to deliver a more forceful blow. Elite mauls and paragon mauls are designed and manufactured more for war than labor, although the weapons can be used as tools.",
+	"source": "Starfinder Armory pg. 53",
+	"level": "20",
+	"price": "724,000",
+	"hands": "2",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "15d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "knockdown",
+	"bulk": "1",
+	"special": [
+		"analog",
+		"unwieldy"
+	],
+	"capacity": ""
+}

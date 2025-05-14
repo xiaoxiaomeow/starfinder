@@ -1,0 +1,24 @@
+{
+	"key": "Flame Pistol, Solar Flare",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Solar Flare&Family=Flame Pistol",
+	"family": "Flame Pistol",
+	"name_en": "Flame Pistol, Solar Flare",
+	"description_en": "Inventive manufacturers have developed more effective versions of the classic flame pistol, resulting in the blaze, inferno, and solar flare models. Like other flame pistols, the more advanced models fire lines of ignited petrol from their barrels, but they work at higher pressure and include nanotechnology that breaks down the petrol into more volatile compounds as the weapon is fired.",
+	"source": "Starfinder Armory pg. 37",
+	"level": "11",
+	"price": "23,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Flame",
+	"damage": "2d8",
+	"damageType": [
+		"F"
+	],
+	"critical": "burn 1d8",
+	"bulk": "L",
+	"special": [
+		"line",
+		"unwieldy"
+	],
+	"capacity": "20 petrol"
+}

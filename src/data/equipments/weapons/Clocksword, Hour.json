@@ -1,0 +1,26 @@
+{
+	"key": "Clocksword, Hour",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Hour&Family=Clocksword",
+	"family": "Clocksword",
+	"name_en": "Clocksword, Hour",
+	"description_en": "The most common and reliable form of clockwork weaponry, a clocksword is a long blade with prominent gears adorning its edge. They’re traditionally made of brass, but models made of steel, titanium, or even starmetals aren’t unheard of. When activated, the weapon’s gears spin wildly, grinding away at enemies when struck. The wielder can expend additional charges to spin the gears faster, dealing additional damage.",
+	"source": "Starfinder #50: Clockwork Demons pg. 52",
+	"level": "11",
+	"price": "25,000",
+	"hands": "1",
+	"proficiency": "Basic Melee",
+	"category": "",
+	"damage": "2d8",
+	"damageType": [
+		"S"
+	],
+	"critical": "—",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"boost 1d8",
+		"clockwork (capacity 10",
+		"usage 1)"
+	],
+	"capacity": ""
+}

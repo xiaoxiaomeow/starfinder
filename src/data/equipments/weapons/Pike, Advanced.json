@@ -1,0 +1,24 @@
+{
+	"key": "Pike, Advanced",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Advanced&Family=Pike",
+	"family": "Pike",
+	"name_en": "Pike, Advanced",
+	"description_en": "A pike is composed of a sharpened-aluminum, stainless-steel, or carbon-steel spike atop a light metal or polycarbonate staff.",
+	"source": "Starfinder Core Rulebook pg. 172",
+	"level": "15",
+	"price": "95,700",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "7d8",
+	"damageType": [
+		"P"
+	],
+	"critical": "bleed 3d8",
+	"bulk": "2",
+	"special": [
+		"analog",
+		"reach"
+	],
+	"capacity": ""
+}

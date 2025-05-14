@@ -1,0 +1,24 @@
+{
+	"key": "Shock Truncheon, Static",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Static&Family=Shock Truncheon",
+	"family": "Shock Truncheon",
+	"name_en": "Shock Truncheon, Static",
+	"description_en": "These polycarbonate batons have a side-handle grip and a electrode-lined striking surface that delivers an electrical charge.",
+	"source": "Starfinder Core Rulebook pg. 171",
+	"level": "19",
+	"price": "545,000",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Shock",
+	"damage": "6d12",
+	"damageType": [
+		"E"
+	],
+	"critical": "arc 6d4",
+	"bulk": "1",
+	"special": [
+		"powered (capacity 40 usage 2)",
+		"stun"
+	],
+	"capacity": ""
+}

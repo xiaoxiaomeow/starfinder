@@ -1,0 +1,25 @@
+{
+	"key": "Chordpocalypse, Banshee",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Banshee&Family=Chordpocalypse",
+	"family": "Chordpocalypse",
+	"name_en": "Chordpocalypse, Banshee",
+	"description_en": "Resembling an electric guitar or other technological stringed instrument, a chordpocalypse is a fully functional musical instrument designed to channel destructively musical blasts. A musician who attacks by building up to a devastating power chord can be just as deadly if they launch a nonstop acoustic barrage that overwhelms the target.",
+	"source": "Tech Revolution pg. 61",
+	"level": "18",
+	"price": "372,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Sonic",
+	"damage": "7d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "Deafen",
+	"bulk": "1",
+	"special": [
+		"Boost (2d8)",
+		"polarize (2d8)",
+		"professional (musician)"
+	],
+	"capacity": "80 charges "
+}

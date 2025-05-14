@@ -1,0 +1,21 @@
+{
+	"key": "W-Boson, True",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=True&Family=W-Boson",
+	"family": "W-Boson",
+	"name_en": "W-Boson, True",
+	"description_en": "",
+	"source": "Starfinder Core Rulebook pg. 180",
+	"level": "17",
+	"price": "274,100",
+	"hands": "1",
+	"proficiency": "Solarian",
+	"category": "",
+	"damage": "+4d6 ",
+	"damageType": [],
+	"critical": "bleed 4d6",
+	"bulk": "—",
+	"special": [
+		"—"
+	],
+	"capacity": ""
+}

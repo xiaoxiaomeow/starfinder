@@ -1,0 +1,24 @@
+{
+	"key": "Skitterstaff, Agrarian",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Agrarian&Family=Skitterstaff",
+	"family": "Skitterstaff",
+	"name_en": "Skitterstaff, Agrarian",
+	"description_en": "This long weapon originated as a skittermander farm implement. Resembling a long hoe with a triangular, hooked end, it is used by rural skittermanders to defend themselves from predators and dangerous strangers. Other races acknowledge the skitterstaff’s utility as a weapon but are met with puzzled skittermanders’ questions about where they plan to farm with it.",
+	"source": "Near Space pg. 150",
+	"level": "12",
+	"price": "36,900",
+	"hands": "2",
+	"proficiency": "Advanced Melee",
+	"category": "",
+	"damage": "5d8",
+	"damageType": [
+		"B"
+	],
+	"critical": "Knockdown",
+	"bulk": "1",
+	"special": [
+		"Analog",
+		"reposition"
+	],
+	"capacity": ""
+}

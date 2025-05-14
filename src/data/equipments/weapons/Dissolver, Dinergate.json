@@ -1,0 +1,27 @@
+{
+	"key": "Dissolver, Dinergate",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Dinergate&Family=Dissolver",
+	"family": "Dissolver",
+	"name_en": "Dissolver, Dinergate",
+	"description_en": "Inspired by the horrific spewing capability of its namesake Swarm component, and much like the acid cannon, the dissolver has two biological glands that use power to produce a couple of highly reactive chemicals. These two chemicals are stable when separate. However, as with the corrovox’s weapon, when an electric jolt causes the dissolver to constrict and release these chemicals, they converge just outside the weapon’s maw, creating an acidic flash fire in a broad arc.",
+	"source": "Starfinder #19: Fate of the Fifth pg. 53",
+	"level": "18",
+	"price": "380,000",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "",
+	"damage": "9d8",
+	"damageType": [
+		"A",
+		"F"
+	],
+	"critical": "corrode 9d4",
+	"bulk": "L",
+	"special": [
+		"Blast",
+		"living",
+		"Swarm",
+		"unwieldy"
+	],
+	"capacity": "40 charges"
+}

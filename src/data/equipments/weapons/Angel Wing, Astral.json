@@ -1,0 +1,25 @@
+{
+	"key": "Angel Wing, Astral",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Astral&Family=Angel Wing",
+	"family": "Angel Wing",
+	"name_en": "Angel Wing, Astral",
+	"description_en": "Plasma Weapons",
+	"source": "Starfinder Armory pg. 41",
+	"level": "7",
+	"price": "5,500",
+	"hands": "1",
+	"proficiency": "Advanced Melee",
+	"category": "Plasma",
+	"damage": "2d6",
+	"damageType": [
+		"E",
+		"F"
+	],
+	"critical": "burn 2d6",
+	"bulk": "L",
+	"special": [
+		"powered (capacity 20 usage 2)",
+		"unwieldy"
+	],
+	"capacity": ""
+}

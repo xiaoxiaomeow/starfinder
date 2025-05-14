@@ -1,0 +1,23 @@
+{
+	"key": "Sonic Suppressor, Whisper",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Whisper&Family=Sonic Suppressor",
+	"family": "Sonic Suppressor",
+	"name_en": "Sonic Suppressor, Whisper",
+	"description_en": "A sonic suppressor noiselessly creates a static energy field that absorbs and amplifies sound, focusing the captured frequencies back upon the target in a damaging burst. Drow, assassins, and other covert killers favor the weapon because no sound escapes this bubble, resulting in a silent attack and, sometimes, a soundless takedown. The suppressor’s sonic cascade can have an anomalously large initial area, which crashes in from a wider radius, absorbing sound from and damaging those nearby while brutally affecting the intended target. Most manufacturers produce four suppressor models, including the murmur, whisper, hush, and repose.",
+	"source": "Starfinder Armory pg. 51",
+	"level": "17",
+	"price": "257,000",
+	"hands": "1",
+	"proficiency": "Small Arms",
+	"category": "Sonic",
+	"damage": "4d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "stifle",
+	"bulk": "L",
+	"special": [
+		"—"
+	],
+	"capacity": "40 charges"
+}

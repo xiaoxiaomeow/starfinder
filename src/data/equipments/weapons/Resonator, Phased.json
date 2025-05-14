@@ -1,0 +1,24 @@
+{
+	"key": "Resonator, Phased",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Phased&Family=Resonator",
+	"family": "Resonator",
+	"name_en": "Resonator, Phased",
+	"description_en": "A resonator is a boxy device with a terminal along the top and a series of concentric rings of metal and crystal in front to focus the weapon’s harmonics. A shoulder strap helps offset the weapon’s considerable weight, allowing the use of a top handle to direct output while freeing up the other hand to operate the controls. A resonator generates sonic waves at frequencies set to resound within the targeted material, allowing the weapon to deal precise damage regardless of the target’s composition or protection. If the integrated probing function is employed before firing, the resonator’s sonic frequencies can be precisely tuned. Diffraction and refraction resonators align sonic waves in specific patterns, while linear and phased resonators focus the sonic energy through specialized matrices for amplified output.",
+	"source": "Starfinder Armory pg. 50",
+	"level": "14",
+	"price": "73,800",
+	"hands": "2",
+	"proficiency": "Heavy",
+	"category": "Sonic",
+	"damage": "4d8",
+	"damageType": [
+		"So"
+	],
+	"critical": "Deafen",
+	"bulk": "2",
+	"special": [
+		"boost 3d8",
+		"penetrating"
+	],
+	"capacity": "40 charges"
+}

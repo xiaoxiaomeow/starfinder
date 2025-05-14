@@ -1,0 +1,23 @@
+{
+	"key": "Disintegrator Rifle, Eradicator",
+	"url": "https://www.aonsrd.com/WeaponDisplay.aspx?ItemName=Eradicator&Family=Disintegrator Rifle",
+	"family": "Disintegrator Rifle",
+	"name_en": "Disintegrator Rifle, Eradicator",
+	"description_en": "Rather snub nosed compared to other longarms, a disintegrator rifle is heavier than it looks due to the row of round energygenerating compartments atop its frame. These compartments generate enough energy for the weapon to liquefy enemies’ bodies. Well-connected customers can purchase liquidator, decimator, executioner, and eradicator disintegrator rifles.",
+	"source": "Starfinder Dead Suns Adventure Path pg. 240, Starfinder #2: Temple of the Twelve pg. 52, Starfinder Armory pg. 36",
+	"level": "16",
+	"price": "210,000",
+	"hands": "2",
+	"proficiency": "Longarms",
+	"category": "Disintegrator",
+	"damage": "5d10",
+	"damageType": [
+		"A"
+	],
+	"critical": "corrode 3d6",
+	"bulk": "2",
+	"special": [
+		"—"
+	],
+	"capacity": "80 charges"
+}
