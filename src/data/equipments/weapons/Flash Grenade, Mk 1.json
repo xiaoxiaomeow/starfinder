@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "—",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (blinded 1d8 rounds 20 ft.)"

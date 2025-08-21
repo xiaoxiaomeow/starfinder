@@ -15,7 +15,7 @@
 		"P"
 	],
 	"critical": "bleed 1d4",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
 		"Analog",
 		"quick reload",

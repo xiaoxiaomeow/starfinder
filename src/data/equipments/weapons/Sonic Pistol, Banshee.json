@@ -17,7 +17,7 @@
 	"critical": "deafen",
 	"bulk": "L",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "60 charges"
 }

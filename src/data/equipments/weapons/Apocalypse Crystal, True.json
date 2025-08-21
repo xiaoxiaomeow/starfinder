@@ -13,9 +13,9 @@
 	"damage": "+4d6 ",
 	"damageType": [],
 	"critical": "corrode 2d6",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": ""
 }

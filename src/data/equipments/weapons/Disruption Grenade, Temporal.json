@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "—",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (2d10 So staggered; 20 ft.)",

@@ -14,8 +14,8 @@
 	"damageType": [
 		"P"
 	],
-	"critical": "—",
-	"bulk": "—",
+	"critical": "",
+	"bulk": "",
 	"special": [
 		"Conceal"
 	],

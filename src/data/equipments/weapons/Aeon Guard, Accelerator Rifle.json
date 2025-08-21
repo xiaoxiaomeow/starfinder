@@ -17,7 +17,7 @@
 	"critical": "knockdown",
 	"bulk": "2",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "12 mini-rockets"
 }

@@ -17,7 +17,7 @@
 	"critical": "burn 1d6",
 	"bulk": "L",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "20 charges"
 }

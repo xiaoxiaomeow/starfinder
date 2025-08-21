@@ -14,7 +14,7 @@
 	"damageType": [
 		"P"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "3",
 	"special": [
 		"penetrating"

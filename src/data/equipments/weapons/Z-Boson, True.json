@@ -13,9 +13,9 @@
 	"damage": "+3d8 ",
 	"damageType": [],
 	"critical": "push (25 ft.)",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": ""
 }

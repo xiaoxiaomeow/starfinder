@@ -14,7 +14,7 @@
 	"damageType": [
 		"C"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "2",
 	"special": [
 		"powered (capacity 40 usage 2)",

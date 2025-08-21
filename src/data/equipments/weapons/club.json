@@ -6,7 +6,7 @@
 	"description_en": "A club is any sort of blunt, oblong instrument with a haft suitable for gripping. Clubs can be made of stone, wood, or similar materials. Metal clubs exist as well, and they are usually hollow to keep them from being too heavy. Some Free Captains refer to clubs as belaying pins, though those archaic items are not required on starships.",
 	"source": "Starfinder Core Rulebook pg. 171",
 	"level": "0",
-	"price": "—",
+	"price": "",
 	"hands": "1",
 	"proficiency": "Basic Melee",
 	"category": "",
@@ -14,7 +14,7 @@
 	"damageType": [
 		"B"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"Analog",

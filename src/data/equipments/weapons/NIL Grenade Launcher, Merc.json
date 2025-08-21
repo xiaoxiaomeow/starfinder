@@ -12,10 +12,10 @@
 	"category": "",
 	"damage": "by grenade ",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "3",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "12 grenades"
 }

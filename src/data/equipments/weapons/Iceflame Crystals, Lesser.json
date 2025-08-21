@@ -13,7 +13,7 @@
 	"damage": "+6d6 C",
 	"damageType": [],
 	"critical": "frostbite 4d6",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
 		"aurora"
 	],

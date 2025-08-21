@@ -14,7 +14,7 @@
 	"damageType": [
 		"E"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "2",
 	"special": [
 		"Entangle (2d4 rounds)",

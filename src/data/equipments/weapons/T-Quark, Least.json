@@ -12,8 +12,8 @@
 	"category": "",
 	"damage": "+6d6 ",
 	"damageType": [],
-	"critical": "—",
-	"bulk": "—",
+	"critical": "",
+	"bulk": "",
 	"special": [
 		"variant boost 6d6 (5/day)"
 	],

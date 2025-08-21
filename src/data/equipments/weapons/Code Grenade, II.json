@@ -14,7 +14,7 @@
 	"damageType": [
 		"E"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"Explode (12d6 E",

@@ -14,7 +14,7 @@
 	"damageType": [
 		"C"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (4d8 C staggered 1 round; 20 ft.)"

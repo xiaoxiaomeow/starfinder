@@ -13,9 +13,9 @@
 	"damage": "+6d6 F",
 	"damageType": [],
 	"critical": "burn 5d6",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": ""
 }

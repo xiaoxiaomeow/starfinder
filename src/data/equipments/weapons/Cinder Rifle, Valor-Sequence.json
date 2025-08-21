@@ -17,7 +17,7 @@
 	"critical": "burn 2d6",
 	"bulk": "2",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "24 rounds"
 }

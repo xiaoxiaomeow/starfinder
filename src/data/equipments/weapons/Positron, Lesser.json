@@ -13,9 +13,9 @@
 	"damage": "+2d8 F",
 	"damageType": [],
 	"critical": "irradiate",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": ""
 }

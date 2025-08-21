@@ -5,8 +5,8 @@
 	"name_en": "Unarmed Strike",
 	"description_en": "An unarmed strike can be dealt with any limb or appendage. Unarmed strikes deal nonlethal damage, and the damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus to weapon damage rolls.",
 	"source": "Starfinder Core Rulebook pg. 171",
-	"level": "—",
-	"price": "—",
+	"level": "",
+	"price": "",
 	"hands": "1",
 	"proficiency": "Basic Melee",
 	"category": "",
@@ -14,8 +14,8 @@
 	"damageType": [
 		"B"
 	],
-	"critical": "—",
-	"bulk": "—",
+	"critical": "",
+	"bulk": "",
 	"special": [
 		"archaic",
 		"nonlethal"

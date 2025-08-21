@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "—",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"Explode (15 ft. 6d8 HP)"

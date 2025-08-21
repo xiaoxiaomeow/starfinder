@@ -13,7 +13,7 @@
 	"damage": "+3d8 E",
 	"damageType": [],
 	"critical": "staggered",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
 		"Stun"
 	],

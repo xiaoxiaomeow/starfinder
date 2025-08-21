@@ -189,17 +189,17 @@ function htmlToJson() {
 			name_en: name,
 			description_en: description,
 			source: source,
-			level: level,
-			price: price,
-			hands: hands,
-			proficiency: proficiency,
+			level: level.replace("—", ""),
+			price: price.replace("—", ""),
+			hands: hands.replace("—", ""),
+			proficiency: proficiency.replace("—", ""),
 			category: task.category,
 			damage: damage,
 			damageType: damageType,
-			critical: critical,
-			bulk: bulk,
-			special: special,
-			capacity: capacity
+			critical: critical.replace("—", ""),
+			bulk: bulk.replace("—", ""),
+			special: special.map(str => str.replace("—", "")),
+			capacity: capacity.replace("—", "")
 		};
 
 		fs.writeFileSync(targetFile, JSON.stringify(info));
@@ -227,7 +227,5 @@ function deploy() {
 
 }
 
-listToTasks();
-// taskToHtml();
 htmlToJson();
 deploy();

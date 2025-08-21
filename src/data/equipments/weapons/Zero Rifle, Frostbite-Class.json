@@ -17,7 +17,7 @@
 	"critical": "staggered",
 	"bulk": "2",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "100 charges"
 }

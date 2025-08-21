@@ -12,8 +12,8 @@
 	"category": "",
 	"damage": "+4d4 E",
 	"damageType": [],
-	"critical": "—",
-	"bulk": "—",
+	"critical": "",
+	"bulk": "",
 	"special": [
 		"stun"
 	],

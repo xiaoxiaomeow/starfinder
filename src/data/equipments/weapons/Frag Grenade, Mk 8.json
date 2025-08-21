@@ -14,7 +14,7 @@
 	"damageType": [
 		"P"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (16d6 P 15 ft.)"

@@ -12,7 +12,7 @@
 	"category": "Special",
 	"damage": "—",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "1",
 	"special": [
 		"13d8 b & f"

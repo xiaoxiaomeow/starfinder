@@ -14,7 +14,7 @@
 	"damageType": [
 		"S|p"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"Boost 1d4",

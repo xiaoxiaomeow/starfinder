@@ -12,10 +12,10 @@
 	"category": "",
 	"damage": "—",
 	"damageType": [],
-	"critical": "—",
+	"critical": "",
 	"bulk": "1",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "20"
 }

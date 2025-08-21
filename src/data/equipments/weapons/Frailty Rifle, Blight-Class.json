@@ -14,7 +14,7 @@
 	"damageType": [
 		"C"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "2",
 	"special": [
 		"necrotic"

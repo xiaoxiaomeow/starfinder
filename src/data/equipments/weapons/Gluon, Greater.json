@@ -13,9 +13,9 @@
 	"damage": "+6d6 ",
 	"damageType": [],
 	"critical": "severe wound",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": ""
 }

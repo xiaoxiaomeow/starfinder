@@ -12,8 +12,8 @@
 	"category": "",
 	"damage": "+10d4 ",
 	"damageType": [],
-	"critical": "—",
-	"bulk": "—",
+	"critical": "",
+	"bulk": "",
 	"special": [
 		"penetrating"
 	],

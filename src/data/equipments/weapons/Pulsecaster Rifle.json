@@ -14,7 +14,7 @@
 	"damageType": [
 		"E"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "1",
 	"special": [
 		"nonlethal"

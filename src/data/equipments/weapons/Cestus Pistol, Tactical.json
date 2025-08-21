@@ -15,7 +15,7 @@
 		"P"
 	],
 	"critical": "Bleed 1d8",
-	"bulk": "—",
+	"bulk": "",
 	"special": [
 		"Conceal",
 		"punch gun"

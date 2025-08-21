@@ -17,7 +17,7 @@
 	"critical": "corrode 4d6",
 	"bulk": "2",
 	"special": [
-		"—"
+		""
 	],
 	"capacity": "80 charges"
 }

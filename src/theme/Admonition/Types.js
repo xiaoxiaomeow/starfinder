@@ -1,4 +1,3 @@
-import React from 'react';
 import DefaultAdmonitionTypes from '@theme-original/Admonition/Types';
 import Admonition from '@theme/Admonition';
 import { IoLanguageOutline } from "react-icons/io5";
@@ -47,3 +46,4 @@ const AdmonitionTypes = {
 };
 
 export default AdmonitionTypes;
+export { StarfinderAdmonition };

@@ -14,7 +14,7 @@
 	"damageType": [
 		"So"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (7d10 So deafened 1d4 minutes; 30 ft.)"

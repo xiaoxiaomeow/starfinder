@@ -88,17 +88,12 @@
 }
 
 .starfinder {
-	--ifm-alert-background-color: rgb(238, 249, 253);
-	--ifm-alert-background-color-highlight: rgba(84, 199, 236, 0.15);
-	--ifm-alert-foreground-color: rgb(25, 60, 71);
-	--ifm-alert-border-color: rgb(76, 179, 212);
-}
-
-.starfinder {
 	--ifm-alert-background-color: rgb(245, 240, 255);
+	--ifm-alert-background-color-checked: rgb(190, 158, 255);
 	--ifm-alert-background-color-highlight: rgba(138, 92, 224, 0.15);
 	--ifm-alert-foreground-color: rgb(49, 22, 63);
 	--ifm-alert-border-color: rgb(128, 45, 162);
+	--ifm-alert-border-color-light: rgb(187, 92, 225);
 }
 
 td {
@@ -106,5 +101,26 @@ td {
 }
 
 .docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
-  max-width: 100% !important;
+	max-width: 100% !important;
+}
+
+.checkboxButton {
+	border: 2px solid var(--ifm-alert-border-color-light);
+	margin: 1px;
+	border-radius: 8px;
+	background: var(--ifm-alert-background-color);
+}
+
+.checkboxButton:hover {
+	border-color: var(--ifm-alert-border-color);
+}
+
+.checkboxButton.checked {
+	background: var(--ifm-alert-background-color-checked);
+}
+
+.label {
+	font-weight: 500;
+	color: var(--ifm-alert-foreground-color);
+	transition: color 0.3s ease;
 }

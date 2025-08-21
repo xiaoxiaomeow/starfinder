@@ -14,7 +14,7 @@
 	"damageType": [
 		"F"
 	],
-	"critical": "—",
+	"critical": "",
 	"bulk": "L",
 	"special": [
 		"explode (10d6 F burning 5d6; 15 ft.)"
