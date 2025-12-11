@@ -24,18 +24,39 @@ import SearchTable from '@site/src/components/SearchTable.js';
 				"Special": "特殊武器"
 			}},
 			{ key : "category", name : "范畴", translator : {
+				"Cryo": "低温",
+				"Degenerator": "退化",
+				"Dimensional Disruption": "次元干涉",
+				"Disintegrator": "侵蚀",
+				"Flame": "火焰",
+				"Laser": "激光",
+				"Locus": "护卫",
+				"Plasma": "等离子",
+				"Projectile": "投射",
+				"Shock": "电击",
+				"Sonic": "音波",
+				"Special": "特殊"
 			}},
 			{ key : "hands", name : "占用手", isNumber: true },
 			{ key : "level", name : "等级", isNumber: true },
 			{ key : "price", name : "价格", disableFilter: true },
 			{ key : "bulk", name : "负载" },
 			{ key : "damage", name : "伤害", disableFilter: true },
-			{ key : "damageType", name : "伤害类型" },
-			{ key : "critical", name : "重击", disableFilter: true },
-			{ key : "special", name : "特殊" , translator : {
-				"archaic" : "原始"
-			}, keysOverride : [
-				"archaic"
-			], useContains: true}
+			{ key : "damageType", name : "伤害类型", translator : {
+				"A": "酸蚀",
+				"B": "钝击",
+				"C": "寒冷",
+				"E": "电击",
+				"F": "火焰",
+				"P": "穿刺",
+				"S": "挥砍",
+				"SO": "音波"
+			}, isArray: true },
+			// { key : "critical", name : "重击", disableFilter: true },
+			// { key : "special", name : "特殊" , translator : {
+			// 	"archaic" : "原始"
+			// }, keysOverride : [
+			// 	"archaic"
+			// ], isArray: true}
 		]
 	}/>

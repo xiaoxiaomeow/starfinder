@@ -13,7 +13,7 @@
 	"damage": "10d8",
 	"damageType": [
 		"S",
-		"So"
+		"SO"
 	],
 	"critical": "Bleed 4d8",
 	"bulk": "L",

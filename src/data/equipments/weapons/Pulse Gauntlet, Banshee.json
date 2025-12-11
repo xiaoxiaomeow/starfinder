@@ -13,7 +13,7 @@
 	"damage": "5d6",
 	"damageType": [
 		"B",
-		"So"
+		"SO"
 	],
 	"critical": "knockdown",
 	"bulk": "1",

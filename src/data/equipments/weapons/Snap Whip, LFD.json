@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "10d6",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Stunned",
 	"bulk": "1",

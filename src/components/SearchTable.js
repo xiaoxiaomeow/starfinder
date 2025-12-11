@@ -15,19 +15,49 @@ function translateSingleWithNull(value, translator) {
 }
 
 function filterAccordingTo(items, columns, filter) {
+	if (!filter) return items;
 	let filteredItems = items;
 	for (const filterKey in filter) {
 		if (columns.some(column => column.key === filterKey)) {
 			const column = columns.filter(column => column.key === filterKey)[0];
 			const filterItems = filter[filterKey].split(",");
-			if (column.useContains) {
-				filteredItems = filteredItems.filter(item => filterItems.some(filterItem => filterItem.includes(item[filterKey])));
+			if (column.isArray) {
+				filteredItems = filteredItems.filter(item => filterItems.some(filterItem => item[filterKey].includes(filterItem)));
 			}
 			else {
 				filteredItems = filteredItems.filter(item => filterItems.includes(item[filterKey]));
 			}
 		}
 	}
+	console.log(filteredItems);
+	if (filter.sort) {
+		const isNumber = columns.some(column => column.key === filter.sort && column.isNumber);
+		const isArray = columns.some(column => column.key === filter.sort && column.isArray);
+		const comparator = (item1, item2) => {
+			if (isNumber) {
+				let item1Value = parseInt(item1[filter.sort].replace(",", ""));
+				let item2Value = parseInt(item2[filter.sort].replace(",", ""));
+				if (Number.isNaN(item1Value)) item1Value = 0;
+				if (Number.isNaN(item2Value)) item2Value = 0;
+				return item1Value - item2Value;
+			} else if (isArray) {
+				let item1Value = (item1[filter.sort] ?? []).join(", ");
+				let item2Value = (item2[filter.sort] ?? []).join(", ");
+				return item1Value.localeCompare(item2Value);
+			} else {
+				let item1Value = item1[filter.sort] ?? "";
+				let item2Value = item2[filter.sort] ?? "";
+				return item1Value.localeCompare(item2Value);
+			}
+		};
+		if (filter.descending) {
+			filteredItems.sort((item1, item2) => -comparator(item1, item2));
+		}
+		else {
+			filteredItems.sort(comparator);
+		}
+	}
+	console.log(filteredItems);
 	return filteredItems;
 }
 
@@ -54,6 +84,32 @@ function createFilterButton(filter, history, column, columnValue) {
 			onClick={() => onClick()}
 		>
 			<div className="starfinder label">{translateSingleWithNull(columnValue, column.translator)}</div>
+		</button>
+	);
+}
+
+function createSortButton(filter, history, column) {
+	const onClick = function () {
+		const searchParams = new URLSearchParams();
+		for (const filterKey in filter) {
+			if (filterKey != column.key) searchParams.set(filterKey, filter[filterKey]);
+		}
+		if (filter.sort !== column.key) searchParams.set("sort", column.key);
+		else if (!filter.descending) searchParams.set("descending", true);
+		else {
+			delete searchParams.delete("sort");
+			delete searchParams.delete("descending");
+		}
+		history.push({ pathname: location.pathname, search: searchParams.toString() });
+	}
+	return (
+		<button
+			key={column.key}
+			className={filter && filter.sort === column.key ? "starfinder checkboxButton checked" : "starfinder checkboxButton"}
+			role="checkbox"
+			onClick={() => onClick()}
+		>
+			<div className="starfinder label">{column.name}</div>
 		</button>
 	);
 }
@@ -103,6 +159,10 @@ export default function SearchTable({ context, columns }) {
 						<br />
 					</div>
 				))}
+				<div style={{ "display": "flex", "alignItems": "stretch", "flexWrap": "wrap" }}>
+					<b>排序：</b>{columns.filter(column => !column.disableSort).map(column => createSortButton(filter, history, column))}
+					<br />
+				</div>
 			</StarfinderAdmonition>
 			<table>
 				<thead>

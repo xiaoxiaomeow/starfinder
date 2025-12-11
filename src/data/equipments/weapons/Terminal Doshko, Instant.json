@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "7d12",
 	"damageType": [
-		"S|p"
+		"S",
+		"P"
 	],
 	"critical": "Wound",
 	"bulk": "1",

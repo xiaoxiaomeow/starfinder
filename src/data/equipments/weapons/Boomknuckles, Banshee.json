@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "2d10",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Push (10 ft.)",
 	"bulk": "L",

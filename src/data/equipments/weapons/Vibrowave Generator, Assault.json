@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "3d8",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Push (10 ft.)",
 	"bulk": "3",

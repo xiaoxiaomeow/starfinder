@@ -13,7 +13,7 @@
 	"damage": "10d8",
 	"damageType": [
 		"A",
-		"So"
+		"SO"
 	],
 	"critical": "Degeneration 5d6",
 	"bulk": "2",

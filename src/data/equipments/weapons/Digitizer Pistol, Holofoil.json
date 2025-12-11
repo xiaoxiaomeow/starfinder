@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "5d4",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "digitize 2d6",
 	"bulk": "L",

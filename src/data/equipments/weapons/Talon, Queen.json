@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "8d12",
 	"damageType": [
-		"A|s"
+		"A",
+		"S"
 	],
 	"critical": "corrode 4d6",
 	"bulk": "L",

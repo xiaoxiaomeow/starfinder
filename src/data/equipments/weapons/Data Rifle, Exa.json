@@ -12,7 +12,9 @@
 	"category": "",
 	"damage": "5d8",
 	"damageType": [
-		"B|p|s"
+		"B",
+		"P",
+		"S"
 	],
 	"critical": "Knockdown",
 	"bulk": "1",

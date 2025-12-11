@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "3d10",
 	"damageType": [
-		"B|S"
+		"B",
+		"S"
 	],
 	"critical": "Staggered",
 	"bulk": "1",

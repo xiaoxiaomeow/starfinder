@@ -13,7 +13,7 @@
 	"damage": "11d8",
 	"damageType": [
 		"P",
-		"So"
+		"SO"
 	],
 	"critical": "confuse",
 	"bulk": "1",

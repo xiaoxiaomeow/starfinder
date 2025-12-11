@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "8d6",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Nauseate",
 	"bulk": "1",

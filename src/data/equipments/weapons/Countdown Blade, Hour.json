@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "2d4",
 	"damageType": [
-		"S|p"
+		"S",
+		"P"
 	],
 	"critical": "",
 	"bulk": "L",

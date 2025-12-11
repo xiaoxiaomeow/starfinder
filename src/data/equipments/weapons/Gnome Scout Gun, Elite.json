@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "2d6",
 	"damageType": [
-		"F|c"
+		"F",
+		"C"
 	],
 	"critical": "",
 	"bulk": "L",

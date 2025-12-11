@@ -12,7 +12,8 @@
 	"category": "Flame",
 	"damage": "3d10",
 	"damageType": [
-		"F|so"
+		"F",
+		"SO"
 	],
 	"critical": "",
 	"bulk": "L",

@@ -12,7 +12,9 @@
 	"category": "",
 	"damage": "5d4",
 	"damageType": [
-		"B|p|s"
+		"B",
+		"P",
+		"S"
 	],
 	"critical": "",
 	"bulk": "L",

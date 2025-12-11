@@ -12,7 +12,7 @@
 	"category": "",
 	"damage": "5d6",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Nuisance",
 	"bulk": "1",

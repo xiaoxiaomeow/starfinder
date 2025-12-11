@@ -13,7 +13,7 @@
 	"damage": "13d6",
 	"damageType": [
 		"C",
-		"p"
+		"P"
 	],
 	"critical": "injection DC +2",
 	"bulk": "L",

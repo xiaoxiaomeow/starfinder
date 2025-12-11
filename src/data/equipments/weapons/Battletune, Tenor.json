@@ -12,7 +12,8 @@
 	"category": "Sonic",
 	"damage": "2d4",
 	"damageType": [
-		"B|So"
+		"B",
+		"SO"
 	],
 	"critical": "deafen",
 	"bulk": "1",

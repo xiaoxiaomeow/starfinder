@@ -13,7 +13,7 @@
 	"damage": "11d6",
 	"damageType": [
 		"A",
-		"So"
+		"SO"
 	],
 	"critical": "Degeneration 4d6",
 	"bulk": "1",

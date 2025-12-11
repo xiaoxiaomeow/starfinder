@@ -13,7 +13,7 @@
 	"damage": "1d6",
 	"damageType": [
 		"B",
-		"f"
+		"F"
 	],
 	"critical": "burn 1d4",
 	"bulk": "L",

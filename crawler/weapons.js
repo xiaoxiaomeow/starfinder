@@ -168,7 +168,7 @@ function htmlToJson() {
 				damageMatch = damageItem.match(/^\d+d\d+/);
 				if (damageMatch) {
 					damage = damageMatch[0];
-					damageType = damageItem.replace(damage, "").trim().split(/\s*&\s*/);
+					damageType = damageItem.replace(damage, "").trim().toUpperCase().split(/\s*[&|]\s*/);
 				}
 				else {
 					damage = damageItem;

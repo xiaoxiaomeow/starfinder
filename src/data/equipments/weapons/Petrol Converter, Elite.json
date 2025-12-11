@@ -12,7 +12,8 @@
 	"category": "Flame",
 	"damage": "9d6",
 	"damageType": [
-		"F|a"
+		"F",
+		"A"
 	],
 	"critical": "",
 	"bulk": "1",

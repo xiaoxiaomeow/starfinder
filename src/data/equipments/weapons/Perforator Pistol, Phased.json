@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "2d10",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "bleed 2d6",
 	"bulk": "L",

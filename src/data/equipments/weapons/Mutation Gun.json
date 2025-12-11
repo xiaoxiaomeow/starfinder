@@ -13,7 +13,7 @@
 	"damage": "7d10",
 	"damageType": [
 		"A",
-		"So"
+		"SO"
 	],
 	"critical": "Mutation",
 	"bulk": "3",

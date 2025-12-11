@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "3d12",
 	"damageType": [
-		"S|p"
+		"S",
+		"P"
 	],
 	"critical": "Wound",
 	"bulk": "1",

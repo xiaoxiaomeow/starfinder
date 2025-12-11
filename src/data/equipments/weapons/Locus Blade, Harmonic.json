@@ -13,7 +13,7 @@
 	"damage": "5d12",
 	"damageType": [
 		"E",
-		"So"
+		"SO"
 	],
 	"critical": "Leech",
 	"bulk": "L",

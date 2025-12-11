@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "4d6",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "knockdown",
 	"bulk": "1",

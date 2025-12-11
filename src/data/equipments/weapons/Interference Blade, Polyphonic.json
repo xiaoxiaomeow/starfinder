@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "8d10",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "wound",
 	"bulk": "1",

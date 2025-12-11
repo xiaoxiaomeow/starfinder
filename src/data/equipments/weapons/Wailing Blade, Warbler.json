@@ -13,7 +13,7 @@
 	"damage": "6d6",
 	"damageType": [
 		"S",
-		"So"
+		"SO"
 	],
 	"critical": "deafen",
 	"bulk": "L",

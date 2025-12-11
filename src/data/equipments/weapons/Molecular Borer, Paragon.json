@@ -12,7 +12,8 @@
 	"category": "",
 	"damage": "8d10",
 	"damageType": [
-		"C|f"
+		"C",
+		"F"
 	],
 	"critical": "",
 	"bulk": "2",

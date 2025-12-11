@@ -13,7 +13,7 @@
 	"damage": "13d8",
 	"damageType": [
 		"F",
-		"s"
+		"S"
 	],
 	"critical": "wound",
 	"bulk": "1",

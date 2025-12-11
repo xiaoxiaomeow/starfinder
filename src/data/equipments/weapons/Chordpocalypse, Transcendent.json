@@ -12,7 +12,7 @@
 	"category": "Sonic",
 	"damage": "4d8",
 	"damageType": [
-		"So"
+		"SO"
 	],
 	"critical": "Deafen",
 	"bulk": "1",

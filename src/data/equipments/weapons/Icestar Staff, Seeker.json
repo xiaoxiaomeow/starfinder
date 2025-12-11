@@ -12,7 +12,8 @@
 	"category": "Cryo",
 	"damage": "10d6",
 	"damageType": [
-		"C|f"
+		"C",
+		"F"
 	],
 	"critical": "",
 	"bulk": "1",
