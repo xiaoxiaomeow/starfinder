@@ -147,19 +147,6 @@ const config = {
 					extendDefaults: true
 				}
 			}
-		],
-		[
-			'@docusaurus/plugin-content-docs',
-			{
-				id: 'equipments',
-				path: 'equipments',
-				routeBasePath: 'equipments',
-				sidebarPath: require.resolve('./sidebars/sidebar_auto.js'),
-				admonitions: {
-					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'starfinder', 'origin', 'vanilla', 'pencil', 'table', 'progress'],
-					extendDefaults: true
-				}
-			}
 		]
 	],
 
@@ -209,13 +196,6 @@ const config = {
 						label: '技能',
 						position: 'left',
 						docsPluginId: 'skills'
-					},
-					{
-						type: 'docSidebar',
-						sidebarId: 'equipments',
-						label: '装备',
-						position: 'left',
-						docsPluginId: 'equipments'
 					}
 				]
 			},
