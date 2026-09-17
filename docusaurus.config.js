@@ -5,6 +5,8 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
+import path from 'node:path';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -64,6 +66,23 @@ const config = {
 	],
 
 	plugins: [
+		function cleanStaticHtml() {
+			return {
+				name: 'clean-static-html',
+				async postBuild({ outDir }) {
+					// React 18 streaming SSR can insert NULs into Chinese text and heading IDs.
+					// https://github.com/facebook/react/issues/31134
+					const files = await readdir(outDir, { recursive: true });
+					await Promise.all(files.filter(filename => filename.endsWith('.html')).map(async filename => {
+						const filePath = path.join(outDir, filename);
+						const html = await readFile(filePath, 'utf8');
+						if (html.includes('\u0000')) {
+							await writeFile(filePath, html.replace(/\u0000/g, ''), 'utf8');
+						}
+					}));
+				}
+			};
+		},
 		[
 			'@docusaurus/plugin-content-docs',
 			{

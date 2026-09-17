@@ -1,0 +1,71 @@
+---
+sidebar_position: 12
+---
+
+import Link from '@docusaurus/Link';
+
+# 重击效果
+
+:::origin[[英文原文](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=All)]
+:::
+
+若你的攻击掷骰骰面为20，且攻击总值等于或高于目标的AC，此次攻击便是重击。重击意味着你进行两次伤害掷骰（每次掷骰都加入所有通常适用的加值，包括特殊能力提供的额外伤害），然后将两次结果相加，确定造成的伤害。
+
+某些武器具有额外的重击效果，会在你造成重击时生效。这些效果如下。
+
+## [电弧](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Arc)
+
+攻击的能量跃向第二个生物。此次要目标必须位于原目标10尺内，且必须是距离原目标最近的生物（若多个生物距离相同，由你选择）。按武器电弧条目所列的伤害量掷骰，次要目标受到该伤害（不因重击而倍增），伤害类型与武器造成的伤害相同。
+
+## [流血](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Bleed)
+
+目标获得流血状态（见第273页）。
+
+## [燃烧](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Burn)
+
+目标获得燃烧状态（见第273页）。
+
+## [腐蚀](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Corrode)
+
+目标受到所列数值的腐蚀伤害。此效果如同燃烧状态，但造成酸蚀伤害而非火焰伤害。
+
+## [致聋](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Deafen)
+
+目标必须成功通过强韧豁免掷骰，否则陷入耳聋状态（见第275页），持续1d4分钟。
+
+## [注射 DC +2](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Injection+DC++2)
+
+若使用此武器施加某种毒素或毒品，则在重击时施加的该毒素的豁免DC提高2。
+
+## [击倒](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Knockdown)
+
+目标被击倒，陷入倒地状态（见第277页）。
+
+## [严重创伤](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Severe%20Wound)
+
+在[表7-11：创伤武器](#table-7-11)上掷骰两次，并选择你希望采用的结果。目标仍可尝试相应的豁免。
+
+## [恍惚](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Staggered)
+
+目标必须成功通过强韧豁免，否则陷入恍惚状态（见第277页），持续1轮。
+
+## [震慑](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Stunned)
+
+目标陷入震慑状态（见第277页），持续1轮。
+
+## [创伤](https://www.aonsrd.com/WeaponCriticals.aspx?ItemName=Wound)
+
+在[表7-11：创伤武器](#table-7-11)上掷骰。目标必须成功通过所列类型的豁免掷骰（若有），否则承受所列效果。若该生物没有指定部位，则使用“一般部位”的结果。
+
+<Link id="table-7-11" />
+
+:::table[表7-11：创伤武器]
+| d20 | 部位 | 豁免 | 效果 |
+| --- | --- | --- | --- |
+| 1—10 | 一般部位 | — | 流血 1d6 |
+| 11—13 | 眼睛（感官） | 反射 | 失去一只眼睛，[察觉](/skills/perception)承受-2减值 |
+| 14—15 | 腿部（移动） | 强韧 | 肢体被斩断，陆地速度降低10尺 |
+| 16—17 | 手臂（操作） | 反射 | 肢体被斩断，失去一只手 |
+| 18—19 | 要害器官 | 强韧 | 1d4体质伤害 |
+| 20 | 大脑 | 强韧 | [震慑](#震慑) 1轮 |
+:::

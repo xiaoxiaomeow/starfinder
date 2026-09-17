@@ -3,3 +3,7 @@ Your main task is to translate the starfinder core rulebook into Chinese and org
 The source rulebook is at "Starfinder - Core Rulebook.pdf". If you find it easier, you can also use the same text from "https://www.aonsrd.com/" and you may need to produce links to these source websites anyway. 
 
 Some technical terms are already translated into Chinese and one better stick to these translations. These are recorded in "src/pages/translation.mdx". If you need to translate a new term, first have a check at the Starfinder 2r Chinese wiki "https://sf2.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" to see if the term is already translated there. If so, add that translation to the table. If not, find a suitable translation, add it to the table and output it as the response to the prompt. 
+
+For presentation, have a look at the pre-defined styling, e.g. :::table[table_title]. For the original text section providing link to aon, leave it empty and you do not need to include the page number of the rulebook. 
+
+You should never use a tag like "## 低温武器 {#cryo-weapons}", link directly to the Chinese titles instead. 
