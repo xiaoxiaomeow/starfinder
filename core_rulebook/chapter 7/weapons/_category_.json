@@ -1,8 +1,4 @@
 {
-  "label": "武器",
-  "position": 1,
-  "link": {
-    "type": "doc",
-    "id": "chapter 7/weapons/index"
-  }
+	"label": "武器",
+	"position": 1
 }
